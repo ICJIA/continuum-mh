@@ -1,927 +1,187 @@
 ---
-title: 'Courts and Jails'
+title: 'Jail and Courts—Adult Mental Health Court'
 timelineTitle: 'Intercept 3'
-posted: 2019-04-11
-updated: 2019-04-11
-excerpt: 'This intercept involves the jail or court and includes specialty court dockets and jail-based services.'
+posted: 2019-04-23
+updated: 2019-04-23
+excerpt: 'Mental health courts are problem-solving courts that provide alternative sanctions aimed at reducing behaviors that may lead to incarceration.'
 position: 30
 timeline: true
 displayTimelineTitle: true
-color: 'cyan darken-4'
 sidebar: true
 ---
-This intercept involves the jail or court and includes specialty court dockets and jail-based services.
-<details>
-<summary>DRUG COURT</summary>
-
-**Description:**  Drug court probation features
-
- - frequent drug tests;
- - weekly and/or monthly appearances before the drug court judge;
- - meetings with case manager(s);
- - participation in treatment programs deemed appropriate for the individual; and
- - use of graduated sanctions and incentives.[^1]
-
-Drug court participants move through a phase process, ending in the participants' graduation from drug court. Phase progression is generally based on
-
- - time in the program;
- - number of clean/sober days; and
- - cooperation and participation in their individualized drug court program including substance use disorder treatment and other services.[^2]
-
-The 10 key components of drug court can be found [here](http://www.nadcp.org/sites/default/files/nadcp/10%20Key%20Components.pdf).
-
-----------
-**Goals:** 
- - Reduce substance use.
- - Reduce recidivism.
- - Increase treatment retention.
- - Decrease criminal justice costs--reduced victimization and costs related to healthcare, incarceration, and recidivism.
- - Reunite families.[^3]
-
-----------
-**Eligibility:** Eligibility criteria varies by state and jurisdiction, but generally, non-violent offenders charged with drug or drug-related (or drug-driven) offenses are eligible.[^4]  Who refers cases (public defender, private attorney, state’s attorney, or probation officer) varies by state and local jurisdiction. Ideally, eligibility should be based on a clinical and validated tool or validated risk/needs assessment by a trained criminal justice professional for referral to appropriate services. Examples of assessments  facilitated by trained clinicians include: 
-
-* [Addiction Severity Index (ASI)](http://www.tresearch.org/products/assessment-and-evaluation). 
-* [Opioid Risk Tool ](https://www.drugabuse.gov/sites/default/files/files/OpioidRiskTool.pdf) (free).
-* [DAST-10 ](https://cde.drugabuse.gov/instrument/e9053390-ee9c-9140-e040-bb89ad433d69) (free).
-* [NIDA’s Drug Screening Tool](https://www.drugabuse.gov/nmassist/)  (free).[^5] 
-* [Substance Abuse Subtle Screening Inventory (SASSI)](http://pubs.niaaa.nih.gov/publications/AssessingAlcohol/InstrumentPDFs/66_SASSI.pdf). 
-* [Texas Christian University (TCU) Drug Screen II](https://ibr.tcu.edu/forms/tcu-drug-screen/).[^6]  
-
-For professionals in the criminal justice system, a validated risk/needs assessment can help identify if substance use is a high need area for an individual, in which it may be appropriate to refer to a clinician for further assessment. Some of these validated risk/needs assessments include:
-
-* [Level of Service Inventory-Revised: Screening Version (LSI-R:SV)](http://mhs.com/product.aspx?gr=saf&prod=lsi-rs&id=overview).
-* [Level of Service Inventory-Revised (LSI-R)](http://www.mhs.com/product.aspx?gr=saf&id=overview&prod=lsi-r).
-* [Level of Service/Case Management Inventory (LSCMI)](http://www.mhs.com/product.aspx?gr=saf&id=overview&prod=ls-cmi). 
-* [Global Appraisal of Individual Needs (GAIN)](http://gaincc.org/instruments/).[^7]  
-* [Correctional Offender Management Profiling for Alternative Sanctions (COMPAS)](http://www.northpointeinc.com/files/downloads/Risk-Needs-Assessment.pdf). 
-* [Ohio Risk Assessment System (ORAS)](https://cech.uc.edu/centers/ucci/services/trainings/offender_assessment/orastrainingoverview.html)(non-propriety, but costs for training).[^8]     
+Mental health courts are problem-solving courts that provide alternative sanctions aimed at reducing behaviors that may lead to incarceration.[^1] According to the Center for Court Innovation, problem-solving courts feature three core characteristics. They: 
 
+1) Identify and address the underlying cause(s) of criminality for specific groups. 
+2) Collaborate with members of the justice system, as well as members of the community. 
+3) Offer accountability to increase compliance from court participants; ensure service providers offer necessary treatment; and require the court to monitor operations and outcomes.[^2] 
 
-**Research findings:** Drug courts are considered an *effective* practice when implemented with fidelity. Research on drug courts indicates that, compared to those on standard probation, drug court participation
+In mental health courts, individuals with mental health disorders (MHDs) are diverted from jail or prison and receive community-based treatment. Participants are required to comply with court conditions, with adherence monitored by a criminal justice agency and/or a mental health agency.[^3] The first mental health court was established in Broward County, Fla., in 1997[^4] and an estimated 350 mental health courts are now operating in the United States.[^5]
 
- - moderately reduced recidivism depending on drug court implementation; 
- - reduced recidivism—10 to 15 percent,[^9]  lasting three to 14 years;[^10]
- - reduced incarceration rates; 
- - increased time to re-arrest; 
- - decreased frequent re-arrest; and 
- - decreased drug use and positive drug tests.[^11]  
+Jail personnel, defense attorneys, and direct service providers typically make referrals to mental health court upon determination of eligibility via screenings and assessments.[^6] The court proceedings of mental health courts are less adversarial than traditional criminal courts, with a greater focus on participant rehabilitation.[^7] Many mental health courts promote a team approach in which the defense counsel, prosecutors, judges, and mental health service case managers work together to achieve successful participant outcomes.[^8] However, critics argue that the less formal nature of proceedings may be detrimental to the defendant’s constitutional right to due process.[^9]
 
-**Program examples:** According to the [National Association for Drug Court Professionals](http://www.nadcp.org/), as of December 2014, there were 2,734 drug courts, servicing over 136,000 individuals. According to the former llinois Center of Excellence for Behavioral Health and Justice, Illinois has 116 adult drug courts (including hybrid DWI courts), 7 juvenile drug courts, in addition to other types of problem-solving courts. 
+Mental health courts can be offered either pre- or post-adjudication.
 
-**Read more**  
-[Fidelity to the evidence-based drug court model: An examination of Adult Redeploy Illinois programs](http://www.icjia.org/assets/articles/Fidelity%20to%20Drug%20Court%20ARI%20FINAL%2012-8-15.pdf)  
-[National Association of Drug Court Professionals](http://www.nadcp.org/learn/what-are-drug-courts)  
-[National Institute of Justice: Drug courts](https://www.nij.gov/topics/courts/drug-courts/Pages/welcome.aspx)  
-[Center for Court Innovation: Drug courts](http://www.courtinnovation.org/topic/drug-court)  
-[National Drug Court Institute](https://www.ndci.org/)  
-[Drug Court Overview](https://www.ncjrs.gov/pdffiles1/nij/238527.pdf)
-</details>
+- _Pre-adjudication model._ Upon successful completion of a mental health court program, initial charges may be dropped or reduced or the conviction may be vacated.[^10]
+- _Post-adjudication model._ With this program model, the court may require a guilty plea and defer or suspend the sentence.[^11] In addition, participation is a condition of probation.[^12]
 
+Failure to complete mental health court requirements may result in a variety of sanctions (e.g. more intense supervision, incarceration). Requiring a guilty plea in exchange for release from detention may be considered coercive.[^13] There are mixed findings on the association between participants’ perception of coercion and the efficacy of mental health treatment mandated by the criminal justice system, including mental health courts.[^14]
 
-<details>
-	<summary>COGNITIVE AND BEHAVIORAL THERAPIES</summary>
+Individuals with more severe charges and/or lengthy criminal histories may be required to participate in mental health court for a longer duration.[^15] Frequency of contact between the court and participants is often determined by court docket size and court resources.[^16] Mental health court administrators should consider mental health treatment service capacity as they manage court caseloads.[^17]
 
-**Description:** Cognitive and behavioral therapies include those that reinforce and provide incentives for abstinence, enhancing life and coping skills surrounding situations and emotions that may trigger drug use, and help change attitudes and behaviors related to substance use. Some therapies focus more on the behavioral aspect of substance use; some focus more on the cognitive aspect of substance use. Others use both approaches, called cognitive-behavioral therapy.[^12] Cognitive-behavioral therapy (CBT) is a general classification of therapeutic techniques that focus on two aspects: 
+## Goals:
 
- - The thought processes, attitudes, and values underlying antisocial behavior (cognitive).
- - The observable behaviors (behavioral).
+Goals of mental health courts are to:
 
-Ultimately, CBT helps individuals understand how thoughts and feelings influence choices in behavior, in addition to providing behavioral alternatives. In order to help change antisocial behavior, such as substance use, CBT helps individuals identify and replace thoughts, attitudes, and beliefs that lead may to substance use.[^13]    Further, CBT helps individuals by teaching social and emotional skills, while also using positive and negative consequences to shape behavior. This helps provide tools for individuals to use when encountering situations that may lead to substance use or other antisocial behaviors.[^14]   CBT incorporates several distinct interventions that may be used alone or in combination, in an individual or group format. In particular, CBT incorporates some combination of
+-	Reduce contact of individuals with MHDs and the justice system.
+-	Connect individuals with MHDs to mental health treatment services. 
+-	Reduce recidivism of individuals with MHDs.[^18]
 
- - cognitive restructuring;
- - social skill building;
- - emotional regulation skills;
- - modeling and role-playing; 
- - homework assignments;
- - motivational enhancement/interviewing techniques;
- - contingency management principles;
- - psychoeducation; and
- - systematic training of alternative responses to triggers (high-risk situations).[^15]  
+## Eligibility:
 
-Some treatment focuses more on cognitions (considered cognitive therapy), some more on behaviors (considered behavioral therapy), and some provide a balance of both (considered cognitive-behavioral therapy).[^16]   
+Mental health courts target offenders with MHDs, but additional eligibility criteria vary across jurisdictions.[^19]
 
-**Goals:**
+Eligibility criteria for mental health courts may include: 
 
- - Develop and increase use of appropriate social and emotional skills.
- - Understand how thinking leads to behavior.
- - Target maladaptive thinking patterns.
- - Improve moral and critical reasoning.
- - Develop and use interpersonal skills.
- - Manage or cope with risky situations that may lead to relapse.
- - Increase self-control and impulse management. 
- - Increase public safety and community safety.
- - Increase number of individuals in the workforce. 
- - Increase self-efficacy and self-control.[^17]  
+-	History of an MHD or mental health treatment, apparent mental health symptoms while in custody, or formal assessment with a diagnostic screening tool.[^20]
+- Charges of a nonviolent misdemeanor; however, more courts are allowing participation by those who commit felonies or more serious types of crime.[^21]
+-	Voluntary participation in the court.[^22]
 
-----------
-**Eligibility:**  Ideally, eligibility should be based on a validated clinical tool or validated risk/needs assessment conducted by trained professionals. Examples of assessments facilitated by trained clinicians include:
+## Research Evidence:
 
-- [Addiction Severity Index (ASI)](http://www.tresearch.org/products/assessment-and-evaluation). 
- - [Opioid Risk Tool](https://www.drugabuse.gov/sites/default/files/files/OpioidRiskTool.pdf) (free).
- - [DAST -10](https://cde.drugabuse.gov/instrument/e9053390-ee9c-9140-e040-bb89ad433d69) (free).
- - [NIDA’s Drug Screening Tool](https://www.drugabuse.gov/nmassist/) (free).[^18] 
- - [Substance Abuse Subtle Screening Inventory](http://pubs.niaaa.nih.gov/publications/AssessingAlcohol/InstrumentPDFs/66_SASSI.pdf) (SASSI). 
- - [Texas Christian University (TCU) Drug Screen II](https://ibr.tcu.edu/forms/tcu-drug-screen/).[^19]  
+Mental health courts are considered a [promising practice](https://www.crimesolutions.gov/PracticeDetails.aspx?ID=34), with additional rigorous research needed for the concept to be considered evidence-based.[^23] Participation in mental health court may:
 
-For professionals in the criminal justice system, a validated risk/needs assessment can help identify if substance use is a high need area for an individual, in which it may be appropriate to refer to a clinician for further assessment. Some of these validated risk/needs assessments include:
+-	**Reduce recidivism.**[^24] Individual studies have found mental health court participants:
+	- Have fewer rearrests than those who receive “treatment as usual.”[^25]
+	- Spend more time in the community before receiving any new charges.[^26]
+	- Spend fewer days in jail than the control groups.[^27]
+	-	Have a reduced risk of perpetrating violence in the year after participation.[^28]
+-	**Increase access to mental health treatment.** Research has found mental health court participants have:
+	- Increased engagement with mental health treatment services.[^29]
+	-	Fewer uses of crisis or emergency services, or costlier in-patient treatment services than a comparison group.[^30]
+	-	Decreased symptoms of psychological distress.[^31]
 
- - [Level of Service Inventory-Revised: Screening Version (LSI-R:SV)](http://mhs.com/product.aspx?gr=saf&prod=lsi-rs&id=overview).
- - [Level of Service Inventory-Revised (LSI-R)](http://www.mhs.com/product.aspx?gr=saf&id=overview&prod=lsi-r).
- - [Level of Service/Case Management Inventory (LSCMI)](http://www.mhs.com/product.aspx?gr=saf&id=overview&prod=ls-cmi). 
- - [Global Appraisal of Individual Needs (GAIN)](http://gaincc.org/instruments/).[^20]  
- - [Correctional Offender Management Profiling for Alternative Sanctions (COMPAS)](http://www.northpointeinc.com/files/downloads/Risk-Needs-Assessment.pdf). 
- - [Ohio Risk Assessment System (ORAS)](https://cech.uc.edu/centers/ucci/services/trainings/offender_assessment/orastrainingoverview.html) (non-propriety, but costs for training).[^21]     
-
-
-----------
-**Program Examples:**
-The programs below have substantial and rigorous research identifying them as ***effective*** intervention programs when implemented with fidelity. This is not a comprehensive list.
+However, there are mixed findings on the results of the increased access to mental health treatment through mental health court participation. Some studies have found that mental health court participation is not associated with a reduction in clinical mental health symptoms;[^32] this may be due to the quality of treatment services received, which is often beyond the control of the mental health court.[^33] Further, a multi-site study of mental health courts did not find a significant relationship between receipt of treatment services and subsequent rearrests.[^34]
 
-**[Relapse Prevention (RP)](http://pubs.niaaa.nih.gov/publications/arh23-2/151-160.pdf)** is a CBT-based program that specifically and systematically trains individuals to engage in alternate responses to high-risk situations related to substance use.[^22]   RP incorporates the use of cognitive and behavioral strategies to reduce relapse through identification of “triggers”— individually specific high-risk situations that may precede or contribute to relapse.[^23]  Additional aspects of RP include
+A significant amount of research is available on process outcomes and administration of mental health courts. Researchers reported an average mental health court graduation rate of 52 percent.[^35] Factors found to be associated with a failure to complete a mental health court program include:
 
- - enhancing self-efficacy;
- - managing relapses;
- - identifying and coping with high-risk situations;
- - eliminating myths and placebo effects (countering misperceptions of use); and
- - balancing and modifying lifestyle factors.[^24] 
+-	Prior criminal behavior. 
+-	Multiple diagnoses. 
+-	Co-occurring substance use disorders.[^36]
 
-**[Contingency management (CM)](http://pubs.niaaa.nih.gov/publications/arh23-2/122-127.pdf)** is an incentive-based intervention with a behavioral focus that uses reinforcements to meet specific behavioral goals such as remaining clean and sober, providing negative urine screens, or completing treatment sessions.[^25]  Reinforcements shape or control behavior through consequences and non-drug-related reinforcers to help counter the reinforcing effects of drugs.[^26]  Two common types of CM programs:
+Conversely, factors that were associated with greater likelihood of court program completion included being prescribed psychiatric medication and receiving disability benefits.[^37] Consistent findings on the impact of race and gender on mental health court completion are not available.[^38]
 
-* *Voucher-Based Reinforcement Therapy (VBRT)* which uses vouchers with differing monetary values each time an individual engages in specific positive behaviors that may be exchanged for goods or services.[^27]     
-* *Prize-Based (PB) contingency management* which uses a drawing for a prize when an individual engages in positive behavior, but not all drawings will result in a tangible prize.[^28]   
+There are mixed findings regarding the costs and savings associated with mental health courts. The [Washington State Institute for Public Policy](http://www.wsipp.wa.gov/BenefitCost/Program/52) found mental health courts were associated with $5.62 in benefits for every dollar spent per participant and a 96 percent chance the benefits will exceed the costs of the program.[^39] In contrast, a quasi-experimental multi-site study found mental health courts were costlier per participant than standard criminal justice processing of a matched comparison group of individuals who received mental health services in jail.[^40] During court participation, there were slight savings in criminal justice costs for mental health court participants; however, three years after court participation, the increased cost of treatment eclipsed any funds saved.[^41] Still other research demonstrated mental health courts offered cost savings after 18 months[^42] and 24 months.[^43] 
 
+When surveyed, 91 percent of participants in two mental health courts reported participation to be beneficial.[^44] Researchers found that participants in mental health courts reported low levels of perceived coercion and felt high levels of respect, fairness, and freedom to express opinions, compared to individuals with mental health disorders in standard criminal justice processing.[^45] An increased perception of procedural justice was associated with a decrease in symptoms during participation in the court.[^46] However, one study found 27 percent of participants had clinically significant impairments which may call into question their legal competence or ability to fully comprehend the court’s processes and requirements.[^47]
 
-----------
-**Research findings.** Cognitive-behavioral therapies are effective types of treatment that generally have a moderate effect on reducing
+## Examples in the Field:
 
- - substance use; 
- - substance abuse; and
- - reoffending.[^29]  
+[Broward County Mental Health Court](http://www.17th.flcourts.org/11-mental-health-county-court/): Broward County, Fla.
 
-Further, research indicates that CBT and behavioral intervention programs can be more effective than
+[Felony and Misdemeanor Jail Diversion Courts](https://www.dallasbar.org/book-page/dallas-county-innovative-approach-dealing-mental-illness): Dallas County, Texas
 
- - abstinence-based approaches;
- - standard case management; and
- - 12-step counseling.[^30] 
+[San Francisco Behavioral Health Court ](https://www.sfsuperiorcourt.org/divisions/collaborative/behavioral): San Francisco, Calif.
 
-Research also suggests that behavioral therapies with CM can result in more positive outcomes than behavioral interventions alone.[^31]  
+## Additional Resources:
 
-In a meta-analysis, CBT showed a 26 percent reduction in recidivism for CBT program participants compared to a control group.[^32]  Further, CBT-based programs are effective with a variety of individuals, including those with SUDs or substance abuse/misuse.[^33]  
+[Improving Responses to People with Mental Illnesses: The Essential Elements of a Mental Health Court](https://csgjusticecenter.org/wp-content/uploads/2012/12/mhc-essential-elements.pdf) – Bureau of Justice Assistance & Council of State Governments Justice Center
 
-Behavioral (including CBT) programs or interventions produce the greatest effects when they adhere to the following principles:
+[^1]: Hughes, E., & Reichert, J. (2017). _An overview of problem-solving courts and implications for practice._ Chicago, IL: Illinois Criminal Justice Information Authority.
 
- - Target those at *higher-risk to recidivate* (moderate- and high-risk) based on a validated risk/needs assessment.
- - Target *criminogenic risk factors* most highly associated with recidivism based on a validated risk/needs assessment.
- - Are *responsive* to individual needs and barriers (i.e. language, mental health, intellectual or cognitive disabilities).
- - Use *well-trained* professionals.
- - Maintain *adherence to the program or practice components* (fidelity, or using a program or practice as it is meant to be delivered based on training).[^34] 
+[^2]: Porter, R., Rempel, M., & Mansky, A. (2010). _What makes a court problem-solving? Universal performance indicators for problem-solving justice._ New York, NY: Center for Court Innovation.
 
+[^3]: Thompson, M., Osher, F., & Tomasini-Joshi, D. (2008). _Improving responses to people with mental illnesses: The essential elements of a mental health court._ New York: Council of State Governments Justice Center Criminal Justice/Mental Health Consensus Project. Retrieved from https://csgjusticecenter.org/wp-content/uploads/2012/12/mhc-essential-elements.pdf
 
-----------
-**Other *Effective* and *Promising* Cognitive and/or Behavioral Interventions**
+[^4]: Callahan, L., Steadman, H. J., Tillman, S., & Vesselinov, R. (2013). A multi-site study of the use of sanctions and incentives in mental health courts. _Law and Human Behavior, 37_(1), 1.
 
-[Thinking for a Change](https://nicic.gov/thinking-for-a-change)  
-[Moral Reconation Therapy (MRT)](http://www.moral-reconation-therapy.com/) [Dialectical Behavior Therapy (DBT)](https://www.improvingmipractices.org/practice-areas/cognitive-behavior-therapy/dialectical-behavior-therapy)
-[Motivational Enhancement Therapy (MET)](https://www.drugabuse.gov/publications/principles-drug-addiction-treatment-research-based-guide-third-edition/evidence-based-approaches-to-drug-addiction-treatment/behavioral-2)
-[Motivational Interviewing (MI)](https://www.crimesolutions.gov/PracticeDetails.aspx?ID=31) 
-[Contingency Management programs (CM)](https://www.crimesolutions.gov/PracticeDetails.aspx?ID=72)  
-[Trauma-informed](http://www.samhsa.gov/nctic/trauma-interventions)  substance use disorder treatment such as: [TARGET](https://www.crimesolutions.gov/ProgramDetails.aspx?ID=145), [Seeking Safety](http://www.treatment-innovations.org/seeking-safety.html), and [TAMAR](https://www.nasmhpd.org/content/trauma-addictions-mental-health-and-recovery-tamar-treatment-manual-and-modules)  
-[Matrix Model](https://www.drugabuse.gov/publications/principles-drug-addiction-treatment-research-based-guide-third-edition/evidence-based-approaches-to-drug-addiction-treatment/behavioral-3)   
-[Multisystemic Therapy-Substance Abuse](http://mstservices.com/target-populations/substance-abuse)  
-[Voucher-Based Reinforcement (VBR) and Prize-Based (PB) CM](https://www.crimesolutions.gov/ProgramDetails.aspx?ID=103)  
-[Adolescent Community Reinforcement Approach (A-CRA)/Assertive Continuing Care (ACC)](https://www.crimesolutions.gov/ProgramDetails.aspx?ID=137)  
-[Behavioral Couples Therapy](https://www.crimesolutions.gov/ProgramDetails.aspx?ID=86)  
-[Aggression Replacement Training (ART)](http://www.aggressionreplacementtraining.com/)  
-[Cognitive Interventions Program](http://nicic.gov/wodp/program/215-cognitive-interventions-program-cgip)   
-[Reasoning and Rehabilitation](http://www.cognitivecentre.ca/RRProgram)
+[^5]: Steadman, H. J., Callahan, L., Robbins, P. C., Vesselinov, R., McGuire, T. G., & Morrissey, J. P. (2014). Criminal justice and behavioral health care costs of mental health court participants: A six-year study. _Psychiatric Services, 65_(9), 1100-1104.
 
+[^6]: Steadman, H. J., Redlich, A., Callahan, L., Robbins, P. C., & Vesselinov, R. (2011). Effect of mental health courts on arrests and jail days: A multisite study. _Archives of General Psychiatry, 68_(2), 167-172.
 
-----------
-**Read More**
+[^7]: Liu, S. & Redlich, A. D. (2015). Intercept 3: Jails and courts. In P.A. Griffin, K. Heilbrun, E.P. Mulvey, D. DeMatteo, & C.A. Schubert (Eds.). _The sequential intercept model and criminal justice: Promoting community alternatives for individuals with serious mental illness_ (pp. 78-94). USA: Oxford University Press.
 
-[Risk-Need-Responsivity Model for offender assessment and rehabilitation](https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/rsk-nd-rspnsvty/index-eng.aspx)  
-	
-[Integrating substance abuse treatment and criminal justice supervision](https://www.researchgate.net/publication/5303628_Integrating_Substance_Abuse_Treatment_and_Criminal_Justice_Supervision)  
-	
-[National Commission on Correctional Health Care](http://www.ncchc.org/substance-use-disorder-treatment-position-statement)
-	
-[Addressing Opioid Use through the Criminal Justice System](https://www.vera.org/publication_downloads/new-normal-opioid-use-criminal-justice-system/new-normal-opioid-use-criminal-justice-system.pdf)
-	
-For more information on validated and reliable substance use assessment tools and risk/need tools:
+[^8]: Steadman, H. J., Davidson, S., & Brown, C. (2001). Mental health courts: Their promise and unanswered questions. _Psychiatric Services, 52_(4), 457-458.
 
-[Center for Sentencing Initiatives Assessment Appendix](http://www.ncsc.org/~/media/Files/PDF/Services%20and%20Experts/Areas%20of%20expertise/Sentencing%20Probation/RAN%20Appendix%20A.ashx)  
-	
-[Risk and Needs Assessment in the Criminal Justice System](https://fas.org/sgp/crs/misc/R44087.pdf)  
-	
-[TCU Institute of Behavioral Research](https://ibr.tcu.edu/forms/tcu-drug-screen/)
+[^9]: Note: The lack of procedural safeguards and the team approach of mental health courts may compromise the adversarial system employed in traditional courts, where defense and prosecution each make their case before an impartial judge. For more see Miller & Perelman (2009).
+Miller, S. L., & Perelman, A. M. (2009). Mental health courts: An overview and redefinition of tasks and goals. _Law & Psychology Review, 33_, 113.
 
-</details>
-----------
-<details>
-	<summary>PHARMACOLOGICAL METHODS: MEDICATION-ASSISTED TREATMENT (MAT)</summary>
+[^10]: Liu, S. & Redlich, A. D. (2015). Intercept 3: Jails and courts. In P.A. Griffin, K. Heilbrun, E.P. Mulvey, D. DeMatteo, & C.A. Schubert (Eds.). _The sequential intercept model and criminal justice: Promoting community alternatives for individuals with serious mental illness_ (pp. 78-94). USA: Oxford University Press.
 
-**Description:**   [Medication-Assisted Treatment (MAT) programs](http://www.samhsa.gov/medication-assisted-treatment/treatment) incorporate the use of medicine to treat opioid or alcohol use disorders, in conjunction with behavioral therapies or counseling to treat individuals with SUDs.[^35]  With regard to opioids, the use of medication alone is called opioid replacement therapy (ORT), which alone, can also be effective to treat opioid use disorders (OUDs).[^36] MAT programs help with treatment retention and abstinence by decreasing withdrawal symptoms and cravings; increasing quality of life; reducing risk of HIV and hepatitis C; reducing risky behaviors associated with substance use; as well as decreasing risk for overdose.[^37]   MAT programs can be in the community [healthcare office, methadone maintenance clinic, primary care physicians’ office, certified opioid treatment programs (OTPs)] or [correctional settings](http://nicic.gov/topics/5288-medication-assisted-treatment-mat-in-corrections).[^38]  Each type of medication for MAT is Food and Drug Administration (FDA) approved and is most effective when coupled with other counseling or therapy and/or support services for SUDs; however, research also suggests benefits from medication alone without counseling.[^39]
+[^11]: Griffin, P. A., Steadman, H. J., & Petrila, J. (2002). The use of criminal charges and sanctions in mental health courts. _Psychiatric Services, 53_(10), 1285-1289.
 
-***Medications to treat Opioid Use Disorders (OUDs)***  
-**[Buprenporphine](http://www.samhsa.gov/medication-assisted-treatment/treatment/buprenorphine)** offers a partial opioid agonist, producing similar, but lessened, effects of opiates. To increase the safety of buprenorphine and decrease the likelihood of diversion or misuse, naloxone—an opioid receptor blocker—is added to the medication.[^40]  Medications include, but are not limited to
+[^12]: Worwood, E.B., Sarver, C., Borgia, A. D., & Butters, R. P. (2015). _Statewide evaluation of Utah mental health courts: Phase I report._ Salt Lake City, Utah: Utah Criminal Justice Center, University of Utah. Retrieved from https://socialwork.utah.edu/_documents/Statewide-UT-MHC-Study_Part-1-Report.pdf
 
- - Bunavail® (buccal film);
- - Suboxone® (film);
- - Zubsolv® (sublingual tablets);
- - Subutex® (transmucosal); 
- - Buprenex® (intramuscular or intravenous; 
- - Butrans® (transdermal patch); and
- - Probuphine® (implant).[^41]   
+[^13]: Redlich, A. D., Hoover, S., Summers, A., & Steadman, H. J. (2010). Enrollment in mental health courts: Voluntariness, knowingness, and adjudicative competence. _Law and Human Behavior, 34_(2), 91-104.
 
-Medication is prescribed and administered by a physician, nurse practitioner, or physician's assistent trained by the Drug Enforcement Agency (DEA) and given a special license and waiver by Substance Abuse and Mental Health Services Administration (SAMHSA). The medication can be administered in an office, hospital, health department, or correctional facility.[^42]  Physicians can prescribe only to a limited number of patients—275—per the Federal Registrar, U.S. Department of Health and Human Services, under section 303(g)(2) of the Controlled Substances Act (CSS).[^43]  
+[^14]: Lidz, C. W. (1998). Coercion in psychiatric care: What have we learned from research?. _Journal of the American Academy of Psychiatry and the Law Online, 26_(4), 631-637.; Newton-Howes, G., & Mullen, R. (2011). Coercion in psychiatric care: Systematic review of correlates and themes. _Psychiatric Services, 62_(5), 465-470.; Kisely, S. R., Campbell, L. A., & Preston, N. J. (2005). Compulsory community and involuntary outpatient treatment for people with severe mental disorders. _Cochrane Database of Systematic Reviews, (3_ Article No: CD004408), 1-25.; Poythress, N. G., Petrila, J., McGaha, A., & Boothroyd, R. (2002). Perceived coercion and procedural justice in the Broward mental health court. _International Journal of Law and Psychiatry, 25_(5), 517-533.
 
-[**Methadone**](http://www.samhsa.gov/medication-assisted-treatment/treatment/methadone) uses a synthetic opioid agonist taken in pill, liquid, or water form once a day. An opioid agonist tricks the brain and body as if it were taking opiates, without adverse side effects in order to reduce physiological cravings and withdrawal symptoms.  First administered and monitored by a physician, it then can be obtained through an [opioid treatment program (OTP)](http://www.samhsa.gov/medication-assisted-treatment/opioid-treatment-programs) certified by the SAMHSA.[^44]  Methadone can be addictive, so it must be taken as prescribed to prevent adverse effects.[^45] 
+[^15]: Redlich, A. D., Hoover, S., Summers, A., & Steadman, H. J. (2010). Enrollment in mental health courts: Voluntariness, knowingness, and adjudicative competence. _Law and Human Behavior, 34_(2), 91-104.
 
-[**Naltrexone**](http://www.samhsa.gov/medication-assisted-treatment/treatment/naltrexone) is an opioid antagonist, blocking receptors in the brain from responding to opioids (or alcohol) and comes in pill (ReVia®, Depade®) or extended-release injectable (Vivitrol®) forms.[^46]  Any healthcare professional that is licensed to prescribe medications can prescribe naltrexone, without additional training.[^47]  
+[^16]: Note: The authors found that status review hearing frequency was a result of limitations on court resources, as opposed to an optimal standard for frequency of meetings. For more see Griffin et al. (2002).
+Griffin, P. A., Steadman, H. J., & Petrila, J. (2002). The use of criminal charges and sanctions in mental health courts. _Psychiatric Services, 53_(10), 1285-1289.
 
-However, research on the use of naltrexone for OUDs is more limited than methadone and buprenorphine, particularly regarding rigorous, generalizable, long-term evaluations. While promising, more research is needed as to long-term outcomes.[^48] 
+[^17]: Steadman, H. J., Davidson, S., & Brown, C. (2001). Mental health courts: Their promise and unanswered questions. _Psychiatric Services, 52_(4), 457-458.
 
-***Medications to treat Alcohol Use Disorders (AUDs)***
+[^18]: Casey, P. M., & Rottman, D. B. (2005). Problem-solving courts: Models and trends. _Justice System Journal, 26_(1), 35-56.
 
-In addition [**Naltrexone**](http://www.samhsa.gov/medication-assisted-treatment/treatment/naltrexone) can be used for AUDs, as it mediates or blocks the opioid activity within the brain related to alcohol use (see description above in OUDs).
+[^19]: Worwood, E.B., Sarver, C., Borgia, A. D., & Butters, R. P. (2015). _Statewide evaluation of Utah mental health courts: Phase I report._ Salt Lake City, Utah: Utah Criminal Justice Center, University of Utah. Retrieved from https://socialwork.utah.edu/_documents/Statewide-UT-MHC-Study_Part-1-Report.pdf
 
-**[Disulfiram](https://www.ncbi.nlm.nih.gov/books/NBK64036/)** is an alcohol abuse deterrent prescription medication taken daily in tablet form (Antabuse). When combined with alcohol, it causes severe physical reactions (i.e. heart palpitations, nausea, vomiting, dizziness, flushing). It is only effective if the individual is compliant with taking the medication.[^49]
+[^20]: Poythress, N. G., Petrila, J., McGaha, A., & Boothroyd, R. (2002). Perceived coercion and procedural justice in the Broward mental health court. _International Journal of Law and Psychiatry, 25_(5), 517-533.
 
-**[Acamprosate](https://store.samhsa.gov/shin/content/MS974/MS974.pdf)** is a prescription drug taken orally (Campral®) that helps reduce cravings and withdrawal symptoms by normalizing alcohol-related neurochemical changes in the brain.[^50]  It targets neurochemical systems that may be biological factors of alcohol dependence.[^51]  
+[^21]: Griffin, P. A., Steadman, H. J., & Petrila, J. (2002). The use of criminal charges and sanctions in mental health courts. _Psychiatric Services, 53_(10), 1285-1289.; Redlich, A. D., Steadman, H. J., Monahan, J., Petrila, J., & Griffin, P. A. (2005). The second generation of mental health courts. _Psychology, Public Policy, and Law, 11_(4), 527.
 
+[^22]: Liu, S. & Redlich, A. D. (2015). Intercept 3: Jails and courts. In P. A. Griffin, K. Heilbrun, E. P. Mulvey, D. DeMatteo, & C. A. Schubert (Eds.). _The sequential intercept model and criminal justice: Promoting community alternatives for individuals with serious mental illness_ (pp. 78-94). USA: Oxford University Press.
 
-----------
-**Goals:**
+[^23]: Liu, S. & Redlich, A. D. (2015). Intercept 3: Jails and courts. In P. A. Griffin, K. Heilbrun, E. P. Mulvey, D. DeMatteo, & C. A. Schubert (Eds.). _The sequential intercept model and criminal justice: Promoting community alternatives for individuals with serious mental illness_ (pp. 78-94). USA: Oxford University Press.; Office of Justice Programs. (n.d.) _Adult mental health courts._ Retrieved from https://www.crimesolutions.gov/PracticeDetails.aspx?ID=34
 
- - Reduce cravings and withdrawal symptoms related to substance use.
- - Reduce risk for overdose.
- - Reduce substance use and relapse. 
- - Increase treatment retention.
- - Decrease illegal activity.
- - Increase positive outcomes related to health (HIV, Hepatitis C).
- - Increase abstinence rates.[^52] 
- - Improve patient survival.[^53] 
+[^24]: Sarteschi, C. M., Vaughn, M. G., & Kim, K. (2011). Assessing the effectiveness of mental health courts: A quantitative review. _Journal of Criminal Justice, 39_(1), 12-20.; Honegger, L. N. (2015). Does the evidence support the case for mental health courts? A review of the literature. _Law and Human Behavior, 39_(5), 478.
 
+[^25]: Dirks-Linhorst, P. A., & Linhorst, D. M. (2012). Recidivism outcomes for suburban mental health court defendants. _American Journal of Criminal Justice, 37_(1), 76-91.; Moore, M. E., & Hiday, V. A. (2006). Mental health court outcomes: A comparison of re-arrest and re-arrest severity between mental health court and traditional court participants. _Law and Human Behavior, 30_(6), 659-674.; Steadman, H. J., Redlich, A., Callahan, L., Robbins, P. C., & Vesselinov, R. (2011). Effect of mental health courts on arrests and jail days: A multisite study. _Archives of General Psychiatry, 68_(2), 167-172.; Trupin, E., & Richards, H. (2003). Seattle's mental health courts: Early indicators of effectiveness. _International Journal of Law and Psychiatry, 26_(1), 33-53.
 
-----------
-**Eligibility:** Individuals with opioid or alcohol use disorders may be eligible for MAT programs. Individuals should be assessed with a clinical and validated substance abuse tool that includes assessment of medical, psychiatric, and substance use history; an evaluation of family and psychosocial supports; assessment of the state’s prescription drug monitoring program for detection of unreported use of other medications; a physical exam, and testing for recent opioid use and/or other drugs.[^54]  Some examples of assessments using self-report answers facilitated by trained clinicians include:
+[^26]: McNiel, D. E., & Binder, R. L. (2007). Effectiveness of a mental health court in reducing criminal recidivism and violence. _American Journal of Psychiatry, 164_(9), 1395-1403.
 
- - [Addiction Severity Index (ASI)](http://www.tresearch.org/products/assessment-and-evaluation). 
- - [Opioid Risk Tool](https://www.drugabuse.gov/sites/default/files/files/OpioidRiskTool.pdf) (free).
- - [DAST -10](https://cde.drugabuse.gov/instrument/e9053390-ee9c-9140-e040-bb89ad433d69) (free).
- - [NIDA’s Drug Screening Tool](https://www.drugabuse.gov/nmassist/) (free).[^55] 
- - [Substance Abuse Subtle Screening Inventory](http://pubs.niaaa.nih.gov/publications/AssessingAlcohol/InstrumentPDFs/66_SASSI.pdf) (SASSI). 
- - [Texas Christian University (TCU) Drug Screen II](https://ibr.tcu.edu/forms/tcu-drug-screen/).[^56]  
+[^27]: Christy, A., Poythress, N. G., Boothroyd, R. A., Petrila, J., & Mehra, S. (2005). Evaluating the efficiency and community safety goals of the Broward County mental health court. _Behavioral Sciences & the Law, 23_(2), 227-243.; Frailing, K. (2010). How mental health courts function: Outcomes and observations. _International Journal of Law and Psychiatry, 33_(4), 207-213.
 
-For professionals in the criminal justice system, a validated risk/needs assessment can help identify if substance use is a high need area for an individual, in which it may be appropriate to refer to a clinician for further assessment. Some of these validated risk/needs assessments include:
+[^28]: McNiel, D. E., Sadeh, N., Delucchi, K. L., & Binder, R. L. (2015). Prospective study of violence risk reduction by a mental health court. _Psychiatric Services, 66_(6), 598-603.
 
- - [Level of Service Inventory-Revised: Screening Version (LSI-R:SV)](http://mhs.com/product.aspx?gr=saf&prod=lsi-rs&id=overview).
- - [Level of Service Inventory-Revised (LSI-R)](http://www.mhs.com/product.aspx?gr=saf&id=overview&prod=lsi-r).
- - [Level of Service/Case Management Inventory (LSCMI)](http://www.mhs.com/product.aspx?gr=saf&id=overview&prod=ls-cmi). 
- - [Global Appraisal of Individual Needs (GAIN)](http://gaincc.org/instruments/).[^57]  
- - [Correctional Offender Management Profiling for Alternative Sanctions (COMPAS)](http://www.northpointeinc.com/files/downloads/Risk-Needs-Assessment.pdf). 
- - [Ohio Risk Assessment System (ORAS)](https://cech.uc.edu/centers/ucci/services/trainings/offender_assessment/orastrainingoverview.html).[^58]     
+[^29]: Keator, K. J., Callahan, L., Steadman, H. J., & Vesselinov, R. (2013). The impact of treatment on the public safety outcomes of mental health court participants. _American Behavioral Scientist, 57_(2), 231-243.
 
-In a medical setting, [physicians can ask patients](http://www.integration.samhsa.gov/clinical-practice/mat/RAND_MAT_guidebook_for_health_centers.pdf) about compulsive drug or alcohol use or loss of control over drinking or drug use during the past year.[^59]  It is also important to consider insurance coverage related to MAT programs (specifically, for the medications) for funding purposes, or other outside funding sources including low-cost drug programs, to help supplement those who may not be covered. 
+[^30]: Boothroyd, R. A., Poythress, N. G., McGaha, A., & Petrila, J. (2003). The Broward mental health court: Process, outcomes, and service utilization. _International Journal of Law and Psychiatry, 26_(1), 55-71.
 
+[^31]: Note: This was measured using the BASIS-32 self-report scale.
+Cosden, M., Ellens, J., Schnell, J., & Yamini‐Diouf, Y. (2005). Efficacy of a mental health treatment court with assertive community treatment. _Behavioral Sciences & the Law, 23_(2), 199-214.
 
-----------
-**Research on medications to treat OUDs**
+[^32]: Cross, B. (2011). _Mental Health Courts Effectiveness in Reducing Recidivism and Improving Clinical Outcomes: A Meta-Analysis._ University of South Florida, Graduate School Theses and Dissertations.
+http://scholarcommons.usf.edu/cgi/viewcontent.cgi?article=4247&context=etd 
 
-[Methadone](https://www.crimesolutions.gov/ProgramDetails.aspx?ID=158) can
+[^33]: Boothroyd, R. A., Mercado, C. C., Poythress, N. G., Christy, A., & Petrila, J. (2005). Clinical outcomes of defendants in mental health court. _Psychiatric Services, 56_(7), 829-834.;
 
- - decrease heroin and other opioid use; 
- - decrease use of injection;
- - decrease in crime/criminal behavior;  
- - improve social functioning and physical symptoms;[^60]  and
- - improve maternal and fetal outcomes for women who are pregnant or breastfeeding.[^61]
+[^34]: Keator, K. J., Callahan, L., Steadman, H. J., & Vesselinov, R. (2013). The impact of treatment on the public safety outcomes of mental health court participants. _American Behavioral Scientist, 57_(2), 231-243.
 
+[^35]: Hiday, V. A., Ray, B., & Wales, H. W. (2014). Predictors of mental health court graduation. _Psychology, Public Policy, and Law, 20_(2), 191.; Redlich, A. D., Steadman, H. J., Callahan, L., Robbins, P. C., Vessilinov, R., & Özdoğru, A. A. (2010). The use of mental health court appearances in supervision. _International Journal of Law and Psychiatry, 33_(4), 272-277.
 
-[Buprenorphine](https://www.crimesolutions.gov/ProgramDetails.aspx?ID=170) can
+[^36]: Burns, P. J., Hiday, V. A., & Ray, B. (2013). Effectiveness 2 years postexit of a recently established mental health court. _American Behavioral Scientist, 57_(2), 189-208.; Ray, B., & Dollar, C. B. (2013). Examining mental health court completion: A focal concerns perspective. _The Sociological Quarterly, 54_(4), 647-669.; Dirks-Linhorst, P. A., Kondrat, D., Linhorst, D. M., & Morani, N. (2013). Factors associated with mental health court nonparticipation and negative termination. _Justice Quarterly, 30_(4), 681-710.; Worwood, E.B., Sarver, C., Borgia, A. D., & Butters, R. P. (2015). _Statewide evaluation of Utah mental health courts: Phase I report._ Salt Lake City, Utah: Utah Criminal Justice Center, University of Utah. Retrieved from https://socialwork.utah.edu/_documents/Statewide-UT-MHC-Study_Part-1-Report.pdf
 
- - significantly decrease in opioid use;
- - increase in overall well-being and social functioning;
- - reduce potential to contract HIV or hepatitis B or C;
- - decrease mortality;[^62] and 
- - decrease cravings and withdrawal symptoms.[^63]  
+[^37]: Sarteschi, C. M., & Vaughn, M. G. (2013). Recent developments in mental health courts: What have we learned?. _Journal of Forensic Social Work, 3_(1), 34-55.
 
-Naltrexone (extended-release injectable) for OUDs can
+[^38]: Hiday, V. A., Ray, B., & Wales, H. W. (2014). Predictors of mental health court graduation. _Psychology, Public Policy, and Law, 20_(2), 191.
 
- - increase abstinence, and
- - increase retention in treatment.[^64]  
+[^39]: Washington State Institute for Public Policy. (2017). _Mental Health Courts. Benefit-Cost Results._ Retrieved from http://www.wsipp.wa.gov/BenefitCost/Program/52
+ 
+[^40]: Steadman, H. J., Callahan, L., Robbins, P. C., Vesselinov, R., McGuire, T. G., & Morrissey, J. P. (2014). Criminal justice and behavioral health care costs of mental health court participants: A six-year study. _Psychiatric Services, 65_(9), 1100-1104.
 
-**Research on medications to treat AUDs**
+[^41]: Steadman, H. J., Callahan, L., Robbins, P. C., Vesselinov, R., McGuire, T. G., & Morrissey, J. P. (2014). Criminal justice and behavioral health care costs of mental health court participants: A six-year study. _Psychiatric Services, 65_(9), 1100-1104.
 
-Naltrexone for alcohol can
+[^42]: Ridgely, M. S., Engberg, J., Greenberg, M. D., Turner, S., DeMartini, C., & Dembosky, J. W. (2007). _Justice, treatment, and cost: An evaluation of the fiscal impact of Allegheny County mental health court._ Santa Monica, CA: RAND.
 
- - reduce drinking;
- - reduce rewarding effects of alcohol; and 
- - increase days abstinent.[^65] 
+[^43]: Lindberg, A. J. (2009). _Examining the program costs and outcomes of San Francisco’s Behavioral Health Court: Predicting success._ San Francisco, CA: Superior Court of California, Office of Collaborative Justice Programs.
 
-Disulfiram (Antabuse) can
+[^44]: Redlich, A. D., Hoover, S., Summers, A., & Steadman, H. J. (2010). Enrollment in mental health courts: Voluntariness, knowingness, and adjudicative competence. _Law and Human Behavior, 34_(2), 91-104.
 
- - be more effective than a placebo for sobriety;[^66]  
- - have a moderate effect on short-term abstinence;[^67]  
- - be most effective with those who are already motivated to stop drinking;[^68]  and
- - be most effective with close monitoring for better outcomes.[^69] 
+[^45]: Poythress, N. G., Petrila, J., McGaha, A., & Boothroyd, R. (2002). Perceived coercion and procedural justice in the Broward mental health court. _International Journal of Law and Psychiatry, 25_(5), 517-533.
 
-Acomprosate can
+[^46]: Kopelovich, S., Yanos, P., Pratt, C., & Koerner, J. (2013). Procedural justice in mental health courts: Judicial practices, participant perceptions, and outcomes related to mental health recovery. _International Journal of Law and Psychiatry, 36_(2), 113-120.
 
- - decrease withdrawal symptoms; and
- - increase abstinence for those already motivated.[^70] 
-
-Research also suggests the importance of MAT programs within correctional institutions for those transitioning from jail or prison into the community—as it can help
-
- - reduce recidivism;
- - increase offender engagement and retention in treatment; and
- - reduce risk for relapse and/or overdose.[^71]  
-
-
-----------
-**Examples in the field:** Visit a local health care professional for information on naltrexone, buprenorphine, and methadone maintenance. See the [buprenorphine treatment physician locator](http://www.samhsa.gov/medication-assisted-treatment/physician-program-data/treatment-physician-locator) , [Opioid Treatment Program Directory-Illinois](http://dpt2.samhsa.gov/treatment/directory.aspx). 
-
-
-----------
-**Read More**  
-[SAMHSA MAT](http://www.samhsa.gov/medication-assisted-treatment/treatment)  
-[MAT comprehensive guide](http://www.icjia.state.il.us/assets/opioid/Comprehensive-Opioid-Medication-Assisted-Treatment-Program-resource-guide.pdf)  
-[National Commission on Correctional Health Care](http://www.ncchc.org/substance-use-disorder-treatment-position-statement)  
-[Program profile: Buprenorphine Maintenance Treatment](https://www.crimesolutions.gov/ProgramDetails.aspx?ID=170)  
-[Program profile: Methadone Maintenance Treatment](https://www.crimesolutions.gov/ProgramDetails.aspx?ID=158)  
-[Opioid Treatment Program Directory-Illinois](http://dpt2.samhsa.gov/treatment/directory.aspx)  
-[SAMHSA Behavioral Health Treatment Services Locator](https://findtreatment.samhsa.gov/)  
-[buprenorphine treatment physician locator](http://www.samhsa.gov/medication-assisted-treatment/physician-program-data/treatment-physician-locator)  
-[Buprenorphine Information](https://www.samhsa.gov/medication-assisted-treatment/treatment/buprenorphine)  
-[Methadone Information](https://www.samhsa.gov/medication-assisted-treatment/treatment/methadone)  
-[SAMHSA Division of Pharmacologic Therapies (DPT)](https://www.samhsa.gov/medication-assisted-treatment/about)  
-
-
-For more information on validated and reliable substance use assessment tools and risk/need tools:
-
-[Center for Sentencing Initiatives Assessment Appendix](http://www.ncsc.org/~/media/Files/PDF/Services%20and%20Experts/Areas%20of%20expertise/Sentencing%20Probation/RAN%20Appendix%20A.ashx)
-[Risk and Needs Assessment in the Criminal Justice System](https://fas.org/sgp/crs/misc/R44087.pdf)
-[TCU Institute of Behavioral Research](https://ibr.tcu.edu/forms/tcu-drug-screen/)
-
-</details>
-
-<details>
-	<summary>THERAPEUTIC COMMUNITIES (TCs)</summary>
-
-**Description:** Therapeutic communities (TCs) in prisons and jails are peer- and staff-led, residential programs that provide substance use treatment, mental health counseling, and other health support services, with participants generally housed separate from the prison or jail’s general population.[^72]  This type of program generally lasts between 12- and 18-months, focusing on overall lifestyle changes and examination of individuals’ thinking and behavior.[^73]  Further, relapse prevention strategies, including coping and social skills, thinking and behavior awareness, as well as development of care coordination and support networks, are provided as participants’ transition for release into the community. [^74] Typically, TCs are more frequently found in prisons, but can be implemented in a jail setting.
-
-----------
-**Goals:**
-
- - Sustain abstinence and sobriety. 
- - Develop and maintain social and coping skills.
- - Reduce recidivism (re-arrest, re-conviction, re-incarceration).
-
-----------
-**Eligibility:** Individuals with SUDs or who misuse substance incarcerated in a jail or prison may be eligible. Eligibility varies between facilities, and may include 
-
- - referral to a TC by correctional staff or treatment provider;
- - voluntary participation in TC;
- - classification as a drug-involved offender; and/or 
- - deemed to have a high need area related to substance use—through a risk/needs assessment (high need on substance use) and a clinical substance use assessment in order to identify appropriate services.
-
-Some examples of assessments using self-report answers facilitated by trained clinicians include:
-
- - [Addiction Severity Index (ASI)](http://www.tresearch.org/products/assessment-and-evaluation). 
- - [Opioid Risk Tool](https://www.drugabuse.gov/sites/default/files/files/OpioidRiskTool.pdf) (free).
- - [DAST -10](https://cde.drugabuse.gov/instrument/e9053390-ee9c-9140-e040-bb89ad433d69) (free).
- - [NIDA’s Drug Screening Tool](https://www.drugabuse.gov/nmassist/) (free).[^75] 
- - [Substance Abuse Subtle Screening Inventory](http://pubs.niaaa.nih.gov/publications/AssessingAlcohol/InstrumentPDFs/66_SASSI.pdf) (SASSI). 
- - [Texas Christian University (TCU) Drug Screen II](https://ibr.tcu.edu/forms/tcu-drug-screen/).[^76]  
-
-For professionals in the criminal justice system, a validated risk/needs assessment can help identify if substance use is a high need area for an individual, in which it may be appropriate to refer to a clinician for further assessment. Some of these validated risk/needs assessments include:
-
- - [Level of Service Inventory-Revised: Screening Version (LSI-R:SV)](http://mhs.com/product.aspx?gr=saf&prod=lsi-rs&id=overview).
- - [Level of Service Inventory-Revised (LSI-R)](http://www.mhs.com/product.aspx?gr=saf&id=overview&prod=lsi-r).
- - [Level of Service/Case Management Inventory (LSCMI)](http://www.mhs.com/product.aspx?gr=saf&id=overview&prod=ls-cmi). 
- - [Global Appraisal of Individual Needs (GAIN)](http://gaincc.org/instruments/).[^77]  
- - [Correctional Offender Management Profiling for Alternative Sanctions (COMPAS)](http://www.northpointeinc.com/files/downloads/Risk-Needs-Assessment.pdf). 
- - [Ohio Risk Assessment System (ORAS)](https://cech.uc.edu/centers/ucci/services/trainings/offender_assessment/orastrainingoverview.html) (non-propriety, but costs for training).[^78]     
-
-
-----------
-**Research findings**
-
-In a meta-analysis of 35 evaluations found incarceration-based TCs can
-
- - reduce rates in post-release drug use;[^79]    
- - increase time to re-incarceration; 
- - reduce levels of re-incarceration; and 
- - increase levels of employment.[^80] 
-
-In another study of five TCs, individuals who ***did not*** participate in TCs were
-
- - 1.6 times more likely to be re-incarcerated, and
- - 1.5 times more likely to be re-arrested.[^81] 
-
-
-----------
-**Examples in the field**: Illinois’ Sheridan Correctional Center TC, [Amity In-Prison TC](https://www.crimesolutions.gov/ProgramDetails.aspx?ID=54) in San Diego, California.
-
-
-----------
-**Read More**  
-[Sheridan Correctional Center Therapeutic Community: Year 6](http://www.icjia.org/assets/pdf/ProgEvalSummary/Program_Eval_Sheridan_Year6_072011.pdf)  
-[A process and impact evaluation of the Southwestern Illinois Correctional Center Therapeutic Community program during fiscal years 2007 through 2010](http://www.icjia.org/assets/pdf/ResearchReports/SWICC_Year_3_Evaluations_Report_March_2011.pdf)  
-[Community reentry after prison drug treatment: learning from Sheridan Therapeutic Community program participants](http://www.icjia.org/assets/pdf/ResearchReports/Reentry_Sheridan_Report_012012.pdf)  
-[A process and impact evaluation of the Sheridan Correctional Center Therapeutic Community program during fiscal years 2004 through 2010](http://www.icjia.org/assets/pdf/ResearchReports/Sheridan_6_year_eval_report_01_2011.pdf)  
-
-For more information on validated and reliable substance use assessment tools and risk/need tools:
-
-[Center for Sentencing Initiatives Assessment Appendix](http://www.ncsc.org/~/media/Files/PDF/Services%20and%20Experts/Areas%20of%20expertise/Sentencing%20Probation/RAN%20Appendix%20A.ashx)  
-[Risk and Needs Assessment in the Criminal Justice System](https://fas.org/sgp/crs/misc/R44087.pdf)  
-[TCU Institute of Behavioral Research](https://ibr.tcu.edu/forms/tcu-drug-screen/)  
-</details>
-
-<details>
-	<summary>CORRECTIONAL RESIDENTIAL SUBSTANCE USE AND SUD TREATMENT</summary>
-
-**Description:**  Substance use treatment programs in state prisons and local jails integrate more comprehensive programming for those in correctional institutions, as well as offer community-based aftercare services.[^82]  Ideally, this residential substance use treatment allows incarcerated offenders separation from the general population in order to focus exclusively on substance abuse and substance-related issues. The [Residential Substance Abuse Treatment (RSAT)](https://www.ncjrs.gov/pdffiles1/bja/206269.pdf) program, through the Bureau of Justice Assistance, grants funding to all states to administer funds for RSAT in prisons, which may incorporate MAT.[^83]   Further, the Federal Bureau of Prisons (BOP) currently implements [Residential Drug Abuse Programs (RDAP)](http://alanellis.com/wp-content/uploads/2016/08/aba-rdap.pdf) within their institutions—a nine-month, 500-hour program with separate housing, focused on substance use treatment. RDAP also incorporates Community Transition Drug Abuse Treatment/Community Treatment Services that integrates reentry services post-release.[^84]
-
-
-----------
-**Goals:**
-
- - Increase focus on recovery.
- - Increase staff and resources to address substance use and related issues.
- - Increase inmate skills to remain substance-free, gain employment, and be productive members of their communities.[^85]
- - Reduce relapse.
- - Increase continuity of care post-release.
- - Reduce inmate and detainee misconduct.
- - Reduce recidivism (re-arrest, re-conviction, and re-incarceration) and antisocial behavior;
- - Improve physical and mental health symptoms and conditions.[^86]
- - Reduce local, state, and federal government costs related to substance use and related crimes.[^87] 
-
-
-----------
-**Eligibility:** There is the possibility for federal funding specifically for RSAT. However, this eligibility is only for funding, though these guidelines incorporated evidence-based SUD or substance misuse/abuse treatment practices. To obtain RSAT funding, programs must
-
- - Be six- to 12-months long (3-months for jail-based programs);
- - provide residential facilities separate from the general jail or prison population;
- - predominately focus on SUD treatment;
- - teach inmates social, cognitive, behavioral, and vocation skills related to substance use issues; 
- - require drug and alcohol testing; and
- - run by government agencies that provide treatment to inmates.[^88] 
-
-RDAP eligibility includes the following, per the BOP guidelines:
-
- - Have a documented SUD per the American Psychiatric Associations Diagnostic and Statistical Manual (DSM).
- - DSM diagnosis within 12-months prior to arrest.
- - Sign program agreement.
- - Completion of three-component program. 
- - Have approximately 24-months left on sentence.[^89] 
-
-Eligibility should be based on a validated clinical tool identifying a SUD or substance misuse. This can include (but is not limited to): 
-
-- [Addiction Severity Index (ASI)](http://www.tresearch.org/products/assessment-and-evaluation). 
- - [Opioid Risk Tool](https://www.drugabuse.gov/sites/default/files/files/OpioidRiskTool.pdf) (free).
- - [DAST -10](https://cde.drugabuse.gov/instrument/e9053390-ee9c-9140-e040-bb89ad433d69) (free).
- - [NIDA’s Drug Screening Tool](https://www.drugabuse.gov/nmassist/) (free).[^90] 
- - [Substance Abuse Subtle Screening Inventory](http://pubs.niaaa.nih.gov/publications/AssessingAlcohol/InstrumentPDFs/66_SASSI.pdf) (SASSI). 
- - [Texas Christian University (TCU) Drug Screen II](https://ibr.tcu.edu/forms/tcu-drug-screen/).[^91]  
-
-For professionals in the criminal justice system, a validated risk/needs assessment can help identify if substance use is a high need area for an individual, in which it may be appropriate to refer to a clinician for further assessment. Some of these validated risk/needs assessments include:
-
- - [Level of Service Inventory-Revised: Screening Version (LSI-R:SV)](http://mhs.com/product.aspx?gr=saf&prod=lsi-rs&id=overview).
- - [Level of Service Inventory-Revised (LSI-R)](http://www.mhs.com/product.aspx?gr=saf&id=overview&prod=lsi-r).
- - [Level of Service/Case Management Inventory (LSCMI)](http://www.mhs.com/product.aspx?gr=saf&id=overview&prod=ls-cmi). 
- - [Global Appraisal of Individual Needs (GAIN)](http://gaincc.org/instruments/).[^92]  
- - [Correctional Offender Management Profiling for Alternative Sanctions (COMPAS)](http://www.northpointeinc.com/files/downloads/Risk-Needs-Assessment.pdf). 
- - [Ohio Risk Assessment System (ORAS)](https://cech.uc.edu/centers/ucci/services/trainings/offender_assessment/orastrainingoverview.html) (non-propriety, but costs for training).[^93] 
-
-
-----------
-**Research findings**
-
-RSAT is a ***promising*** practice that can
-
- - decrease positive drug/alcohol tests;
- - reduce positive drug/alcohol tests; 
- - reduce positive drug/alcohol tests for aftercare clients;[^94]
- - significantly lower relapse at 6, 12, and 18 months compared to no treatment;
- - statistically lower arrest rates at 12 months compared to no treatment; and
- - significantly lower relapse, recidivism, and arrest rates for RSAT participants who completed community aftercare compared to those who did not.[^95] 
-
-RDAP is a ***promising*** program that can, when compared to the control group
-
- - prolonged time to relapse;
- - lower probability of rearrest; and
- - lower probability of revocation.[^96] 
-
-
-----------
-**Examples in the field:** In 2015, there were approximately 132 programs funded through RSAT in the U.S. 
-
-
-----------
-**Read More**
-For more information on reentry for individuals with SUDs and other substance use issues:
-
-[In-Custody Treatment and Offender Reentry](https://obamawhitehouse.archives.gov/ondcp/in-custody-treatment-and-reentry)
-[Correctional Health Care and Substance Use Treatment](http://www.ncchc.org/substance-use-disorder-treatment-position-statement)    
-[Bureau of Prisons Substance Abuse Treatment](https://www.bop.gov/inmates/custody_and_care/substance_abuse_treatment.jsp)  
-[Offender reentry: Correctional Statistics, Reintegration into the Community, and Recidivism](https://fas.org/sgp/crs/misc/RL34287.pdf)  
-
-For more information on validated and reliable substance use assessment tools and risk/need tools:
-
-[Center for Sentencing Initiatives Assessment Appendix](http://www.ncsc.org/~/media/Files/PDF/Services%20and%20Experts/Areas%20of%20expertise/Sentencing%20Probation/RAN%20Appendix%20A.ashx)  
-[Risk and Needs Assessment in the Criminal Justice System](https://fas.org/sgp/crs/misc/R44087.pdf)  
-[TCU Institute of Behavioral Research](https://ibr.tcu.edu/forms/tcu-drug-screen/)    
-
-</details>
-
-<details>
-	<summary>INCARCERATION-BASED INDIVIDUAL AND GROUP SUBSTANCE USE AND SUD TREATMENT</summary>
-
-**Description:** The same evidence-informed cognitive-behavioral therapies and MAT programs can be used in jails and prisons. Unfortunately, most prisons and jails do not have an adequate quality or quantity of treatment.[^97]  Researchers have identified several feasible corrections-based SUD and substance misuse treatment programs. 
-
-Treatment and other services to support individuals with SUDs or other substance use issues in correctional settings include (but is not limited to):
-
- - Cognitive-behavioral therapy, both individual or group (see ***Cognitive and Behavioral Therapies***).
- - Individual, group, or family counseling.
- - Self-help or peer recovery support groups.
- - Medication-Assisted Treatment (MAT) (see ***Pharmacological Treatment*** ).
- - Educational and vocational training.[^98] 
-
-In addition, there are residential based treatments that include: 
-
- - Therapeutic Communities (see ***Therapeutic Communities***).
- - Residential Substance Abuse Treatment (RSAT) programs funded by the federal government (see ***Residential Correctional Treatment***). 
- - Residential Drug Abuse Programs (RDAP) (see ***Residential Correctional Treatment*** ).
-
-Limitations and things to consider about SUD and substance use treatment in corrections:
-
- - Individual traumatic experiences and difficulty coping within a prison environment (potential post-traumatic stress disorder symptoms).
- - Co-occurring disorders (SUD or substance use in conjunction with another mental illness).
- - Breaking inmate identity and culture—treatment as a sign of “weakness.”
- - Gender-specific issues
- - Capacity to separate those in treatment from general population.
- - Quality assurance capacity to assess effectiveness of treatment. 
- - Capacity and quality of treatment providers.
- - Nature of the population.
- - Length of stay and estimated time of release.[^99] 
-
-
-----------
-**Goals:**
-
- - Decrease substance use. 
- - Increase connection and engagement in aftercare services upon release from jail or prison.
- - Decrease risk for overdose.
- - Decrease recidivism (re-arrest, re-conviction, and re-incarceration).
-
-
-----------
-**Eligibility:**  Individuals in corrections with SUDs.  Eligibility varies greatly between correctional facilities (jails and prisons). Some examples of assessments by correctional staff or clinicians to identify appropriate individuals include: 
-
-- [Addiction Severity Index (ASI)](http://www.tresearch.org/products/assessment-and-evaluation). 
- - [Opioid Risk Tool](https://www.drugabuse.gov/sites/default/files/files/OpioidRiskTool.pdf) (free).
- - [DAST -10](https://cde.drugabuse.gov/instrument/e9053390-ee9c-9140-e040-bb89ad433d69) (free).
- - [NIDA’s Drug Screening Tool](https://www.drugabuse.gov/nmassist/) (free).[^100] 
- - [Substance Abuse Subtle Screening Inventory](http://pubs.niaaa.nih.gov/publications/AssessingAlcohol/InstrumentPDFs/66_SASSI.pdf) (SASSI). 
- - [Texas Christian University (TCU) Drug Screen II](https://ibr.tcu.edu/forms/tcu-drug-screen/).[^101]  
-
-For professionals in the criminal justice system, a validated risk/needs assessment can help identify if substance use is a high need area for an individual, in which it may be appropriate to refer to a clinician for further assessment. Some of these validated risk/needs assessments include:
-
- - [Level of Service Inventory-Revised: Screening Version (LSI-R:SV)](http://mhs.com/product.aspx?gr=saf&prod=lsi-rs&id=overview).
- - [Level of Service Inventory-Revised (LSI-R)](http://www.mhs.com/product.aspx?gr=saf&id=overview&prod=lsi-r).
- - [Level of Service/Case Management Inventory (LSCMI)](http://www.mhs.com/product.aspx?gr=saf&id=overview&prod=ls-cmi). 
- - [Global Appraisal of Individual Needs (GAIN)](http://gaincc.org/instruments/).[^102]  
- - [Correctional Offender Management Profiling for Alternative Sanctions (COMPAS)](http://www.northpointeinc.com/files/downloads/Risk-Needs-Assessment.pdf). 
- - [Ohio Risk Assessment System (ORAS)](https://cech.uc.edu/centers/ucci/services/trainings/offender_assessment/orastrainingoverview.html) (non-propriety, but costs for training).[^103] 
-
-
-----------
-**Research findings:**  Overall, incarceration-based treatment research indicates significant reductions[^104] in drug use and drug-related crime post-release.[^105]  
-
-Overall, incarceration-based cognitive-behavioral therapy outcomes found
-
- - recidivism reduction (re-arrest, re-conviction, and re-incarceration);[^106]  and
- - reduction in substance use and relapse.[^107]  
-
-Research also suggests the importance of MAT programs within correctional institutions for those transitioning from jail or prison into the community—as it can help
-
- - reduce recidivism;
- - increase offender engagement in treatment; and
- - reduce risk for relapse and/or overdose.[^108]  
-
-
-----------
-**Examples in the field:**  [IMPACT program-Cook County Jail](https://www.westcare.com/page/where-we-serve_IL_01a), [Second Chance Act](https://csgjusticecenter.org/nrrc/projects/second-chance-act/) funded programs for reentry, recidivism, and individuals with SUD and mental health issues (as well as co-occurring disorders).
-
-Additional program examples:
-
-[Reasoning and Rehabilitation](http://www.cognitivecentre.ca/RRProgram)  
-[Thinking for a Change](http://nicic.gov/t4c)  
-[Moral Reconation Therapy (MRT)](http://www.moral-reconation-therapy.com/)  
-[Motivational Enhancement Therapy/Motivational Interviewing (MET/MI)](https://www.improvingmipractices.org/practices/motivational-enhancement-motivational-interviewing)  
-[Mind-Body Bridging Substance Abuse Program (MBBSAP)](http://mindbodybridging.com/applications/mbb-recovery-program/)  
-[Contingency Management programs (CM)](https://www.drugabuse.gov/publications/principles-drug-addiction-treatment-research-based-guide-third-edition/evidence-based-approaches-to-drug-addiction-treatment/behavioral-0)  
-[Trauma-informed](http://www.samhsa.gov/nctic/trauma-interventions) substance use disorder treatment such as: [TARGET](http://www.ptsdfreedom.org/about_target.html),  [Seeking Safety](http://www.treatment-innovations.org/seeking-safety.html), and [TAMAR](http://www.samhsa.gov/nctic/trauma-interventions#Guide%20for%20Education%20and%20Therapy)  
-[Matrix Model](https://www.drugabuse.gov/publications/principles-drug-addiction-treatment-research-based-guide-third-edition/evidence-based-approaches-to-drug-addiction-treatment/behavioral-3)   
-[Voucher-Based Reinforcement (VBR) and Prize-Based (PB) CM](https://www.drugabuse.gov/publications/principles-drug-addiction-treatment-research-based-guide-third-edition/evidence-based-approaches-to-drug-addiction-treatment/behavioral-0)  
-[Aggression Replacement Training (ART)](http://www.aggressionreplacementtraining.com/)  
-[Cognitive Interventions Program](http://nicic.gov/wodp/program/215-cognitive-interventions-program-cgip)   
-
-
-----------
-**Read More**
-
-[Drug-addicted offenders and treatment needs in Illinois](http://www.icjia.org/articles/drug-addicted-offenders-and-treatment-needs-in-illinois)  
-[What works? Short-term, in-custody treatment programs](http://cpp.fullerton.edu/pdf/What%20Works.pdf)  
-
-For more information on validated and reliable substance use assessment tools and risk/need tools:
-
-[Center for Sentencing Initiatives Assessment Appendix](http://www.ncsc.org/~/media/Files/PDF/Services%20and%20Experts/Areas%20of%20expertise/Sentencing%20Probation/RAN%20Appendix%20A.ashx)  
-[Risk and Needs Assessment in the Criminal Justice System](https://fas.org/sgp/crs/misc/R44087.pdf)  
-[TCU Institute of Behavioral Research](https://ibr.tcu.edu/forms/tcu-drug-screen/)
-
-</details>
-
-<details>
-<summary>RESEARCH UPDATE--PHARMACOLOGICAL METHODS: MEDICATION-ASSISTED TREATMENT</summary>
-
-New research indicates patient success in the use of extended-release naltrexone (Vivitrol®) for medication-assisted treatment. While buprenorphine and methadone remain the gold standard for treatment of opioid use disorders (OUDs), naltrexone appears to have a place in treating OUDs with some success.[^109]
-
-In a 2017 study, researchers employed a 24-week, randomized, controlled clinical trial at eight U.S. community-based inpatient services and followed up with participants as outpatients. A total of 570 participants with an OUD were randomly assigned to use Vivitrol® (n=283) or Suboxone® (n=287).
-
-Researchers found that while both medications can be effective for treating OUDs, it was substantially more difficult to initiate patients on Vivitrol® due to the required prior detoxification period of at least three days (though this varies by individual) and opioid-negative urine screen. Full detoxification is not necessary for those inducted on Suboxone® and was not required in this study.
-
-The study found for the 570 who agreed to take part in the study, 238 participants were assigned to take Vivitrol® and 287 participants were assigned to take Suboxone®. Researchers found: 
-
-+ Most on Suboxone successfully initiated treatment (94 percent; n=270), while those on Vivitrol® had less success, with 72 percent successfully initiating (n=204). 
-+ 65 percent of participants on Vivitrol® experienced relapse events, defined by four consecutive missing urine screens, compared to 57 percent of participants on Suboxone®.[^110]
-
-The study found of the 474 successfully initiated individuals to treatment using Vivitrol® (n=204) or Suboxone® (n=270):
-
-+ Similar results were seen among the participants receiving the two types of medications on outcomes of opioid-negative screens and opioid-abstinent days. 
-+ Initially, those taking Vivitrol® self-reported fewer cravings; however, by 24 weeks no difference was noted between the two groups.
-+ For both groups, the challenge of medication retention remained.[^111]
-
-The results of this study aligned with a 2015 Norwegian study comparing Vivitrol® and Suboxone®.[^112] In that study, 159 adult opioid-dependent patients were randomly assigned to Vivitrol® (n=80) or Suboxone® (n=79) in a 12-week, randomized clinical trial. Of those, 71 ultimately received Vivitrol® as assigned and 72 were received Suboxone® as assigned.
-
-Overall, researchers found:
-
-+ Similar retention time on the medication between both groups. 
-+ No difference in opioid use and adverse event outcomes between both groups.
-+ Overall, there was similar short-term abstinence from illicit drugs for both groups, including illicit use. [^113]
-
-These studies support the need for pharmacological options to treat substance use disorders when medically appropriate, including opioid use disorders. Treatment should be individualized and increased patient access is needed for all medications: methadone, buprenorphine, and naltrexone. 
-</details>
-
-[^1]: Rempel, M., Zweig, J. M., Lindquist, C. H., Roman, J. K., Rossman, S. B., & Kralstein, D. (2012). Multi-site evaluation demonstrates effectiveness of adult drug courts. *Judicature*, 95(4), 154-157.
-
-[^2]: National Association for Drug Court Professionals. (n.d.). *Learn*. Alexandria, VA. Retrieved from http://bit.ly/2si2M6i.; Rempel, M., Zweig, J. M., Lindquist, C. H., Roman, J. K., Rossman, S. B., & Kralstein, D. (2012). Multi-site evaluation demonstrates effectiveness of adult drug courts. *Judicature*, 95(4), 154-157.; Marlowe, D. B. (2003). Integrating substance abuse treatment and criminal justice supervision. *Science & Practice Perspectives* (August).
-
-
-[^3]:National Association for Drug Court Professionals. (n.d.). *Learn*. Alexandria, VA: Author. Retrieved from http://bit.ly/2si2M6i.
-
-[^4]: National Association for Drug Court Professionals. (n.d.). *Learn*. Alexandria, VA: Author. Retrieved from http://bit.ly/2si2M6i.
-
-[^5]: National Institute on Drug Abuse. (2015). *Chart of evidence-based screening tools for adults and adolescents*. Bethesda, MD. Retrieved from http://bit.ly/1MR43oA.
-
-[^6]: Texas Christian University. (2016). *TCU drug screen.* Fort Worth, TX: TCU Institute of Behavioral Research. Retrieved from http://bit.ly/2qwj5jm.
-
-[^7]: Northpointe Institute for Public Management, Inc. (2010, January 14). *COMPAS risk & need assessment system: Selected questions posed by inquiring agencies.* Retrieved from http://bit.ly/2nT8LPy.
-
-[^8]: National Institute on Drug Abuse. (2015). *Chart of evidence-based screening tools for adults and adolescents*. Bethesda, MD: Author. Retrieved from http://bit.ly/1MR43oA.
-
-[^9]: Rossman, S. B., Rempel, M., Roman, J. K., Zweig, J. M., Lindquist, C. H., Green, M., Downey, P. M., Yahner, J.... & Farole Jr., D. J. (2011). *The multi-site adult drug court evaluation: Executive summary.* Urban Institute. Washington, DC: Justice Policy Center.; Rempel, M., Zweig, J. M., Lindquist, C. H., Roman, J. K., Rossman, S. B., & Kralstein, D. (2012). Multi-site evaluation demonstrates effectiveness of adult drug courts. *Judicature*, 95(4), 154-157.
-
-[^10]: Marlowe, D. B. (2003). Integrating substance abuse treatment and criminal justice supervision. *Science & Practice Perspectives* (August).; Mitchell, O., Wilson, D. B., Eggers, A., & MacKenzie, D. L. (2012). Assessing the effectiveness of drug courts on recidivism: A meta-analytic review of traditional and non-traditional drug courts. *Journal of Criminal Justice,* 40, 60-71.
-
-[^11]: Rossman, S. B., Rempel, M., Roman, J. K., Zweig, J. M., Lindquist, C. H., Green, M., Downey, P. M., Yahner, J.... & Farole Jr., D. J. (2011). *The multi-site adult drug court evaluation: Executive summary.* Urban Institute. Washington, DC: Justice Policy Center.; Rempel, M., Zweig, J. M., Lindquist, C. H., Roman, J. K., Rossman, S. B., & Kralstein, D. (2012). Multi-site evaluation demonstrates effectiveness of adult drug courts. *Judicature*, 95(4), 154-157.
-
-[^12]: While this list provides examples of evidence-informed behavioral therapies, it is not all encompassing. For information on other evidence-informed cognitive- and/or behavioral-based programs, use the national resources under additional resources at the bottom of this continuum.
-
-[^13]: Van Voorhis, P., & Salisbury, E. J . (2009). Social learning models. In M. B. In P. Van Voorhis, & D. Lester (Ed.), *Correctional counseling and rehabilitation.* (7th ed.). New Providence, NJ.: Matthew Bender & Company, Inc., of LesixNexis Group.; Van Voorhis, P., & Lester, D. (2009). Cognitive therapies. In M. B. In P. Van Voorhis, & D. Lester (Ed.), *Correctional counseling and rehabilitation.* (7th ed.). New Providence, NJ.: Matthew Bender & Company, Inc., of LesixNexis Group.
-
-[^14]: National Institute on Drug Abuse. (2012). *Principles of drug addiction treatment: A research-based guide* (3rd ed.). Bethesda, MD: National Institute of Health, U.S. Department of Health and Human Services, HHS. Retrieved from http://bit.ly/2r7MW0s.
-
-[^15]: McHugh, R. K., Hearon, B. A., & Otto, M. W. (2010). Cognitive-behavioral therapy for substance use disorders. P*sychiatric Clinics of North America*, *33*(3), 511-525.; National Institute on Drug Abuse. (2012). *Principles of drug addiction treatment: A research-based guide* (3rd ed.). Bethesda, MD: National Institute of Health, U.S. Department of Health and Human Services, HHS. Retrieved from http://bit.ly/2r7MW0s.; U.S. Department of Health and Human Services (HHS), Office of the Surgeon General. (2016). *Facing addiction in America: The Surgeon General’s report on alcohol, drugs, and health.* Bethesda, MD: HHS.; Van Voorhis, P., & Salisbury, E. J . (2009). Social learning models. In M. B. In P. Van Voorhis, & D. Lester (Ed.), *Correctional counseling and rehabilitation.* (7th ed.). New Providence, NJ.: Matthew Bender & Company, Inc., of LesixNexis Group.; Van Voorhis, P., & Lester, D. (2009). Cognitive therapies. In M. B. In P. Van Voorhis, & D. Lester (Ed.), *Correctional counseling and rehabilitation.* (7th ed.). New Providence, NJ.: Matthew Bender & Company, Inc., of LesixNexis Group.
-
-[^16]: National Institute on Drug Abuse. (2012). *Principles of drug addiction treatment: A research-based guide* (3rd ed.). Bethesda, MD: National Institute of Health, U.S. Department of Health and Human Services, HHS. Retrieved from http://bit.ly/2r7MW0s.; U.S. Department of Health and Human Services (HHS), Office of the Surgeon General. (2016). *Facing addiction in America: The Surgeon General’s report on alcohol, drugs, and health.* Washington, DC: HHS.
-
-[^17]: National Institute on Drug Abuse. (2012). *Principles of drug addiction treatment: A research-based guide* (3rd ed.). Bethesda, MD: National Institute of Health, U.S. Department of Health and Human Services, HHS. Retrieved from http://bit.ly/2r7MW0s.
-
-[^18]:  National Institute on Drug Abuse. (2015). *Chart of evidence-based screening tools for adults and adolescents.* Bethesda, MD: Author. Retrieved from http://bit.ly/1MR43oA.
-
-[^19]: Texas Christian University. (2016). *TCU drug screen.* Fort Worth, TX: TCU Institute of Behavioral Research. Retrieved from http://bit.ly/2qwj5jm.
-
-[^20]: Northpointe Institute for Public Management, Inc. (2010, January 14). *COMPAS risk & need assessment system: Selected questions posed by inquiring agencies.* Retrieved from http://bit.ly/2nT8LPy.
-
-[^21]: National Institute on Drug Abuse. (2015). *Chart of evidence-based screening tools for adults and adolescents.* Bethesda, MD: Author. Retrieved from http://bit.ly/1MR43oA.
-
-[^22]: Dowden, C., Antonowicz, D., & Andrews, D. A. (2003). The effectiveness of relapse prevention with offenders: A meta-analysis. *International Journal of Offender Therapy and Comparative Criminology, 47*(5), 516-528.; Prendergast, M., Podus, D., Finney, J., Greenwell, L., & Roll, J. (2006). Contingency management for treatment of substance use disorders: A meta- analysis. *Addiction, 101*(11), 1546-1560.; Chandler, R. K., Fletcher, B. W., & Volkow, N. D. (2009). Treating drug abuse and addiction in the criminal justice system: Improving public health and safety. *JAMA*, 301(2), 183-190. Gendreau, P. 1996. "The principles of effective intervention with offenders." Pp. 117-130 in A. T. Harland (ed.), *Choosing correctional interventions that work: Defining the demand and evaluating the supply*. Newbury Park, CA: Sage.
-
-[^23]: Larimer, M. E., Palmer, R. S., & Marlatt, G. A. (1999). Relapse prevention: An overview of Marlatt’s cognitive-behavioral model. *Alcohol Research & Health*, 23(2), 151-160.
-
-[^24]: Larimer, M. E., Palmer, R. S., & Marlatt, G. A. (1999). Relapse prevention: An overview of Marlatt’s cognitive-behavioral model. *Alcohol Research & Health*, 23(2), 151-160.
-
-[^25]: National Institute on Drug Abuse. (2012). *Principles of drug addiction treatment: A research-based guide* (3rd ed.). Bethesda, MD: National Institute of Health, U.S. Department of Health and Human Services, HHS. Retrieved from http://bit.ly/2r7MW0s.
-
-[^26]: Prendergast, M., Podus, D., Finney, J., Greenwell, L., & Roll, J. (2006). Contingency management for treatment of substance use disorders: A meta- analysis. *Addiction, 101*(11), 1546-1560.
-
-
-[^27]: Prendergast, M., Podus, D., Finney, J., Greenwell, L., & Roll, J. (2006). Contingency management for treatment of substance use disorders: A meta- analysis. *Addiction, 101*(11), 1546-1560.; Benishek, L. A., Dugosh, K. L., Kirby, K. C., Matejkowski, J., Clements, N. T., Seymour, B. L., & Festinger, D. S. (2014). Prize-based contingency management for the treatment of substance abusers: A meta-analysis. *Addiction, 101*, 1426-1436.
-
-[^28]: Benishek, L. A., Dugosh, K. L., Kirby, K. C., Matejkowski, J., Clements, N. T., Seymour, B. L., & Festinger, D. S. (2014). Prize-based contingency management for the treatment of substance abusers: A meta-analysis. *Addiction, 101*, 1426-1436.; Prendergast, M., Podus, D., Finney, J., Greenwell, L., & Roll, J. (2006). Contingency management for treatment of substance use disorders: A meta- analysis. *Addiction, 101*(11), 1546-1560.
-
-[^29]: Bahr, S. J., Masters, A. M., & Taylor, B. M. (2012). What works in substance abuse treatment programs for offenders?. T*he Prison Journal*, 92, 155-174. 
-
-[^30]: Prendergast, M., Podus, D., Finney, J., Greenwell, L., & Roll, J. (2006). Contingency management for treatment of substance use disorders: A meta- analysis. *Addiction, 101*(11), 1546-1560.
-
-[^31]: Higgins, S. T., & Petry, N.M. (1999). Contingency management. *Alcohol, Research, & Health*, 23(2), 122-127.
-
-[^32]: Lipsey, M. W. (2009). The primary factors that characterize effective interventions with juvenile offenders: A meta-analytic overview. *Victims and Offenders,* 4, 124-147.
-
-[^33]: Prendergast, M., Podus, D., Finney, J., Greenwell, L., & Roll, J. (2006). Contingency management for treatment of substance use disorders: A meta- analysis. *Addiction, 101*(11), 1546-1560.; Taxman, F. S., Perdoni, M. L., & Caudy, M. (2013). The plight of providing appropriate substance abuse treatment services to offenders: Modeling the gaps in service delivery. *Victims & Offenders: An International Journal of Evidence-based Research, Policy, and Practice*, 8(1), 70-93.; Taxman, F. S., Perdoni, M. L., Harrison, L. D. (2007). Drug treatment services for adult offenders: The state of the state. J*ournal of Substance Abuse Treatment*, 32(3), 239-254.
-
-[^34]:  Lipsey, M.W. (1999). Can intervention rehabilitate serious delinquents? *Annals of the American Academy of Political and Social Science,* 564 (April), 142-166.; Cullen, F. T., & Gendreau, P. (2000) Assessing correctional rehabilitation: *Policy, practice, and prospects. Criminal Justice, 3*(1), 299-370.; Andrews, D. A, & Bonta, J. (2012). *The psychology of criminal conduct* (5th ed.). New York, NY. Routledge.; Bahr, S. J., Masters, A. M., & Taylor, B. M. (2012). What works in substance abuse treatment programs for offenders?. *The Prison Journal*, 92, 155-174. 
-
-[^35]: Substance Abuse and Mental Health Services Administration. (2015). *Methadone.* Rockville, MD: Department of Health and Human Services. Retrieved from http://bit.ly/22f5VQC.; National Institute on Drug Abuse. (2012). *Principles of drug addiction treatment: A research-based guide* (3rd ed.). Bethesda, MD: National Institute of Health, U.S. Department of Health and Human Services, HHS. Retrieved from http://bit.ly/2r7MW0s.
-
-[^36]: National Institute of Corrections. (2016). *Medication assisted treatment (MAT) in corrections*. Washington, DC: U.S. Department of Justice. Retrieved from http://bit.ly/2sj0NhU.
-
-[^37]: National Institute of Corrections. (2016). *Medication assisted treatment (MAT) in corrections*. Washington, DC: U.S. Department of Justice. Retrieved from http://bit.ly/2sj0NhU.
-
-[^38]: National Institute of Corrections. (2016). *Medication assisted treatment (MAT) in corrections*. Washington, DC: U.S. Department of Justice. Retrieved from http://bit.ly/2sj0NhU.; Krook, A. L., Brørs, O., Dahlberg, J., Grouff, K., Magnus, P., Røysamb, E. & Waal, H. (2002). A placebo-controlled study of high dose buprenorphine in opiate dependents waiting for medication-assisted rehabilitation in Oslo, Norway. *Addiction, 97*, 533–542.;  Fudala, P. J., Bridge, T. P., Herbert, S., Williford, W. O., Chiang, C. N., Jones, K., .Donald, T., & Buprenorphine/Naloxone Collaborative Study Group. (2003). Office-based treatment of opiate addiction with a sublingual-tablet formulation of buprenorphine and naloxone. *The New England Journal of Medicine, 349*(10), 949-958. 
-
-[^39]: Substance Abuse and Mental Health Services Administration. (2016). *Buprenorphine.* Rockville, MD: Department of Health and Human Services. Retrieved from http://bit.ly/1PC4cg7.; Weiss, R. D., Potter, J. S., Fiellin, D. A., Byrne, M., Connery, H. S., Dickinson, W., … Ling, W. (2011). *Adjunctive counseling during brief and extended buprenorphine-naloxone treatment for prescription opioid dependence: a 2-phase randomized controlled trial. Archives of General Psychiatry, 68*(12), 1238–1246. https://doi.org/10.1001/archgenpsychiatry.2011.121.;Fiellin, D. A., Barry, D. T., Sullivan, L. E., Cutter, C. J., Moore, B. A., O’Connor, P. G., & Schottenfeld, R. S. (2013). *A Randomized Trial of Cognitive Behavioral Therapy in Primary Care-based Buprenorphine. The American Journal of Medicine, 126*(1), 74.e11-74.e17. https://doi.org/10.1016/j.amjmed.2012.07.005.; Ling, W., Hillhouse, M., Ang, A., Jenkins, J., & Fahey, J. (2013). *Comparison of behavioral treatment conditions in buprenorphine maintenance. Addiction (Abingdon, England), 108*(10), 1788–1798. https://doi.org/10.1111/add.12266.; Fiellin, D. A., Pantalon, M. V., Chawarski, M. C., Moore, B. A., Sullivan, L. E., O’Connor, P. G., & Schottenfeld, R. S. (2006). *Counseling plus buprenorphine-naloxone maintenance therapy for opioid dependence. The New England Journal of Medicine, 355*(4), 365–374. https://doi.org/10.1056/NEJMoa055255.
-
-[^40]: U.S. Department of Health and Human Services (HHS), Office of the Surgeon General. (2016). *Facing addiction in America: The Surgeon General’s report on alcohol, drugs, and health.* Washington, DC: HHS.
-
-[^41]: Substance Abuse and Mental Health Services Administration. (2016). *Buprenorphine.* Rockville, MD: Department of Health and Human Services. Retrieved from http://bit.ly/1PC4cg7.
-
-[^42]: 21 U.S.C. 823(g)(2)Under the Controlled Substances Act, amended by the Drug Addiction and Treatment Act of 2000.
-
-[^43]:  U.S. Department of Health and Human Services (HHS), Office of the Surgeon General. (2016). *Facing addiction in America: The Surgeon General’s report on alcohol, drugs, and health.* Washington, DC: HHS.
-
-[^44]: Substance Abuse and Mental Health Services Administration. (2015). *Methadone.* Rockville, MD: Department of Health and Human Services. Retrieved from http://bit.ly/22f5VQC.
-
-[^45]: Substance Abuse and Mental Health Services Administration. (2015). *Methadone.* Rockville, MD: Department of Health and Human Services. Retrieved from http://bit.ly/22f5VQC.
-
-[^46]:  Helm, S., Trescot, A. M., Colson, J., Sehgal, N., & Silverman, S. (2008). Opioid antagonists, partial agonists, and agonists/antagonists: The role of office-based detoxification. *Pain Physician*, 11(2), 225-235.; Substance Abuse and Mental Health Services Administration. (2016). *Naltrexone*. Washington, DC: Department of Health and Human Services. Retrieved from http://bit.ly/2bJWeIc.
-
-[^47]: Substance Abuse and Mental Health Services Administration. (2016). *Naltrexone*. Rockville, MD: Department of Health and Human Services. Retrieved from http://bit.ly/2bJWeIc.
-
-[^48]: Maryland Department of Corrections for Baltimore area prison inmates (four prisons in Baltimore city and Baltimore county) conducted by Michael S. Gordon and colleagues. See Gordon, M. S., Vocci, F. J., Fitzgerald, T. T., O’Grady, K. E., & O’Brien, C. P. (2017). Extended-release naltrexone for pre-release prisoners: A randomized trial of medical mobile treatment. *Contemporary Clinical Trials*, 53, 130-136.
-
-[^49]: U.S. Department of Health and Human Services (HHS), Office of the Surgeon General. (2016). *Facing addiction in America: The Surgeon General’s report on alcohol, drugs, and health.* Washington, DC: HHS.; National Institute on Drug Abuse. (2012). *Principles of drug addiction treatment: A research-based guide* (3rd ed.). Bethesda, MD: National Institute of Health, U.S. Department of Health and Human Services, HHS. Retrieved from http://bit.ly/2r7MW0s.
-
-[^50]:  U.S. Department of Health and Human Services (HHS), Office of the Surgeon General. (2016). *Facing addiction in America: The Surgeon General’s report on alcohol, drugs, and health.* Washington, DC: HHS.
-
-[^51]: Mason, B. J., & Heyser, C. J. (2010). Acamprosate: A prototypic neuromodulator in the treatment of alcohol dependence. *CNS & Neurological Disorders-Drug Targets,* 9(1), 23-32.
-
-[^52]: U.S. Department of Health and Human Services (HHS), Office of the Surgeon General. (2016). *Facing addiction in America: The Surgeon General’s report on alcohol, drugs, and health.* Washington, DC: HHS.; National Institute on Drug Abuse. (2012). *Principles of drug addiction treatment: A research-based guide* (3rd ed.). Bethesda, MD: National Institute of Health, U.S. Department of Health and Human Services, HHS. Retrieved from http://bit.ly/2r7MW0s.
-
-[^53]: Substance Abuse and Mental Health Services Administration. (2015). *Medication and counseling treatment*. Rockville, MD: SAMHSA. Retrieved from http://bit.ly/2rSblIm.
-
-[^54]: Substance Abuse and Mental Health Services Administration. (n.d.). *Pocket guide: Medication-assisted treatment of opioid use disorder.* Rockville, MD: Department of Health and Human Services. Retrieved from http://bit.ly/2rRHgIZ.
-
-[^55]:  National Institute on Drug Abuse. (2015). *Chart of evidence-based screening tools for adults and adolescents.* Bethesda, MD: Author. Retrieved from http://bit.ly/1MR43oA.
-
-[^56]: Texas Christian University. (2016). *TCU drug screen.* Fort Worth, TX: TCU Institute of Behavioral Research. Retrieved from http://bit.ly/2qwj5jm.
-
-[^57]: Northpointe Institute for Public Management, Inc. (2010, January 14). *COMPAS risk & need assessment system: Selected questions posed by inquiring agencies.* Retrieved from http://bit.ly/2nT8LPy.
-
-[^58]: National Institute on Drug Abuse. (2015). *Chart of evidence-based screening tools for adults and adolescents.* Bethesda, MD: Author. Retrieved from http://bit.ly/1MR43oA.
-
-[^59]:  Heinzerling, K. G., Ober, A. J., Lamp, K., De Vries, D., & Watkins, K. E. (2016). *Summit: Procedures for Medication-Assisted Treatment of alcohol or opioid dependence in primary care.* RAND Corporation.
-
-[^60]:  Teoh Bing Fei, J., Yee, A., Habil, M. H. B., & Danaee, M. (2016). Effectiveness of methadone maintenance therapy and improvement in quality of life following a decade of implementation. *Journal of Substance Abuse Treatment,* 69, 50-56.
-
-[^61]: Mattick, R. P., Breen, C., Kimber, J., & Davoli, M. (2009). Methadone maintenance therapy versus no opioid replacement therapy for opioid dependence. *Cochrane Database of Systematic Reviews*, 8(3), CD002209.
-
-[^62]: Krook, A. L., Brørs, O., Dahlberg, J., Grouff, K., Magnus, P., Røysamb, E., & Waal, H. (2002). A placebo-controlled study of high dose buprenorphine in opiate dependents waiting for medication-assisted rehabilitation in Oslo, Norway. *Addiction, 97*(5), 533–542.;  Fudala, P. J., Bridge, T. P., Herbert, S., Williford, W. O., Chiang, C. N., Jones, K., .Donald, T., & Buprenorphine/Naloxone Collaborative Study Group. (2003). Office-based treatment of opiate addiction with a sublingual-tablet formulation of buprenorphine and naloxone. *The New England Journal of Medicine, 349*(10), 949-958.
-
-[^63]:  Douaihy, A. B., Kelly, T. M., & Sullivan, C. (2013). Medications for substance use disorders. *Social Work and Public Health*, 28(0), 264-278.
-
-[^64]: Krupitsky, E. (2011). S.1.02 naltrexone for opiate dependence: Oral, implantable, and injectable. *European Neuropsychopharmacology*, 21(2), S104-S105.; Gastfriend, D. R. (2011). Intramuscular extended-release naltrexone: Current evidence. *Annals of the New York Academy of Sciences*, 1216(1), 144-166.; Syed, Y. Y., & Keating, G. M. (2013). Extended-release intramuscular naltrexone (VIVITROL®): A review of its use in the prevention of relapse to opioid dependence in detoxified patients. *CNS Drugs, 27*(10), 851-861. 
-
-[^65]: Douaihy, A. B., Kelly, T. M., & Sullivan, C. (2013). Medications for substance use disorders. *Social Work and Public Health*, 28(0), 264-278.
-
-[^66]: Jorgensen, C. H., Pedersen, B., & Tonnesen, H. (2011). The efficacy of disulfiram for the treatment of alcohol use disorder. *Alcoholism: Clinical and Experimental Research, 35*(10), 1749-1758.
-
-[^67]: O’Farrell, T. J., Allen, J. P., & Litten, R. Z. (1995). Disulfiram (Antabuse) contracts in treatment of alcoholism. N*IDA Research Monograph,* 150, 65-91.; Douaihy, A. B., Kelly, T. M., & Sullivan, C. (2013). Medications for substance use disorders. *Social Work and Public Health*, 28(0), 264-278.
-
-[^68]: Jorgensen, C. H., Pedersen, B., & Tonnesen, H. (2011). The efficacy of disulfiram for the treatment of alcohol use disorder. *Alcoholism: Clinical and Experimental Research, 35*(10), 1749-1758.; Douaihy, A. B., Kelly, T. M., & Sullivan, C. (2013). Medications for substance use disorders. *Social Work and Public Health*, 28(0), 264-278.
-
-[^69]: O’Farrell, T. J., Allen, J. P., & Litten, R. Z. (1995). Disulfiram (Antabuse) contracts in treatment of alcoholism. *NIDA Research Monograph*, 150, 65-91.; Douaihy, A. B., Kelly, T. M., & Sullivan, C. (2013). Medications for substance use disorders. *Social Work and Public Health*, 28(0), 264-278.
-
-[^70]: Douaihy, A. B., Kelly, T. M., & Sullivan, C. (2013). Medications for substance use disorders. *Social Work and Public Health*, 28(0), 264-278.
-
-[^71]: Taxman, F. S., Perdoni, M. L., & Caudy, M. (2013). The plight of providing appropriate substance abuse treatment services to offenders: Modeling the gaps in service delivery. Victims & Offenders: *An International Journal of Evidence-based Research, Policy, and Practice*, 8(1), 70-93. 
-
-[^72]: National Institute on Drug Abuse. (2015). *Therapeutic communities.* Bethesda, MD: National Institutes of Health, U.S. Department of Health and Human Services, HHS. Retrieved from http://bit.ly/2rkTg5d.
-
-[^73]: National Institute on Drug Abuse. (2015). *Therapeutic communities.* Bethesda, MD: National Institutes of Health, U.S. Department of Health and Human Services, HHS. Retrieved from http://bit.ly/2rkTg5d.; Mitchell, O. Wilson, D. B., & MacKenzie, D. L. (2012). The effectiveness of incarceration-based drug treatment on criminal behavior: A systematic review. *The Campbell Collaboration: Systematic Reviews*, 18.
-
-[^74]: Mitchell, O. Wilson, D. B., & MacKenzie, D. L. (2012). The effectiveness of incarceration-based drug treatment on criminal behavior: A systematic review. *The Campbell Collaboration: Systematic Reviews*, 18.; Welsch, W. N. (2007). A multisite evaluation of prison-based therapeutic community drug treatment. *Criminal Justice and Behavior, 34*(11), 1481-1498.
-
-[^75]:  National Institute on Drug Abuse. (2015). *Chart of evidence-based screening tools for adults and adolescents.* Bethesda, MD: Author. Retrieved from http://bit.ly/1MR43oA.
-
-[^76]: Texas Christian University. (2016). *TCU drug screen.* Fort Worth, TX: TCU Institute of Behavioral Research. Retrieved from http://bit.ly/2qwj5jm.
-
-[^77]: Northpointe Institute for Public Management, Inc. (2010, January 14). *COMPAS risk & need assessment system: Selected questions posed by inquiring agencies.* Retrieved from http://bit.ly/2nT8LPy.
-
-[^78]: National Institute on Drug Abuse. (2015). *Chart of evidence-based screening tools for adults and adolescents.* Bethesda, MD: Author. Retrieved from http://bit.ly/1MR43oA.
-
-[^79]: Welsch, W. N. (2007). A multisite evaluation of prison-based therapeutic community drug treatment. *Criminal Justice and Behavior, 34*(11), 1481-1498.; Mitchell, O. Wilson, D. B., & MacKenzie, D. L. (2012). The effectiveness of incarceration-based drug treatment on criminal behavior: A systematic review. *The Campbell Collaboration: Systematic Reviews*, 18.
-
-[^80]: Prendergast, M. L., Hall, E. A., Wexler, H. K., Melnick, G., & Cao, Y. (2004). Amity prison-based therapeutic community: 5-year outcomes. *Criminology & Penology*, 84(1), 36-60.
-
-[^81]: Welsch, W. N. (2007). A multisite evaluation of prison-based therapeutic community drug treatment. *Criminal Justice and Behavior, 34*(11), 1481-1498.
-
-[^82]: Bureau of Justice Assistance. (2005). *Residential substance abuse treatment for state prisoners (RSAT) program*. Washington, DC: Office of Justice Programs, Bureau of Justice Assistance, U.S. Department of Justice. Retrieved from http://bit.ly/2rhgiYL.
-
-[^83]: Bureau of Justice Assistance (2005). *Program performance report: Residential Substance Abuse Treatment (RSAT) program*. Washington, DC: Office of Justice Programs, Bureau of Justice Assistance, U.S. Department of Justice. Retrieved from http://bit.ly/2rhgiYL.; Miller, N. (2013). *RSAT training tool: Medication Assisted Treatment (MAT) for offender populations*.  Washington, DC: Treatment Alternatives for Safe Communities, Bureau of Justice Assistance, U.S. Department of Justice. Retrieved from http://bit.ly/2sbpiP2.
-
-[^84]: Federal Bureau of Prisons. (2008). *Report to the Congress.* Washington, DC: Author. Retrieved from http://bit.ly/2rldGL8.
-
-[^85]: Bureau of Justice Assistance (2005). *Program performance report: Residential Substance Abuse Treatment (RSAT) program*. Washington, DC: Office of Justice Programs, Bureau of Justice Assistance, U.S. Department of Justice. Retrieved from http://bit.ly/2rhgiYL.
-
-[^86]: Federal Bureau of Prisons. (n.d.) *Substance abuse treatment.* Washington, DC: Author. Retrieved from http://bit.ly/1OciEL8.
-
-[^87]:  Bureau of Justice Assistance (2005). *Program performance report: Residential Substance Abuse Treatment (RSAT) program*. Washington, DC: Office of Justice Programs, Bureau of Justice Assistance, U.S. Department of Justice. Retrieved from http://bit.ly/2rhgiYL.
-
-[^88]: Harrison, L. D., & Martin, S. S. (2003). *Residential substance abuse treatment for state prisoners: Implementation lessons learned*. National Institute of Justice, Bureau of Justice Assistance, Washington, DC: U.S. Department of Justice. 
-
-[^89]: Federal Bureau of Prisons. (n.d.) *Substance abuse treatment.* Washington, DC: Author. Retrieved from http://bit.ly/1OciEL8.
-
-[^90]: National Institute on Drug Abuse. (2015). *Chart of evidence-based screening tools for adults and adolescents.* Bethesda, MD: Author. Retrieved from http://bit.ly/1MR43oA.
-
-[^91]: Texas Christian University. (2016). *TCU drug screen.* Fort Worth, TX: TCU Institute of Behavioral Research. Retrieved from http://bit.ly/2qwj5jm.
-
-[^92]: Northpointe Institute for Public Management, Inc. (2010, January 14). *COMPAS risk & need assessment system: Selected questions posed by inquiring agencies.* Retrieved from http://bit.ly/2nT8LPy.
-
-[^93]: National Institute on Drug Abuse. (2015). *Chart of evidence-based screening tools for adults and adolescents.* Bethesda, MD: Author. Retrieved from http://bit.ly/1MR43oA.
-
-[^94]: Bureau of Justice Assistance. (2016). *Residential Substance Abuse Treatment (RSAT) program. Biannual Grantee Feedback Report, April-September, 2015*. Washington, DC: U.S. Department of Justice. Retrieved from http://bit.ly/2r8mWlu.
-
-[^95]: Boyd, C. J., Pimlott-Kubiak, S., Harrell, Z., Morales, M, Roach, J., Slayden, J., & Young, A. (2001). *Program evaluation of Michigan department of corrections Residential Substance Abuse Treatment (RSAT): A descriptive assessment of prison and community-based treatment programs*. Ann Arbor, MI: Substance Abuse Research Center, University of Michigan.
-
-[^96]: Pelissier, B., S. Camp, G. Gaes, W. Rhodes, & W. Saylor. (n.d.) *Federal prison residential drug treatment: A comparison of three-year outcomes for men and women*. Washington, DC: Federal Bureau of Prisons.; What Works in Reentry Clearinghouse. (n.d.) *Pellisier et a. 2000-2003* (2). Counsel of State Governments. 
-Retrieved from http://bit.ly/2r8Dr10.
-
-[^97]: Taxman, F. S., Perdoni, M. L., & Caudy, M. (2013). The plight of providing appropriate substance abuse treatment services to offenders: Modeling the gaps in service delivery. *Victims & Offenders:* *An International Journal of Evidence-based Research, Policy, and Practice*, 8(1), 70-93.; Taxman, F. S., Perdoni, M. L., & Harrison, L. D., (2007). Drug treatment services for adult offenders: The state of the state. *Journal of Substance Abuse Treatment*, 32(3), 239-254. 
-
-[^98]: Center for Substance Abuse Treatment. (2005). *Substance abuse treatment for adults in the criminal justice system: 9 treatment issues specific to prisons.* Rockville, MD: Treatment Improvement Protocol (TIP) Series, 44, Substance Abuse and Mental Health Services Administration. Retrieved from http://bit.ly/2qxcBRr.
-
-[^99]: Center for Substance Abuse Treatment. (2005). *Substance abuse treatment for adults in the criminal justice system: 9 treatment issues specific to prisons.* Rockville, MD: Treatment Improvement Protocol (TIP) Series, 44, Substance Abuse and Mental Health Services Administration. Retrieved from http://bit.ly/2qxcBRr.
-
-[^100]: National Institute on Drug Abuse. (2015). *Chart of evidence-based screening tools for adults and adolescents.* Bethesda, MD: Author. Retrieved from http://bit.ly/1MR43oA.
-
-[^101]: Texas Christian University. (2016). *TCU drug screen.* Fort Worth, TX: TCU Institute of Behavioral Research. Retrieved from http://bit.ly/2qwj5jm.
-
-[^102]: Northpointe Institute for Public Management, Inc. (2010, January 14). *COMPAS risk & need assessment system: Selected questions posed by inquiring agencies.* Retrieved from http://bit.ly/2nT8LPy.
-
-[^103]: National Institute on Drug Abuse. (2015). *Chart of evidence-based screening tools for adults and adolescents.* Bethesda, MD: Author. Retrieved from http://bit.ly/1MR43oA.
-
-
-[^104]: Quality and capacity are important. Fidelity to “what works” to treat individuals with SUDs is vital in order to see desired outcomes.
-
-[^105]: Mumola, C. J., & Karberg, J. C. (October 2004). *Drug use and dependence, state and federal prisoners, 2004*. Washington DC: Bureau of Justice Statistics, U.S. Department of Justice. Retrieved from http://bit.ly/2rhmbVR.; Karberg, J. C., & James, D. J. (2002). *Substance dependence, abuse, and treatment of jail inmates, 2002.* Washington, DC: Bureau of Justice Statistics, U.S. Department of Justice. Retrieved from http://bit.ly/2sjgoOP.
-
-[^106]: Mitchell, O. Wilson, D. B., & MacKenzie, D. L. (2012). The effectiveness of incarceration-based drug treatment on criminal behavior: A systematic review. *The Campbell Collaboration: Systematic Reviews*, 18.
-
-[^107]: Pearson, F. S., Lipton, D. S., Cleland, C. M., & Yee, D. S. (2002). The effects of behavioral/cognitive-behavioral programs on recidivism. *Crime and Delinquency, 48*(3), 476- 496.
-
-[^108]: Taxman, F. S., Perdoni, M. L., & Caudy, M. (2013). The plight of providing appropriate substance abuse treatment services to offenders: Modeling the gaps in service delivery. *Victims & Offenders: An International Journal of Evidence-based Research, Policy, and Practice,* 8(1), 70-93. 
-
-[^109]:   Lee, J. D., Nunes Jr., A. V., Novo, P., Bachrach, K., Bailey, G. L., Bhatt, S…..Rotrosen, J. (2017). Comparative effectiveness of extended-release naltrexone versus buprenorphine-naloxone for opioid relapse prevention (X:BOT): A multicenter, open-label, randomized controlled trial. *The Lancet*, 50, 253-264.; Lott, D. C. (2017). Extended-release naltrexone: Good but not a panacea. *The Lancet*, 391, 283-284.
-
-[^110]: Lee, J. D., Nunes Jr., A. V., Novo, P., Bachrach, K., Bailey, G. L., Bhatt, S…..Rotrosen, J. (2017). Comparative effectiveness of extended-release naltrexone versus buprenorphine-naloxone for opioid relapse prevention (X:BOT): A multicenter, open-label, randomized controlled trial. *Contemporary Clinical Trials*, 50, 253-264.
-
-[^111]: Lee, J. D., Nunes Jr., A. V., Novo, P., Bachrach, K., Bailey, G. L., Bhatt, S…..Rotrosen, J. (2017). Comparative effectiveness of extended-release naltrexone versus buprenorphine-naloxone for opioid relapse prevention (X:BOT): A multicenter, open-label, randomized controlled trial. *Contemporary Clinical Trials*, 50, 253-264.
-
-[^112]: Kunoe, N. l., Opheim, A., Solli, K. K., Gaulen, Z., Sharma-Haase, K., Latif, Z. E., & Tanum, L. (2016). Design of a randomized controlled trial of extended-release naltrexone versus daily buprenorphine-naloxone for opioid dependence in Norway (NTX-SBX). *BMC Pharmacology & Toxicology*, 17, 18.; Tanum, L., Solli, K. K., Latif, Z. E., Benth, J.S., Sharma-Haase, K., Krajci, P., & Kunoe, N. (2017). Effectiveness of injectable extended-release naltrexone vs daily buprenorphine-naloxone for opioid dependence: A randomized clinical noninferiority trial. *JAMA Psychiatry*, 74(12), 1197-1205.
-
-[^113]: Tanum, L., Solli, K. K., Latif, Z. E., Benth, J.S., Sharma-Haase, K., Krajci, P., & Kunoe, N. (2017). Effectiveness of injectable extended-release naltrexone vs daily buprenorphine-naloxone for opioid dependence: A randomized clinical noninferiority trial. *JAMA Psychiatry*, 74(12), 1197-1205.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+[^47]: Note: Clinically significant impairment is a standardized classification of legal competence measured with the “Understanding” and “Reasoning” sections of the MacArthur Competence Assessment Tool—Criminal Adjudication (MacCat-CA).
+Redlich, A. D., Hoover, S., Summers, A., & Steadman, H. J. (2010). Enrollment in mental health courts: Voluntariness, knowingness, and adjudicative competence. _Law and Human Behavior, 34_(2), 91-104.
 

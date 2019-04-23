@@ -37,7 +37,7 @@ module.exports = {
       "In the United States, more than 20 million individuals have substance use disorders (SUDs)—not including individuals with more mild or moderate substance use and misuse. Of those with SUDs, just over 10 percent ultimately receive treatment. On average, costs incurred in the United States from alcohol and drug use due to lost work productivity, health care expenses, motor vehicle accidents, and criminal justice costs exceeds $400 billion. Almost half of the cost is at the taxpayers’ expense.",
 
     lastUpdate: "2019-04-23",
-    fb_Image: "https://continuum-mh.netlify.com/splash-cropped-min.png",
+    fb_Image: "https://continuum-mh.netlify.com/kevin-liu-482368-unsplash.jpg",
     fb_AppId: "658596667606445",
     fb_Type: "article",
     fb_Locale: "en_US",

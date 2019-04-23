@@ -1,126 +1,159 @@
 ---
-title: 'Initial Detention / Initial Court Hearings'
+title: 'Post-arrest: Initial Detention and Initial Hearings'
 timelineTitle: 'Intercept 2'
-posted: 2019-04-11
-updated: 2019-04-11
-excerpt: 'This intercept involves post-arrest, initial detention, or initial court hearings. This includes pre-trial programs and public defender or prosecution programs.'
+posted: 2019-04-23
+updated: 2019-04-23
+excerpt: 'Individuals with mental health disorders (MHDs) are less likely to be able to afford monetary bail, and more likely to remain in custody for longer periods of time if not diverted.'
 position: 20
 timeline: true
 displayTimelineTitle: true
-color: 'cyan darken-4'
 sidebar: true
 ---
 
-This intercept involves post-arrest, initial detention, or initial court hearings. This includes pre-trial programs and public defender or prosecution programs.
+Individuals with mental health disorders (MHDs) are less likely to be able to afford monetary bail, and more likely to remain in custody for longer periods of time if not diverted.[^1] In addition to negative consequences that all individuals face due to time spent in jail, such as disruption to routine and potential loss of employment or housing, even a short jail stay can be detrimental to an individual with a mental health condition if mental health treatment or access to medication is interrupted.[^2]
 
-<details>
-<summary>PRE-BOOKING COMMUNITY-BASED DIVERSION</summary>
-	
-**Description:** Police may exercise discretion to divert individuals with potential SUDs or other substance use issues in lieu of standard jail booking and criminal justice prosecution for non-violent, non-felony offenses.[^1]  Based on the [Law Enforcement Assisted Diversion (LEAD) program](http://www.leadbureau.org/) out of Seattle, an arresting officer goes through initial arrest protocols (arresting person, writing case report, collecting evidence), but then flags the case and asks the prosecutor to not immediately file charges.[^2]  The arrestee is assigned a case manager who facilitates an entry evaluation and refers them to a variety of services that can include 
+Following arrest, defendants with MHDs may be eligible for diversion from standard criminal justice processing and linked to mental health treatment in the community. Typically, a prosecutor or judge must give approval to pursue a diversion option. Diversion to treatment may be in lieu of prosecution or incarceration. Participation is usually voluntary.[^3] The specific characteristics of a post-arrest diversion model can be adapted to the needs and resources of the implementing jurisdiction. For example, diversion programs can be administered through the court system or through the jail. Jail-based diversion is typically carried out by pretrial services staff or specialized jail staff, whereas court-based diversion often employs a mental health professional.[^4]
 
- - substance use treatment and/or services; 
- - housing assistance;
- - job and educational services; 
- - legal advocacy; and/or 
- - counseling.[^3]  
+While there may be some variation in court system and jail-based program implementation, post-arrest diversion is generally characterized by three main components:[^5]
 
-In some cases, the individual may be prosecuted if he/she does not initiate services within 30 days from entry evaluation.[^4]  Programs may operate similar to this, but as deferred prosecution programs. However, there is limited research related to deferred prosecution programs.
+- **Screening** of all individuals detained in jail to identify possible MHDs. [The Brief Jail Mental Health Screen](https://www.prainc.com/wp-content/uploads/2015/10/bjmhsform.pdf) is a validated screening tool developed by Policy Research Associates, Inc., and is available at no cost.[^6] The screening can be completed by jail staff at intake and qualifying individuals should be referred for further mental health assessment.
+-	**Assessment** of an individual’s symptoms by mental health professionals during initial jail detention to provide a recommendation to the court.[^7] Jurisdictions that do not employ mental health professionals at this stage may task pre-trial services or defense counsel with conducting a mental health assessment.[^8]
+-	**Negotiation** between criminal justice personnel and diversion staff (e.g. specialized jail staff or mental health professionals) to agree on a plan for community-based treatment and supervision.[^9]
 
+The screening and identification processes are most efficient when conducted in the first 24 to 72 hours following arrest. This reduces pre-trial detention time for those with MHDs and provides access to needed mental health treatment.[^10] Some jurisdictions have created information sharing pathways from jails and courts to the local mental health system to streamline the eligibility determinations.[^11] In Illinois, the Department of Human Services, Division of Mental Health operates the [Jail Data Link System](https://sisonline.dhs.state.il.us/jaillink/home.asp), which helps identify individuals involved in both the criminal justice and mental health systems.
 
-----------
-**Goals:**
+Charges may be dismissed by the court upon successful completion of a mental health treatment plan (deferred prosecution).[^12] Mental health treatment staff ensure the confidentiality of information about an individual’s MHD; they only provide information on what the treatment plan is and whether the individual has complied with their treatment plan.[^13] If participants fail to comply with the conditions of diversion, the case may be returned to court for traditional criminal justice processing.[^14]
 
- - Divert to treatment rather than jail and prosecution to individuals with SUDs.
- - Intervene in cycle of substance use, crime, and criminal justice involvement.
- - Reduce recidivism.
- - Decrease monetary costs for criminal justice system. 
- - Improve public safety.
- - Improve public health. 
- - Reduce reliance on formal criminal justice processing.[^5] 
+## Goals:
 
+-	Increase access to mental health treatment.[^15]
+-	Reduce further involvement in the criminal justice system.[^16]
+-	Reduce use of pretrial detention and lessen jail overcrowding.[^17]
+- Decrease costs to the criminal justice system.[^18]
 
-----------
-**Eligibility:** Example eligibility criteria from the [Law Enforcement-Assisted Diversion (LEAD)](http://www.leadbureau.org/) program out of Seattle, Washington is as follows:
+## Eligibility:
 
- - Individual suspected of a controlled substance offense, prostitution offense, or minor property crime offenses related to substance use (non-violent and non-felony).
- - Police believe individual is amenable to diversion.
- - Offense does not involve delivery, possession with intent to deliver, or dealing with intent to profit.
- - Offense does not involve exploitation of minors in dealing or distributing drugs.
- - Offense does not involve promotion of prostitution.
- - Individual has previous convictions for murder, arson, robbery, assault, kidnapping, sex offense, or attempt of any of these crimes (this may vary by department and may include other offenses like domestic violence within a specific time-frame). 
- - Individual has participated or is currently participating in other criminal justice diversion programs.
- - The individual is willing to participate.[^6] 
+Eligibility decisions for post-arrest diversion typically take into the account the circumstances and crime surrounding the individual’s arrest. Examples of different possible eligible offense types include:
 
-Police typically have full discretion for referral to program based on initial contact with individual. Further, police may also refer known substance users from previous contacts and increasingly engage in outreach efforts.[^7]   
+-	Non-violent offense.
+-	Low-level offense.
+-	Offenses directly related to a mental health condition.[^19]
 
+A multi-site study of post-arrest diversion programs indicated no significant differences in outcomes between individuals arrested for a violent offense and those arrested for a non-violent offense.[^20] This suggests diversion can be beneficial to individuals regardless of offense type.
 
-----------
-**Research findings:** To date, the [Law Enforcement-Assisted Diversion (LEAD) program](http://www.leadbureau.org/resources) in Seattle has been the only such program evaluated extensively with a report on [recidivism](http://media.wix.com/ugd/6f124f_8183d4c04a09456cb48f92875ab2e188.pdf) , [criminal and legal system costs and utilization](http://media.wix.com/ugd/6f124f_2f66ef4935c04d37a11b04d1998f61e2.pdf), and [client outcomes](http://media.wix.com/ugd/6f124f_dbde96f835db4526abf7bfda03d0040f.pdf) (housing, employment, income/benefits). LEAD is a ***promising*** program; there currently is not enough substantial research to identify it as evidence-based. During the first six months of evaluation, 30 percent of LEAD participants were less likely to be arrested compared to the control group.[^8]  After a little more than four years, participants were 58 percent less likely to be arrested compared to the control group after their entry evaluation.[^9]  Participants subsequent to entry into LEAD, on average, demonstrated significantly lower likelihood of 
+Additionally, eligibility criteria may be based on the severity of mental health symptoms or type of diagnosis.[^21] For example, a post-arrest diversion program in Florida examines the following factors when determining a defendant’s eligibility: 
 
- - felony cases (64 percent); 
- - King County jail bookings (69 percent); 
- - days in jail (68 percent); and 
- - days in state prison (87 percent).[^10]  
+-	Severity of charges.
+-	Criminal history.
+-	Mental health history.[^22]
 
-In addition, it costs less to connect people to services via LEAD than it does to formally process them into the criminal justice system.[^11]  The cost of LEAD participants from pre- to post entry evaluation, cost reductions were \$2,100, whereas the control group (system-as-usual) demonstrated cost increases (\$5,961). After initial start-up of LEAD, program costs decreased from \$899 per month to \$532 per month.[^12]  Further, the program had a positive effect on participants’ income and housing.[^13]
+Jurisdictions may be limited in offering post-arrest diversion to mental health treatment due to mandatory sentencing policies that do not allow for diversion options.[^23] When diversion programs are limited to defendants facing very minor charges, potential participants may decline the opportunity for diversion because their sentences may be less burdensome than the requirements of a diversion program.[^24] Some individuals may choose not to participate due to the fear that sharing their mental health information may negatively bias the court and sentencing.[^25]
 
+## Research Evidence:
 
-----------
-**Examples in the field:**  Many agencies are developing programs similar to the LEAD program in Seattle and the following are operational: 
+Studies typically compare the outcomes of those diverted to those who go through standard criminal justice processing. Researchers also use individuals reentering the community from incarceration as a control group for those who were diverted post-arrest.[^26]
 
- - Santa Fe, N. M.
- - Albany, N.Y.
- - Huntington, W. Va. 
- - Canton, Ohio. 
+The findings of research on post-arrest diversion programs are mixed. Some research has shown post-arrest diversion programs may lead to:
 
-Several others are in final stages of implementation: 
+-	Fewer days in jail.[^27]
+-	Reduced recidivism.[^28]
+-	More time in the community (e.g. not incarcerated or hospitalized in a psychiatric facility).[^29]
+-	More mental health treatment for those in need.[^30] 
+-	Improvements in mental health symptoms/conditions.[^31]
 
- - Baltimore, Md. 
- - Portland, Maine. 
- - San Francisco.
+However, other research has shown potentially negative outcomes associated with post-arrest diversion, including increased use of emergency psychiatric services,[^32] reduced likelihood of receiving mental health medication,[^33] increased anxiety and psychiatric symptomology,[^34] and no meaningful reductions in recidivism[^35] or revocations of conditional release.[^36]
 
+The Washington State Institute for Public Policy review of potential costs and savings associated with post-arrest diversion suggests potential for a monetary benefit per participant ($734) and a 51 percent chance that the benefits of the program will exceed the overall costs.[^37]
 
-----------
-**Read More**
+While potentially promising, these findings should be interpreted with caution due to the relatively small number of studies conducted and the wide variation in interventions employed by programs under the term “diversion.” Many positive outcomes may be more dependent on the treatment and services received, and less a result of the diversion event.[^38]
 
-[Rethinking law enforcement’s role on drugs: Community drug intervention and diversion efforts](http://www.icjia.org/articles/rethinking-law-enforcement-s-role-on-drugs-community-drug-intervention-and-diversion-efforts)
+## Examples in the Field:
 
-	
-For more information on developing deflection/diversion initiatives:
+-	[Criminal Justice Diversion Program](http://www.ct.gov/dmhas/LIB/dmhas/publications/jaildiversion.pdf): Connecticut (statewide)
+-	[Criminal Mental Health Program](https://www.jud11.flcourts.org/Post-Booking-Diversion): Miami-Dade County, Fla., (11th Judicial Circuit)
+-	[Data Link Project](http://www.pacenterofexcellence.pitt.edu/documents/Using%20Management%20Information%20Systems%20to%20Locate%20People%20with%20Serious%20Mental%20Illness.pdf): Maricopa County, Ariz.
+-	[Misdemeanor Arraignment Diversion Project](https://www.prainc.com/jail-diversion-at-arraignment/): New York, New York
 
-[COPS: Building Successful Partnerships between Law Enforcement and Public Health](https://ric-zai-inc.com/Publications/cops-p356-pub.pdf)
-	
-[LEAD National Support Bureau](www.leadbureau.org)
-	
-[Police Assisted Addiction and Recovery Initiative](https://paariusa.org)
+## Additional Resources:
 
-</details>
+[Effective Court Responses to Persons with Mental Disorders](https://www.ncsc.org/~/media/Files/PDF/Topics/Criminal/Effective-Court-Responses-Mental-Disorders.ashx) - National Center for State Courts (2018)
 
+[Improving Responses to People with Mental Illnesses at the Pretrial Stage: Essential Elements](https://csgjusticecenter.org/wp-content/uploads/2015/09/Improving_Responses_to_People_with_Mental_Illnesses_at_the_Pretrial_Stage_Essential_Elements.pdf) – Council for State Governments Justice Center (2015)
 
-[^1]: Police Executive Research Forum. (2016). *Building successful partnerships between law enforcement and public health agencies to address opioid use.* COPS Office Emerging Issues Forums. Washington, DC: Office of Community Oriented Policing Services.; There are currently several other types of law enforcement deflection and diversion programs and initiatives; however, there is currently none or not enough research or evidence to report identify them as evidence-informed programs due to lack of evaluation research. These include: STEER, Civil Citations Pre-Arrest Diversion, the Arlington Outreach Model, and Conversations for Change.
-	
-[^2]: Beckett, K. (2014). *Seattle's law enforcement assisted diversion program: Lessons learned from the first two years.* Seattle, WA: University of Washington.; Police Executive Research Forum. (2016). *Building successful partnerships between law enforcement and public health agencies to address opioid use.* COPS Office Emerging Issues Forums. Washington, DC: Office of Community Oriented Policing Services.
-	
-[^3]: olice Executive Research Forum. (2016). *Building successful partnerships between law enforcement and public health agencies to address opioid use.* COPS Office Emerging Issues Forums. Washington, DC: Office of Community Oriented Policing Services.
+[^1]: Substance Abuse and Mental Health Services Administration. (2015). _Municipal courts: An effective tool for diverting people with mental and substance use disorders from the criminal justice system._ HHS Publication No. (SMA)-15-4929. Rockville, MD: Substance Abuse and Mental Health Services Administration.
 
-[^4]: Collins, S.E., Lonczak, H. S., & Clifasefi, S. L. (2015). *LEAD program evaluation: Recidivism report*. Seattle, WA: University of Washington LEAD Evaluation Team, Harm Reduction Research and Treatment Lab.; National Support Bureau. (n.d.). *What is LEAD?* Retrieved from http://bit.ly/2qftnzT.
+[^2]: Substance Abuse and Mental Health Services Administration. (2015). _Municipal courts: An effective tool for diverting people with mental and substance use disorders from the criminal justice system._ HHS Publication No. (SMA)-15-4929. Rockville, MD: Substance Abuse and Mental Health Services Administration.
 
-[^5]: Police Executive Research Forum. (2016). *Building successful partnerships between law enforcement and public health agencies to address opioid use.* COPS Office Emerging Issues Forums. Washington, DC: Office of Community Oriented Policing Services.
+[^3]: Heilbrun, K., DeMatteo, D., Brooks-Holliday, S., & Griffin, P.A. (2015). Intercept 2: Initial detention and initial hearings. In P.A. Griffin, K. Heilbrun, E.P. Mulvey, D. DeMatteo, & C.A. Schubert (Eds.). _The sequential intercept model and criminal justice: Promoting community alternatives for individuals with serious mental illness_ (pp. 57-77). USA: Oxford University Press.
 
-[^6]: Police Executive Research Forum. (2016). *Building successful partnerships between law enforcement and public health agencies to address opioid use.* COPS Office Emerging Issues Forums. Washington, DC: Office of Community Oriented Policing Services.; National Support Bureau. (n.d.). *What is LEAD?* Retrieved from http://bit.ly/2qftnzT.
+[^4]: Sirotich, F. (2009). The criminal justice outcomes of jail diversion programs for persons with mental illness: a review of the evidence. _Journal of the American Academy of Psychiatry and the Law Online, 37_(4), 461-472.
 
+[^5]: Steadman, H. J., Barbera, S. S., & Dennis, D. L. (1994). A national survey of jail diversion programs for mentally ill detainees. _Psychiatric Services, 45_(11), 1109-1113.
 
-[^7]: Police Executive Research Forum. (2016). *Building successful partnerships between law enforcement and public health agencies to address opioid use.* COPS Office Emerging Issues Forums. Washington, DC: Office of Community Oriented Policing Services.
+[^6]: Steadman, H. J., Scott, J. E., Osher, F., Agnese, T. K., & Robbins, P. C. (2005). Validation of the brief jail mental health screen. _Psychiatric Services, 56_(7), 816-822.
 
-[^8]: Beckett, K. (2014). *Seattle's law enforcement assisted diversion program: Lessons learned from the first two years*. Seattle, WA: University of Washington.; Collins, S.E., Lonczak, H. S., & Clifasefi, S. L. (2015). *LEAD program evaluation: Recidivism report*. Seattle, WA: University of Washington LEAD Evaluation Team, Harm Reduction.
+[^7]: Munetz, M. R., & Griffin, P. A. (2006). Use of the sequential intercept model as an approach to decriminalization of people with serious mental illness. _Psychiatric Services, 57_(4), 544-549.; DeMatteo, D., LaDuke, C., Locklair, B. R., & Heilbrun, K. (2013). Community-based alternatives for justice-involved individuals with severe mental illness: Diversion, problem-solving courts, and reentry. _Journal of Criminal Justice, 41_(2), 64-71.
 
-[^9]: Collins, S.E., Lonczak, H. S., & Clifasefi, S. L. (2015). *LEAD program evaluation: Recidivism report*. Seattle, WA: University of Washington LEAD Evaluation Team, Harm Reduction.; Police Executive Research Forum. (2016). *Building successful partnerships between law enforcement and public health agencies to address opioid use.* COPS Office Emerging Issues Forums. Washington, DC: Office of Community Oriented Policing Services.
+[^8]: Substance Abuse and Mental Health Services Administration. (2015). _Municipal courts: An effective tool for diverting people with mental and substance use disorders from the criminal justice system._ HHS Publication No. (SMA)-15-4929. Rockville, MD: Substance Abuse and Mental Health Services Administration.
 
-[^10]: Collins, S. E., Lonczak, H. S., & Clifasefi, S. L. (2015). *LEAD program evaluation: Criminal justice and legal system utilization and associated costs.* Seattle, WA: University of Washington LEAD Evaluation Team, Harm Reduction.
+[^9]: Broner, N., Lattimore, P. K., Cowell, A. J., & Schlenger, W. E. (2004). Effects of diversion on adults with co‐occurring mental illness and substance use: Outcomes from a national multi‐site study. _Behavioral Sciences & the Law, 22_(4), 519-541.; Broner, N., Mayrl, D. W., & Landsberg, G. (2005). Outcomes of mandated and nonmandated New York City jail diversion for offenders with alcohol, drug, and mental disorders. _The Prison Journal, 85_(1), 18-49.
 
-[^11]: Police Executive Research Forum. (2016). *Building successful partnerships between law enforcement and public health agencies to address opioid use.* COPS Office Emerging Issues Forums. Washington, DC: Office of Community Oriented Policing Services.
+[^10]: Steadman, H. J., Morris, S. M., & Dennis, D. L. (1995). The diversion of mentally ill persons from jails to community-based services: A profile of programs. _American Journal of Public Health, 85_(12), 1630-1635.
 
-[^12]: Collins, S. E., Lonczak, H. S., & Clifasefi, S. L. (2015). *LEAD program evaluation: Criminal justice and legal system utilization and associated costs.* Seattle, WA: University of Washington LEAD Evaluation Team, Harm Reduction.
+[^11]: Note: In Arizona, this is a one-way path for information; information on individuals entering the mental health records system are not shared with jail officials. 
+Raider, E., & Arthur, B. (1999). Using management information systems to locate people with serious mental illnesses and co-occurring substance abuse disorders in the criminal justice system for diversion: Maricopa County Data Link Project. _Jail Suicide/Mental Health Update, 9_(2), 6-9.
 
-[^13]: Police Executive Research Forum. (2016). *Building successful partnerships between law enforcement and public health agencies to address opioid use.* COPS Office Emerging Issues Forums. Washington, DC: Office of Community Oriented Policing Services.
+[^12]: Shafer, M. S., Arthur, B., & Franczak, M. J. (2004). An analysis of post‐booking jail diversion programming for persons with co‐occurring disorders. _Behavioral Sciences and the Law, 22_(6), 771-785.
+
+[^13]: Frisman, L., Sturges, G. E., Baranoski, M. V., & Levinson, M. (2001). Connecticut’s criminal justice diversion program: A comprehensive community forensic mental health model. _Community Mental Health Report, 3_, 19-20, 25-26.
+
+[^14]: Heilbrun, K., DeMatteo, D., Brooks-Holliday, S., & Griffin, P.A. (2015). Intercept 2: Initial detention and initial hearings. In P.A. Griffin, K. Heilbrun, E.P. Mulvey, D. DeMatteo, & C.A. Schubert (Eds.). _The sequential intercept model and criminal justice: Promoting community alternatives for individuals with serious mental illness_ (pp. 57-77). USA: Oxford University Press.
+
+[^15]: Perez, A., Leifman, S., & Estrada, A. (2003). Reversing the criminalization of mental illness. _Crime & Delinquency, 49_(1), 62-78.
+
+[^16]: Sirotich, F. (2009). The criminal justice outcomes of jail diversion programs for persons with mental illness: a review of the evidence. _Journal of the American Academy of Psychiatry and the Law Online, 37_(4), 461-472.
+
+[^17]: Heilbrun, K., DeMatteo, D., Brooks-Holliday, S., & Griffin, P.A. (2015). Intercept 2: Initial detention and initial hearings. In P.A. Griffin, K. Heilbrun, E.P. Mulvey, D. DeMatteo, & C.A. Schubert (Eds.). _The sequential intercept model and criminal justice: Promoting community alternatives for individuals with serious mental illness_ (pp. 57-77). USA: Oxford University Press.
+
+[^18]: Heilbrun, K., DeMatteo, D., Brooks-Holliday, S., & Griffin, P.A. (2015). Intercept 2: Initial detention and initial hearings. In P.A. Griffin, K. Heilbrun, E.P. Mulvey, D. DeMatteo, & C.A. Schubert (Eds.). _The sequential intercept model and criminal justice: Promoting community alternatives for individuals with serious mental illness_ (pp. 57-77). USA: Oxford University Press.
+
+[^19]: Munetz, M. R., & Griffin, P. A. (2006). Use of the sequential intercept model as an approach to decriminalization of people with serious mental illness. _Psychiatric Services, 57_(4), 544-549.
+
+[^20]: Naples, M., & Steadman, H. J. (2003). Can persons with co-occurring disorders and violent charges be successfully diverted?. _International Journal of Forensic Mental Health, 2_(2), 137-143.
+
+[^21]: Heilbrun, K., DeMatteo, D., Brooks-Holliday, S., & Griffin, P.A. (2015). Intercept 2: Initial detention and initial hearings. In P.A. Griffin, K. Heilbrun, E.P. Mulvey, D. DeMatteo, & C.A. Schubert (Eds.). _The sequential intercept model and criminal justice: Promoting community alternatives for individuals with serious mental illness_ (pp. 57-77). USA: Oxford University Press.
+
+[^22]: Perez, A., Leifman, S., & Estrada, A. (2003). Reversing the criminalization of mental illness. _Crime & Delinquency, 49_(1), 62-78.
+
+[^23]: DeMatteo, D., LaDuke, C., Locklair, B. R., & Heilbrun, K. (2013). Community-based alternatives for justice-involved individuals with severe mental illness: Diversion, problem-solving courts, and reentry. _Journal of Criminal Justice, 41_(2), 64-71.
+
+[^24]: Substance Abuse and Mental Health Services Administration. (2015). _Municipal courts: An effective tool for diverting people with mental and substance use disorders from the criminal justice system._ HHS Publication No. (SMA)-15-4929. Rockville, MD: Substance Abuse and Mental Health Services Administration.
+
+[^25]: Substance Abuse and Mental Health Services Administration. (2015). _Municipal courts: An effective tool for diverting people with mental and substance use disorders from the criminal justice system._ HHS Publication No. (SMA)-15-4929. Rockville, MD: Substance Abuse and Mental Health Services Administration.
+
+[^26]: Heilbrun, K., DeMatteo, D., Yasuhara, K., Brooks-Holliday, S., Shah, S., King, C., Dicarlo, A. B., Hamilton, D., & Laduke, C. (2012). Community-based alternatives for justice-involved individuals with severe mental illness: Review of the relevant research. _Criminal Justice and Behavior, 39_(4), 351-419.
+
+[^27]: Hoff, R. A., Baranosky, M. V., Buchanan, J., Zonana, H., & Rosenheck, R. A. (1999). The effects of a jail diversion program on incarceration: A retrospective cohort study. _Journal of the American Academy of Psychiatry and the Law Online, 27_(3), 377-386.; Lamberti, J. S., Weisman, R. L., Schwarzkopf, S. B., Price, N., Ashton, R. M., & Trompeter, J. (2001). The mentally ill in jails and prisons: Towards an integrated model of prevention. _Psychiatric Quarterly, 72_(1), 63-77.
+
+[^28]: Swanson, R. M., Ghokar, R., & Tolle, L. W. (2011). Arapahoe county diverts the mentally ill to treatment (ADMIT): A program evaluation. _Corrections & Mental Health: An Update of the National Institute of Corrections, 1_, 1-16.
+
+[^29]: Broner, N., Mayrl, D. W., & Landsberg, G. (2005). Outcomes of mandated and nonmandated New York City jail diversion for offenders with alcohol, drug, and mental disorders. _The Prison Journal, 85_(1), 18-49.; Lamberti, J. S., Weisman, R. L., Schwarzkopf, S. B., Price, N., Ashton, R. M., & Trompeter, J. (2001). The mentally ill in jails and prisons: Towards an integrated model of prevention. _Psychiatric Quarterly, 72_(1), 63-77.
+
+[^30]: Steadman, H. J., & Naples, M. (2005). Assessing the effectiveness of jail diversion programs for persons with serious mental illness and co‐occurring substance use disorders. _Behavioral Sciences & the Law, 23_(2), 163-170.
+
+[^31]: Shafer, M. S., Arthur, B., & Franczak, M. J. (2004). An analysis of post‐booking jail diversion programming for persons with co‐occurring disorders. _Behavioral Sciences & the Law, 22_(6), 771-785.
+
+[^32]: Shafer, M. S., Arthur, B., & Franczak, M. J. (2004). An analysis of post‐booking jail diversion programming for persons with co‐occurring disorders. _Behavioral Sciences & the Law, 22_(6), 771-785.; Steadman, H. J., & Naples, M. (2005). Assessing the effectiveness of jail diversion programs for persons with serious mental illness and co‐occurring substance use disorders. _Behavioral Sciences & the Law, 23_(2), 163-170.
+
+[^33]: Broner, N., Lattimore, P. K., Cowell, A. J., & Schlenger, W. E. (2004). Effects of diversion on adults with co‐occurring mental illness and substance use: Outcomes from a national multi‐site study. _Behavioral Sciences & the Law, 22_(4), 519-541.
+
+[^34]: Broner, N., Lattimore, P. K., Cowell, A. J., & Schlenger, W. E. (2004). Effects of diversion on adults with co‐occurring mental illness and substance use: Outcomes from a national multi‐site study. _Behavioral Sciences & the Law, 22_(4), 519-541.
+
+[^35]: Sirotich, F. (2009). The criminal justice outcomes of jail diversion programs for persons with mental illness: a review of the evidence. _Journal of the American Academy of Psychiatry and the Law Online, 37_(4), 461-472.
+
+[^36]: Bertman‐Pate, L. J., Burnett, D. M., Thompson, J. W., Calhoun, C. J., Deland, S., & Fryou, R. M. (2004). The New Orleans Forensic Aftercare Clinic: A seven year review of hospital discharged and jail diverted clients. _Behavioral Sciences & the Law, 22_(1), 159-169.
+
+[^37]: Washington State Institute for Public Policy. (2017). _Jail diversion for individuals with mental illness (post-arrest). Benefit-Cost Results._ Retrieved from http://www.wsipp.wa.gov/BenefitCost/Program/498
+
+[^38]: Broner, N., Lattimore, P. K., Cowell, A. J., & Schlenger, W. E. (2004). Effects of diversion on adults with co‐occurring mental illness and substance use: Outcomes from a national multi‐site study. _Behavioral Sciences & the Law, 22_(4), 519-541.
 

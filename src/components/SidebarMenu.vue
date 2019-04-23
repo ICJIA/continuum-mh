@@ -50,7 +50,7 @@
           >
         </h5>
         <h5 class="pt-1" style="font-weight: 400">
-          <a href="https://github.com/ICJIA/continuum-sud" class="sidebar-info"
+          <a href="https://github.com/ICJIA/continuum-mh" class="sidebar-info"
             >View on Github</a
           >
         </h5>
