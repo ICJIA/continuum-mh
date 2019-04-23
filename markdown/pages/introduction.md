@@ -1,7 +1,7 @@
 ---
-title: 'Reducing Substance Use Disorders and Related Offending: A Continuum of Evidence-Informed Practices in the Criminal Justice System'
-posted: 2019-04-11
-updated: 2019-04-11
+title: 'Mental Health Disorders and the Criminal Justice System: A Continuum of Evidence-Informed Practices'
+posted: 2019-04-23
+updated: 2019-04-23
 position: 10
 showRule: true
 component: 'BasePage'
