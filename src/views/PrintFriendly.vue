@@ -4,13 +4,17 @@
     <v-container fluid>
       <v-layout row>
         <v-flex class="" xs10 offset-xs1>
-          <v-btn to="/" color="cyan darken-4" class="white--text no-print">
+          <v-btn
+            to="/"
+            :color="config.primaryColor"
+            class="white--text no-print"
+          >
             <v-icon left dark>arrow_back</v-icon>
             Back to site
           </v-btn>
           <v-btn
             @click="print"
-            color="cyan darken-4"
+            :color="config.primaryColor"
             class="white--text no-print"
           >
             <v-icon left dark>print</v-icon>
@@ -51,10 +55,16 @@
 import { mapGetters } from "vuex";
 import BaseSnackbar from "@/components/BaseSnackbar";
 import BaseAuthor from "@/components/BaseAuthor";
+import config from "@/config";
 export default {
   components: {
     BaseSnackbar,
     BaseAuthor
+  },
+  data() {
+    return {
+      config
+    };
   },
   methods: {
     sanitize(html) {
