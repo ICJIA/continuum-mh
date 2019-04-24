@@ -1,7 +1,7 @@
 ---
 title: 'Mental Health Disorders and the Criminal Justice System: A Continuum of Evidence-Informed Practices'
-posted: 2019-04-23
-updated: 2019-04-23
+posted: 2019-04-11
+updated: 2019-04-11
 position: 10
 showRule: true
 component: 'BasePage'
@@ -12,131 +12,63 @@ displayAuthor: true
 printFriendly: true
 ---
 
-<span class="drop">I</span>n the United States, more than 20 million individuals have substance use disorders (SUDs)—not including individuals with more mild or moderate substance use and misuse.[^1]  Of those with SUDs, just over 10 percent ultimately receive treatment.[^2]  On average, costs incurred in the United States from alcohol and drug use due to lost work productivity, health care expenses, motor vehicle accidents, and criminal justice costs exceeds $400 billion. Almost half of the cost is at the taxpayers’ expense.[^3] 
+<span class="drop">M</span>ental health disorders (MHD) are between three and six times more common among individuals involved in the criminal justice system compared to the general population.[^1] In the United States, 24 percent of individuals who are incarcerated reported receiving a clinical diagnosis or treatment for a MHD within the past year and 49 percent reported experiencing symptoms of a MHD.[^2] Research estimates 1 million individuals with a MHD are on probation or parole in the United States.[^3]
 
 <details>
-<summary>READ MORE</summary>
-	
-Of the 20 million individuals with SUDs, a subset is involved with the criminal justice system. More than half of the 2.2 million individuals housed in U.S. prisons and jails meet the clinical diagnosis criteria for SUDs.[^4]  Seventy-eight percent of violent crimes and 77 percent of property crimes involve drugs and/or alcohol.[^5]  The government spends an estimated $74 billion dollars on court processing, community supervision, and imprisonment of individuals with SUDs, but just 1 percent of that amount on prevention and treatment for these individuals.[^6]  In addition, about 11 percent of prisoners with SUDs or substance misuse receive treatment.[^7]
 
-Today, SUDs and substance misuse and abuse are considered a [public health issue](https://addiction.surgeongeneral.gov/index.php/executive-summary/report), as well as a criminal justice concern. Public health, treatment providers, medical, and criminal justice professionals, as well as community members, legislators, and other stakeholders, are encouraged to collaborate to develop a comprehensive approach to SUDs.[^8]  Together, they can increase access to substance use, misuse, and SUD treatment and the use of harm reduction tactics to reduce substance use, overdose, and criminal justice involvement.[^9] 
-	
-A multipronged approach to addressing drug availability and use in Illinois communities entail interdiction efforts aimed at those who traffic large quantities of illicit substances, as well as prevention, deflection, diversion, and treatment of those who use. Traditional law enforcement tactics work to combat traffickers and suppliers to reduce influx of drugs in the community.[^10]  At the same time, the system can offer diversion, outreach, and referrals to treatment services. 
+<summary>Read More</summary>
 
-Several substance use treatment models are effective, some more so than others.[^11]  Over the past several decades, research and rigorous evaluation has provided insight on effective practices for individuals with SUDs and other substance use issues and the importance of treatment over criminal justice system involvement.[^12]  By integrating [evidence-informed practices](http://www.jrsa.org/projects/ebp_briefing_paper_april2014.pdf), criminal justice agencies and communities can save lives, decrease costs to the criminal justice system, healthcare systems, and taxpayers.[^13] 
+Despite the disproportionately high prevalence of MHDs in the criminal justice system, many individuals do not receive treatment while incarcerated.[^4] Nationally, sixty-three percent of individuals with a history of a MHD received treatment in prison from 2011 to 2012, and only 45 percent of those jailed received treatment.[^5] In addition, individuals with a MHD spend significantly more time in jail compared to those without a MHD.[^6]
 
-ICJIA researchers developed this continuum to share evidence-informed practices for addressing SUDs and substance misuse to guide local-level assessment, planning, and implementation efforts around SUD prevention and intervention. These practices range from early prevention to services to support successful reintegration back into the community following time spent in jail or prison. Communities are encouraged to use this continuum to examine the gaps and needs that exist in their areas and explore the options available to address those gaps. 
+Upon release from prison, individuals with a MHD on parole are nearly twice as likely to be reincarcerated within one year of release than those without mental health disorders.[^7] This creates a problematic cycle where individuals with MHDs are released into the community, only to likely be returned to the justice system in the future.[^8] These issues, among others, have led to the development of interventions targeted to justice-involved individuals with a MHD.
+
+A very small proportion of the crimes committed by individuals with mental health disorders are a direct result of their mental health symptoms; researchers estimate about 1 in 10 arrested individuals with a MHD are involved with the justice system due to mental health symptoms.[^9] Moreover, the idea that MHDs are a primary cause of criminality does not align with the fact that the vast majority of individuals with a MHD (treated or untreated) do not commit crimes.[^10] This flaw in the rationale for providing interventions that mainly emphasize provision of mental health treatment may in part explain why such programs and practices have failed to reduce the overrepresentation of individuals with MHDs in the criminal justice system.[^11] Research has shown individuals with MHDs have largely the same predictors and risk factors for criminal justice involvement as individuals without MHDs.[^12]
+
+_Evidence-based practices or programs_ (EBPs) have demonstrated consistently positive outcomes through empirical research and evaluation. Promising programs and practices are associated with positive outcomes but need further research to support them as EBPs.[^13] There are many EBPs for treating MHDs and there are several EBPs for preventing/reducing criminality. However, EBPs addressing mental health outcomes often have little to no impact on public safety outcomes.[^14] There is markedly little empirical research on EBPs from the mental health field tailored for the justice-involved population or on criminal justice practices adapted to the abilities of individuals with a MHD.[^15] More research is needed to gauge outcomes from adapted models relative to the expected outcomes from an EBP implemented with high levels of fidelity.[^16] 
+
+This continuum was created to present the current state of research regarding programs and practices targeted to individuals with mental health disorders at various stages of the criminal justice system following the sequential intercept model (SIM). The SIM is a way to conceptualize points throughout the criminal justice system where individuals with MHD can be diverted to mental health treatment; or if the individual is already in the criminal justice system, programs and practices aim to help individuals avoid future involvement with the justice system (e.g. reentry).[^17] Interventions at each intercept can be evaluated on measures in the following domains:
+
+-	Criminal justice outcomes.
+-	Mental health (clinical) outcomes.
+-	Costs and savings.
+-	Client and staff perceptions and satisfaction.[^18]
 
 </details>
 
-<div class="article-table table">
+[^1]: Note: Mental Health Disorders (MHDs) are diagnosed by clinicians using the criteria in the Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition (DSM-5).
+Blandford, A. & Osher, F. (2012). _A checklist for implementing evidence-based practices and programs (EBPs) for justice-involved adults with behavioral health disorders._ Delmar, NY: SAMHSA’s GAINS Center for Behavioral Health and Justice Transformation.
 
-<details>
-	<summary>DEFINING EVIDENCE-BASED PRACTICES</summary>
- 
-| Terminology                                            | Description[^14]                                                                                                                                                        | Effect                               |
-| ------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
-| *Anecdotal or Not Evidence-Informed or Evidence-Based* | There is little or no evidence, through the use of reliable, replicable, and generalizable research, indicating the programs achieve what they are intended to achieve. | Anecdotal, No Effect, Unknown Effect |
-| *Evidence-Informed*                                    | There is some evidence, through the use of reliable, replicable, and generalizable research, indicating the programs achieve what they are intended to achieve.         | Promising Practice                   |
-| *Evidence-Based*                                       | There is strong evidence, through the use of reliable, replicable, and generalizable research, indicating the programs achieve what they are set out to achieve.        | Effective Practice                   |
- 
+[^2]: James, D. J., & Glaze, L. E. (2006). _Mental health problems of prison and jail inmates_ (Bureau of Justice Statistics Report NCJ-213600). Washington, DC: U.S. Department of Justice, Office of Justice Programs. Retrieved from https://www.bjs.gov/content/pub/pdf/mhppji.pdf
 
-</div>
-</DETAILS>
+[^3]: Louden, J. E., Manchak, S., O’Connor, M., & Skeem, J. L. (2015). Applying the sequential intercept model to reduce recidivism among probationers and parolees with mental illness. In P.A. Griffin, K. Heilbrun, E.P. Mulvey, D. DeMatteo, & C.A. Schubert (Eds.). _The sequential intercept model and criminal justice: Promoting community alternatives for individuals with serious mental illness_ (pp. 118-136). USA: Oxford University Press.
 
-<details>
-<summary>EVIDENCE-BASED RISK AND PROTECTIVE FACTORS</summary>
+[^4]: Note: There are limited data available on the proportion of probationers and parolees that receive mental health treatment while under community supervision; this is due, in part, to the more decentralized system of community mental health services, relative to the provision of treatment while incarcerated.
+DeMatteo, D., LaDuke, C., Locklair, B. R., & Heilbrun, K. (2013). Community-based alternatives for justice-involved individuals with severe mental illness: Diversion, problem-solving courts, and reentry. _Journal of Criminal Justice_, 41(2), 64-71.
 
-Prevention of substance use requires an understanding of factors that may decrease the potential for substance use (protective factors) and factors that may put individuals at risk, or increase potential for substance use (risk factors). Evidence-informed prevention programs can target risk factors and enhance protective factors.[^15]  There are five, evidence-based ecological domains that have been shown to be the most predictive of delinquency, including substance use: individual, family, peer, school, and community. 
+[^5]: Bronson, J., & Berzofsky, M. (2017). _Indicators of mental health problems reported by prisoners and jail inmates, 2011-12._ (Bureau of Justice Statistics Report NCJ-250612). Washington, DC: U.S. Department of Justice, Office of Justice Programs. Retrieved from https://www.bjs.gov/content/pub/pdf/imhprpji1112.pdf
 
-### Risk factors include:[^16]
-`Individual/Peer`
+[^6]: Haneberg, R., & Watts, K. “Stepping Up” to beat the mental health crisis in U.S. jails. _Criminal Justice/Corrections._ New York, NY: Council of State Governments Justice Center. Retrieved from http://knowledgecenter.csg.org/kc/system/files/Haneberg%20Watts%202016.pdf
 
- - Early initiation of substance use.
- - Persistent and early problem behavior.*
- - Rebelliousness.
- - Favorable attitudes toward substance use.
- - Peer substance use
- - Genetic susceptibility to substance use.
+[^7]: Eno Louden, J., & Skeem, J. (2011). Parolees with mental disorder: Toward evidence-based practice. _Bulletin of the Center for Evidence-Based Corrections, 7_(1), 1-9.
 
-`Family`
+[^8]: Baillargeon, J., Binswanger, I. A., Penn, J. V., Williams, B. A., & Murray, O. J. (2009). Psychiatric disorders and repeat incarcerations: The revolving prison door. _American Journal of Psychiatry, 166_(1), 103-109.
 
- - Poor family management skills (expectations, supervision, monitoring, inappropriate punishment).
- - Family conflict.
- - Parental attitudes favorable toward substance use.
- - Family history of substance misuse.
+[^9]: Skeem, J. L., Manchak, S., & Peterson, J. K. (2011). Correctional policy for offenders with mental illness: Creating a new paradigm for recidivism reduction. _Law and Human Behavior, 35_(2), 110-126.
 
-`School`
+[^10]: Louden, J. E., Manchak, S., O’Connor, M., & Skeem, J. L. (2015). Applying the sequential intercept model to reduce recidivism among probationers and parolees with mental illness. In P.A. Griffin, K. Heilbrun, E.P. Mulvey, D. DeMatteo, & C.A. Schubert (Eds.). _The sequential intercept model and criminal justice: Promoting community alternatives for individuals with serious mental illness_ (pp. 118-136). USA: Oxford University Press.
 
- - Late elementary school academic failure.
- - Lack of commitment to school.
- 
+[^11]: Epperson, M. W., Wolff, N., Morgan, R. D., Fisher, W. H., Frueh, B. C., & Huening, J. (2014). Envisioning the next generation of behavioral health and criminal justice interventions. _International Journal of Law and Psychiatry, 37_(5), 427-438.; Osher, F. C., & Steadman, H. J. (2007). Adapting evidence-based practices for persons with mental illness involved with the criminal justice system. _Psychiatric Services, 58_(11), 1472-1478.
 
-`Community`
+[^12]: Bonta, J., Law, M., & Hanson, K. (1998). The prediction of criminal and violent recidivism among mentally disordered offenders: a meta-analysis. _Psychological Bulletin, 123_(2), 123.; Epperson, M. W., Wolff, N., Morgan, R. D., Fisher, W. H., Frueh, B. C., & Huening, J. (2014). Envisioning the next generation of behavioral health and criminal justice interventions. _International Journal of Law and Psychiatry, 37_(5), 427-438.
 
- - Low cost of alcohol.
- - High availability of substances.
- - Community laws/norms favorable toward substance use.
- - Media portrayal of alcohol use.*
- - Low level of neighborhood bonding/attachment.*
- - Community disorganization (e.g. high population density, physical deterioration, high rates of adult crime).*
- - Low socioeconomic status.*
- - High rates of mobility within or between communities.*
+[^13]: Blandford, A., & Osher, F. (2012). _A checklist for implementing evidence-based practices and programs (EBPs) for justice-involved adults with behavioral health disorders._ Delmar, NY: SAMHSA’s GAINS Center for Behavioral Health and Justice Transformation.
 
+[^14]: Osher, F. C., & Steadman, H. J. (2007). Adapting evidence-based practices for persons with mental illness involved with the criminal justice system. _Psychiatric Services, 58_(11), 1472-1478.
 
-### Protective factors include:[^17]
-`Individual/peer`
+[^15]: Heilbrun, K., DeMatteo, D., Yasuhara, K., Brooks-Holliday, S., Shah, S., King, C., ... & Laduke, C. (2012). Community-based alternatives for justice-involved individuals with severe mental illness: Review of the relevant research. _Criminal Justice and Behavior, 39_(4), 351-419.
 
- - Social, emotional, behavioral, cognitive, and moral competence; interpersonal skills.
- - Self-efficacy.
- - Spirituality.
- - Resiliency.
+[^16]: Heilbrun, K., DeMatteo, D., Yasuhara, K., Brooks-Holliday, S., Shah, S., King, C., ... & Laduke, C. (2012). Community-based alternatives for justice-involved individuals with severe mental illness: Review of the relevant research. _Criminal Justice and Behavior, 39_(4), 351-419.
 
-`Family, school, and community`
+[^17]: Munetz, M. R., & Griffin, P. A. (2006). Use of the sequential intercept model as an approach to decriminalization of people with serious mental illness. _Psychiatric Services, 57_(4), 544-549.
 
- - Opportunities for positive social involvement.
- - Recognition for positive behavior (reinforcements).
- - Bonding (attachment or commitment).
- - Healthy beliefs and standards for behavior.
- - Marriage or committed relationship.**
-######*denotes factor related to adolescent substance use.
-######*denotes factor related to young adult substance use.
-	
-</details>
-
-[^1]: U.S. Department of Health and Human Services (HHS), Office of the Surgeon General. (2016). *Facing addiction in America: The Surgeon General’s report on alcohol, drugs, and health.* Washington, DC: HHS.
-
-[^2]: U.S. Department of Health and Human Services (HHS), Office of the Surgeon General. (2016). *Facing addiction in America: The Surgeon General’s report on alcohol, drugs, and health.* Washington, DC: HHS.
-
-[^3]:U.S. Department of Health and Human Services (HHS), Office of the Surgeon General. (2016). *Facing addiction in America: The Surgeon General’s report on alcohol, drugs, and health.* Washington, DC: HHS.
-
-[^4]:The National Center on Addiction and Substance Abuse. (2010). *Behind bars II: Substance abuse and America’s prison population.* Columbia, NY: Columbia University.; Caulkins, J. P., & Kleiman, M. A. R. (2014). *How much crime is drug-related? History, limitations, and potential improvements of estimation methods.* Washington, DC: U.S. Department of Justice.
-
-[^5]: Centers for Disease Control and Prevention. (2016). Understanding the epidemic. Last modified June 21, 2016. Retrieved from http://bit.ly/2oqfbEf.
-
-[^6]:The National Center on Addiction and Substance Abuse. (2010). *Behind bars II: Substance abuse and America’s prison population.* Columbia, NY: Columbia University.
-
-[^7]:The National Center on Addiction and Substance Abuse. (2010). *Behind bars II: Substance abuse and America’s prison population.* Columbia, NY: Columbia University.
-
-[^8]: Pelan, M. (2015). Re-visioning drug use: A shift away from criminal justice and abstinence-based approaches. *Social Work and Society International Online Journal*, *13*(2).
-
-[^9]: Harm Reduction Coalition. (n.d.). *Principles of harm reduction*. Retrieved from http://bit.ly/1I4t27D.
-
-[^10]:Reichert, J., Sacomani, R., Medina, E., DeSalvo, M., & Adams, S. (2016). *Drug trends and distribution in Illinois: A survey of drug task forces.* Chicago, IL: Illinois Criminal Justice Information Authority.
-
-[^11]: Bahr, S. J., Masters, A. L., & Taylor, B. M. (2012). What works in substance abuse treatment programs for offenders? *The Prison Journal, 92*(2), 155-174.; Police Executive Research Forum. (2016). Building successful partnerships between law enforcement and public health agencies to address opioid use. *COPS Office Emerging Issues Forums.* Washington, DC: Office of Community Oriented Policing Services.
-
-[^12]:Chandler, R. K., Fletcher, B. W., & Volkow, N. D. (2014). Treatment drug abuse and addiction in the criminal justice system: Improving public health and safety. *Journal of the American Medical Association, 30*(12), 183-190.
-
-[^13]:Office of National Drug Control Policy. (2012). *Costs and benefits of investing early in substance abuse treatment.* Executive Office of the President. Washington, D.C.
-
-[^14]: Crimesolutions.gov. (2011). *Glossary.* National Institute of Justice, Office of Justice Programs. Washington, 
-DC Retrieved from http://bit.ly/2oieUTg.; Blueprints Program Model. (2012-2016). *Program criteria.* Blueprints for Healthy Youth Development. Boulder, CO. Retrieved from http://bit.ly/2oFVhqG.; see also Orchowsky, S. (2014). *An introduction to evidence-based practices.* Washington, DC: Justice Research and Statistics Association, Bureau of Justice Assistance, U.S. Department of Justice, and National Criminal Justice Association. 
-
-[^15]: U.S. Department of Health and Human Services (HHS), Office of the Surgeon General. (2016). *Facing addiction in America: The Surgeon General’s report on alcohol, drugs, and health.* Washington, DC: Author.; see also Catalano, R. F., Fagan, A. A., Gavin, L. E., Greenberg, M. T., Irwin, C. E., Ross, D. A., & Shek, D. T. (2012). Worldwide application of prevention science in adolescent health. *The Lancet, 379*(9826), 1653-1664.; Stone, A. L., Becker, L. G., Huber, A. M., & Catalano, R. F. (2012). Review of risk and protective factors of substance use and problem use in emerging adulthood. *Addictive Behaviors, 37*(7), 747- 775.; Shek, D. T. L., Sun, R. C. F., & Merrick, J. (2012). Positive youth development constructs: Conceptual review and application. *The Scientific World Journal*.; Viner, R. M., Ozer, E. M., Denny, S., Marmot, M., Resnick, M., Fatusi, A., & Currie, C. (2012). Adolescence and the social determinants of health. *The Lancet, 379*(9826), 1641-1652. 
-
-[^16]: U.S. Department of Health and Human Services (HHS), Office of the Surgeon General. (2016). *Facing addiction in America: The Surgeon General’s report on alcohol, drugs, and health.* Washington, DC: Author.
-
-[^17]: U.S. Department of Health and Human Services (HHS), Office of the Surgeon General. (2016). *Facing addiction in America: The Surgeon General’s report on alcohol, drugs, and health.* Washington, DC: Author.
-
-[^18]:U.S. Department of Health and Human Services (HHS), Office of the Surgeon General. (2016). *Facing addiction in America: The Surgeon General’s report on alcohol, drugs, and health.* Washington, DC: Author.
+[^18]: DeMatteo, D., LaDuke, C., Locklair, B. R., & Heilbrun, K. (2013). Community-based alternatives for justice-involved individuals with severe mental illness: Diversion, problem-solving courts, and reentry. _Journal of Criminal Justice, 41_(2), 64-71.

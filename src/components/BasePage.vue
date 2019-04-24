@@ -1,11 +1,7 @@
 <template>
   <div :id="content.slug" class="page">
     <!-- <BaseSplash v-if="content.slug === 'introduction'"></BaseSplash> -->
-    <v-container
-      fluid
-      class="full-width full-height"
-      :style="setPageStyle(content.theme)"
-    >
+    <v-container fluid class="full-width" :style="setPageStyle(content.theme)">
       <v-layout row>
         <v-flex class="" xs10 offset-xs1>
           <div class="wrapper pt-4">

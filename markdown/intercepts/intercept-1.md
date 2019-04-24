@@ -1,5 +1,5 @@
 ---
-title: 'Pre-arrest Diversion Models for Individuals with Mental Health Disorders (MHDs)'
+title: 'Pre-arrest: Law Enforcement and Emergency Services'
 timelineTitle: 'Intercept 1'
 posted: 2019-04-23
 updated: 2019-04-23

@@ -1,262 +1,203 @@
 ---
-title: 'Additional Evidence-Based Practices'
+title: 'Behavioral Interventions'
 timelineTitle: 'Intercepts 1-5'
 posted: 2019-04-23
 updated: 2019-04-23
-excerpt: 'The following are evidence-based programs and practices (EPBs) for individuals with mental health disorders (MHDs) that span multiple intercepts.'
+excerpt: 'Behavioral interventions work to change the behavior of individual clients, teaching self-monitoring to reinforce new coping skills to handle stressful situations. Cognitive behavioral therapy and dialectical behavior therapy are examples of effective behavioral intervention techniques. These therapies can be used across intercepts.'
 position: 70
 timeline: true
 displayTimelineTitle: true
 sidebar: true
 ---
-The following are evidence-based programs and practices (EPBs) for individuals with mental health disorders (MHDs) that span multiple intercepts.
+## Description: 
 
-## Illness Management Recovery (IMR)
+Behavioral interventions work to change the behavior of individual clients, teaching self-monitoring to reinforce new coping skills to handle stressful situations. Cognitive behavioral therapy and dialectical behavior therapy are examples of effective behavioral intervention techniques. These therapies can be used across intercepts.
 
-IMR aims to educate individuals with serious MHDs about their conditions and encourage them to take a proactive approach to setting treatment goals and managing symptoms.[^1] Participants are taught strategies to avoid mental health symptom relapse and effectively cope with their MHDs. The program is offered weekly over three months.[^2]
+### Cognitive Behavioral Therapy (CBT): 
 
-IMR is well-established as an EBP and may be able to:
+CBT is a form of structured talk therapy administered by a therapist or psychotherapist.[^1] Unlike other forms of talk therapy, which can last for months or years, clients attend 10 to 20  structured sessions.[^2] CBT is based on the cognitive model, which holds that a person’s perception of a situation is determined more by their own reaction to an event than the actual event itself.[^3] CBT has been found to be effective in treating a number of mental health disorders (MHDs) by encouraging recognition of problematic thinking patterns and teaching problem-solving skills to cope with difficult situations.[^4]
 
--	Increase knowledge about MHDs. 
--	Improve medication adherence.
--	Reduce rehospitalizations.[^3]
+### Dialectical Behavior Therapy (DBT): 
 
-In what little research exists on IMR for justice-involved individuals, researchers suggested adaptations for the population, such as specifically recognizing and altering criminogenic thinking.[^4] Cost-benefit analyses demonstrate a ratio of $3.04 in benefits for every $1 spent on the program.[^5]
+DBT is a cognitive behavioral approach to therapy that was developed in the late 1980s.[^5] The term _dialectic_ refers to embracing both acceptance and change, allowing individuals to feel supported and validated when being asked to make changes.[^6] DBT employs the dialectical philosophy to focus on emotional regulation, as well as mindfulness and acceptance.[^7] Therapists must be trained and certified to administer DBT, and many therapists employ DBT “consultation teams” to ensure fidelity to the approach.[^8]
 
-_Additional Resources_
-[Illness Management and Recovery Fact Sheet](https://www.prainc.com/wp-content/uploads/2015/10/fact-sheet-illness-management-recovery.pdf)
+## Goals:
 
-[The Substance Abuse and Mental Health Services Administration (SAMHSA) Illness Management and Recovery Evidence-Based Practices (EBP) Kit](https://store.samhsa.gov/product/Illness-Management-and-Recovery-Evidence-Based-Practices-EBP-KIT/SMA09-4463)
+CBT and DBT teach individuals to observe, evaluate, and regulate their own behavior to:
 
-## Family Psychoeducation (FPE)
+-	Change unhealthy behaviors and thought patterns.[^9]
+-	Develop coping mechanisms to increase distress tolerance.[^10]
+-	Reduce recidivism by learning to manage negative reactions and behaviors.[^11]
 
-FPE is an informative approach to help individuals with MHDs manage their symptoms by including family members in a supportive, team-based environment  in partnership with practitioners. In FPE, “family” can be a relative or any other supportive person invited by the individual to take part in their recovery. Generally, FPE is comprised of three stages over nine months, including:
+## Eligibility:
 
--	Sessions bringing together consumers, family, and mental health professionals. 
--	An educational workshop about managing stress in the family. 
--	Ongoing psychoeducational group sessions for individuals with MHDs and their families.[^6]
+While eligibility criteria may vary based on the program, CBT and DBT can be used to treat many problematic behaviors. However, due to limited resources in most jail and court settings, participation in these programs is usually limited to individuals with a severe mental health and/or substance use disorder.[^12] Both CBT and DBT are effective therapeutic models for the justice-involved population, especially for those classified as medium to high risk for recidivism.[^13]
 
-Research indicates FPE may be able to:
+## Research Evidence and Examples in the Field:
 
--	Reduce hospitalizations.[^7] 
--	Improve global functioning and community integration in the long-term.[^8]  
--	Offer strategies to reduce the burden on relatives and caregivers.[^9]
--	Improve family relationships.[^10]
--	Offer cost savings on average per patient.[^11]
+<details>
+	
+<summary>Cognitive Behavioral Therapy</summary>
 
-_Example in the Field_
-[National Alliance on Mental Illness (NAMI) Family-to-Family](https://www.nami.org/f2f)
+Overall, CBT has a significant evidence base; however, the outcomes differ somewhat depending on the disorder that the practice is intended to treat.[^14] CBT has been shown to be effective in treating depression, anxiety, substance use disorders, and severe mental illness, among others.[^15]
 
-_Additional Resources_
-[SAMHSA’s Family Psychoeducation Evidence-Based Practices (EBP) Kit](https://store.samhsa.gov/product/Family-Psychoeducation-Evidence-Based-Practices-EBP-KIT/SMA09-4423)
+Research indicates CBT may be able to:
 
-## Supportive Housing for Persons with MHDs
+-	Improve symptoms of MHDs.[^16]
+-	Reduce recidivism.[^17]
+-	Reduce substance use.[^18]
 
-Homeless individuals with MHDs typically have high levels of involvement with the justice system.[^12] Supportive housing reduces homelessness and associated contact with the justice system, while allowing individuals with MHDs to receive psychiatric services in the community.[^13] No services are required as a condition of housing and participants are subject to the same rules as any other tenant.[^14] Through the program, individuals should spend no more than 30 percent of their income on rent and the assistance should not be time-limited.[^15]
+There is some evidence that CBT may be more effective with juveniles, because their thinking patterns are not as deeply ingrained as adults’ and are more easily altered.[^19]
 
-Research indicates supportive housing may be able to reduce:
+#### Examples in the Field
+	
+[Seeking Safety](http://www.cebc4cw.org/program/seeking-safety-for-adults/) is a curriculum-based program for individuals with co-occurring mental health and substance use disorders.[^20] It has been used with success in treating women in correctional settings.[^21] The program integrates CBT and trauma-informed care.[^22] Research indicates Seeking Safety may be able to:
 
--	Emergency shelter stays.[^16]
--	Hospital stays and shorten their length.[^17]
--	Length of time incarcerated.[^18]
--	Rearrests and reincarceration after prison release.[^19]
+-	Reduce trauma symptoms.[^23]
+-	Increase treatment retention.[^24]
+-	Improve interpersonal relationships.[^25]
+-	Decrease illegal drug use.[^26]
 
-_Additional Resources_
-[SAMHSA Fact Sheet: Housing Options for Adults with Mental and Substance Use Disorders Involved with the Criminal Justice System](https://www.prainc.com/wp-content/uploads/2016/10/housing072616.pdf)
+Clients report high levels of satisfaction with the Seeking Safety program.[^27] The National Institute of Justice’s clearinghouse of research on programs and practices, [Crimesolutions.gov](https://crimesolutions.gov/ProgramDetails.aspx?ID=424), rates Seeking Safety as a “Promising” program.
 
-[SAMHSA’s Permanent Supportive Housing Evidence-Based Practices (EBP) Kit](https://store.samhsa.gov/product/Permanent-Supportive-Housing-Evidence-Based-Practices-EBP-KIT-/SMA10-4510)
+A similar program for women with co-occurring disorders is the [Trauma Recovery and Empowerment Model (TREM)](http://www.cebc4cw.org/program/trauma-recovery-and-empowerment-model/detailed).[^28]
 
-[The Urban Institute Report: Principles and Practice in Housing for Persons with Mental Illness Who Have Had Contact with the Justice System](https://www.urban.org/sites/default/files/publication/50816/411314-Principles-and-Practice-in-Housing-for-Persons-with-Mental-Illness-Who-Have-Had-Contact-with-the-Justice-System.PDF)
+[Reasoning & Rehabilitation (R&R)](https://whatworks.csgjusticecenter.org/intervention/reasoning-and-rehabilitation-enhanced-thinking-skills) is a CBT-based program that teaches prosocial behaviors to adults and juveniles in the justice system. These skills are taught in small group settings of six to 12 participants over 36 sessions.[^29]
 
-## Supported Employment (SE) for Persons with MHDs
+Research indicates R&R can:
 
-The goal of supported employment (SE) is to match individuals with serious MHDs to jobs in the community while offering comprehensive mental health services. SE does not require individuals to undergo pre-employment training to meet a definition of “work readiness,” but instead focuses on rapid job placement and supportive services to meet employment goals.[^20]
+-	Reduce rearrests.[^30]
+-	Improve employment outcomes.[^31]
+-	Increase problem-solving skills and coping strategies.[^32]
 
-Supported employment has a strong evidence base of helping participants acquire and maintain employment in the competitive labor market.[^21]
+R&R has been adapted for justice-involved youth and adults with MHDs in a program called [R&R2 MHP](https://www.cognitivecentre.ca/content/rr2). This program is delivered over 16 sessions and incorporates a structured mentoring component by assigning each participant a “PAL” (Participant’s Aid for Learning) who provides individual coaching between group sessions.[^33] An evaluation of R&R2 MHP found that those who completed the program self-reported less violent attitudes and facility staff reported less disruptive behavior from participants, compared to before program implementation.[^34]
 
-Research indicates SE may also be able to:
+Similar CBT programs for individuals involved in the criminal justice system include:
 
--	Help individuals find work sooner.[^22]
--	Offer more working hours and more wage earnings.[^23]
--	Increase self-esteem in clients who engage in competitive work.[^24]
+-	[Moral Reconation Therapy](http://www.moral-reconation-therapy.com/).[^35]
+-	[Thinking for a Change](https://nicic.gov/thinking-change-40).[^36]
 
-Cost-benefit analyses suggest SE can offer a savings of $3.04 for every dollar spent on program costs.[^25]
+</details>
 
-When the program’s target population is limited to justice-involved individuals, improved employment outcomes persist over time; however, supported employment had no significant impact on rearrests or reincarceration rates.[^26]
+<details>
+	<summary>Dialectical Behavior Therapy</summary>
 
-_Example in the Field_
-[SAMHSA’s Transforming Lives Through Supported Employment (SE) Program Grant](https://www.samhsa.gov/gains-center/grant-grantees/transforming-lives-through-supported-employment-program)
+Research indicates DBT may be able to:
 
-_Additional Resources_
-[SAMHSA Fact Sheet: Supported Employment for Justice-Involved People with Mental Illness](https://www.prainc.com/wp-content/uploads/2015/10/article-supported-employment-justice-involved-people-mental-illness.pdf)
+-	Reduce incidents of self-harm and suicidal behavior.[^37]
+-	Reduce hospitalizations.[^38]
+-	Improve treatment retention.[^39]
+-	Decrease treatment costs.[^40]
 
-[SAMHSA’s Supported Employment Evidence-Based Practices (EBP) Kit](https://store.samhsa.gov/product/Supported-Employment-Evidence-Based-Practices-EBP-KIT/SMA08-4365)
+#### Example in the Field
+	
+Dialectical Behavior Therapy – Corrections Modified (DBT-CM) adapts standard DBT for use in correctional facilities. Modifications from traditional DBT include:
 
-## Motivational Interviewing (MI)
+-	Fewer individual therapy sessions (due to limited resources).
+-	Training to develop new coping skills that are relevant to the correctional setting and/or combat criminal behaviors.
+-	Modifying group therapy sessions to enhance safety/security.[^41]
 
-MI promotes behavior change by helping individuals examine ambivalence, set goals, and consider actionable steps.[^27] Therapists use open-ended questioning, reflective listening, and employ affirmations to motivate participants to change their behavior.[^28] MI was originally developed for use with individuals with substance use disorders,[^29] but has been expanded for use with individuals with MHDs to promote treatment adherence and with individuals who are justice-involved to reduce recidivism.  
+The program includes16 weeks of skills training and eight weeks of follow-up coaching.[^42] DBT-CM can:
 
-[Crimesolutions.gov](https://crimesolutions.gov/PracticeDetails.aspx?ID=31), the National Institute of Justice’s clearinghouse of EBPs, lists motivational interviewing as an EBP for treatment of substance abuse. MI also is often a component of practices that are evidence-based for improving mental health outcomes (e.g. Assertive Community Treatment).[^30]
+-	Reduce negative behaviors that require in-prison disciplinary action.
+-	Reduce aggression.
+-	Improve coping.[^43]
 
-For those with MHDs, MI may be able to:
+</details>
+	
+## Additional Resources:
 
--	Increase treatment engagement and medication adherence.[^31]
--	Improve mental health symptoms.[^32]
--	Reduce alcohol and illegal drug use for those with co-occurring substance use disorders.[^33]
+[Dialectical Behavior Therapy: Evidence for Implementation in Juvenile Correctional Settings](https://www.cdcr.ca.gov/Juvenile_Justice/docs/DBT_Evidence_Draft_04_06_2011.pdf): California Department of Corrections and Rehabilitation, Office of Research
 
-_Additional Resources_
-[Case Western Reserve University – Center for Evidence-Based Practices: Motivational Interviewing](https://www.centerforebp.case.edu/practices/mi)
+[Reducing Criminal Recidivism for Justice-Involved Persons with Mental Illness: Risk/Needs/Responsivity and Cognitive-Behavioral Interventions](http://forensiccounselor.org/images/file/ReduceCrimRecidMIRiskNeedsResponCogBehavInter.pdf): The Substance Abuse and Mental Health Services Administration’s GAINS Center for Behavioral Health and Justice Transformation
 
-[National Institute of Corrections: Motivating Offenders to Change, A Guide for Probation & Parole](https://s3.amazonaws.com/static.nicic.gov/Library/022253.pdf)
+[Thinking for a Change and Cognitive-Behavioral Programs (Annotated Bibliography)](https://info.nicic.gov/virt/sites/info.nicic.gov.virt/files/T4C-Bibliography-of-Cognitive-Behavior-Research.pdf): National Institute of Corrections
 
-[National Institute of Corrections: Motivational Interviewing in Corrections](https://s3.amazonaws.com/static.nicic.gov/Library/025556.pdf)
 
-## Integrated Co-Occurring Disorders Treatment
+[^1]: Mayo Clinic Staff. (2017). _Cognitive behavioral therapy._ Mayo Clinic Patient Care & Health Information, Tests & Procedures. Retrieved from https://www.mayoclinic.org/tests-procedures/cognitive-behavioral-therapy/about/pac-20384610
 
-Integrated co-occurring disorders treatment aids individuals with a diagnosis of a mental health and substance use disorder, or co-occurring disorder (COD). About half of individuals in the United States who are diagnosed with severe MHDs are also affected by a substance use disorder.[^34] Individuals with a COD are at increased risk for criminal justice involvement.[^35] Individuals demonstrate improved outcomes related to recovery when receiving integrated treatment for both disorders from the same treatment team.[^36] Integrated treatment often incorporates elements of cognitive-behavioral therapy, motivational interviewing, and family psychoeducation programs. 
+[^2]: Mayo Clinic Staff. (2017). _Cognitive behavioral therapy._ Mayo Clinic Patient Care & Health Information, Tests & Procedures. Retrieved from https://www.mayoclinic.org/tests-procedures/cognitive-behavioral-therapy/about/pac-20384610
 
-Individuals receiving treatment within non-integrated systems may be guided to sequentially address one disorder before the other or may receive separate treatment within each system (parallel treatment). These paths are less effective and more costly than integrated treatment.[^37]
+[^3]: Beck, J.S. (2010). _Questions and answers about cognitive behavior therapy._ Beck Institute for Cognitive Behavior Therapy. Retrieved from https://www.beckinstitute.org/wp-content/uploads/2017/08/Question-Answer-Packet-2010.pdf
 
-COD treatment of those who are incarcerated can be ineffective due to the lack of resources in correctional settings to cover the high cost of services.[^38] Modifying in-prison residential substance abuse treatment programs (i.e. [therapeutic communities](https://www.drugabuse.gov/publications/research-reports/therapeutic-communities/how-are-therapeutic-communities-integrated-criminal-justice-system)) to target individuals with CODs in prisons has demonstrated more positive outcomes for this population than typical therapeutic community programs or standard correctional mental health treatment, including:
+[^4]: Najavits, L. M., & Hien, D. (2013). Helping vulnerable populations: A comprehensive review of the treatment outcome literature on substance use disorder and PTSD. _Journal of Clinical Psychology, 69_(5), 433-479.
 
--	Decreased substance use. 
--	Improved psychological functioning. 
--	Reduced recidivism.[^39]
+[^5]: Berzins, L. G., & Trestman, R. L. (2004). The development and implementation of dialectical behavior therapy in forensic settings. _International Journal of Forensic Mental Health, 3_(1), 93-103.
 
-Long-term follow-up with a mental health provider, known as aftercare, is essential for the success of individuals after completing prison-based COD treatment and returning to the community.[^40]
+[^6]: Behavioral Tech. (n.d.). _What is Dialectical Behavior Therapy (DBT)?_ Behavioral Tech: A Linehan Institute Training Company. Retrieved from https://behavioraltech.org/resources/faqs/dialectical-behavior-therapy-dbt/#Team
 
-_Additional Resources_
-[SAMHSA Fact Sheet: Integrating Mental Health and Substance Abuse Services for Justice-Involved Persons with Co-Occurring Disorders](https://www.prainc.com/wp-content/uploads/2015/10/article-integrating-mental-health-substance-abuse-services-justice-involved-persons.pdf)
+[^7]: Chapman, A. L. (2006). Dialectical behavior therapy: Current indications and unique elements. _Psychiatry (Edgmont), 3_(9), 62-68.
 
-[SAMHSA’s Integrated Treatment for Co-Occurring Disorders Evidence-Based Practices (EBP) Kit](https://store.samhsa.gov/product/Integrated-Treatment-for-Co-Occurring-Disorders-Evidence-Based-Practices-EBP-KIT/SMA08-4367)
+[^8]: Behavioral Tech. (n.d.). _What is Dialectical Behavior Therapy (DBT)?_ Behavioral Tech: A Linehan Institute Training Company. Retrieved from https://behavioraltech.org/resources/faqs/dialectical-behavior-therapy-dbt/#Team
 
-## Psychopharmacology
+[^9]: Rotter, M., & Carr, W. A. (2013). _Reducing criminal recidivism for justice-involved persons with mental illness: Risk/needs/responsivity and cognitive-behavioral interventions._ Rockville, MD: SAMHSA’s GAINS Center for Behavioral Health and Justice Transformation. Retrieved from http://forensiccounselor.org/images/file/ReduceCrimRecidMIRiskNeedsResponCogBehavInter.pdf
 
-Prescribed psychotropic medication can be used to reduce symptoms of MHDs by altering the chemistry of the brain.[^41] All [FDA-approved](https://www.fda.gov/NewsEvents/ProductsApprovals/ucm106288.htm) medications have been subject to rigorous clinical trials and are evidence-based. This type of treatment should be viewed as a medical decision tailored to an individual’s specific needs.[^42] Individuals with MHDs should actively participate in decision-making when selecting medication.[^43] For effective treatment leading to recovery, medication may need to be part of a long-term treatment plan.[^44]
+[^10]: Rotter, M., & Carr, W. A. (2013). _Reducing criminal recidivism for justice-involved persons with mental illness: Risk/needs/responsivity and cognitive-behavioral interventions._ Rockville, MD: SAMHSA’s GAINS Center for Behavioral Health and Justice Transformation. Retrieved from http://forensiccounselor.org/images/file/ReduceCrimRecidMIRiskNeedsResponCogBehavInter.pdf
 
-One evidence-based approach to medication management is MedTEAM (Medication Treatment, Evaluation and Management) which employs a team approach by promoting collaboration between prescribers, agency staff, other mental health practitioners, and consumers to systematically determine the impacts of medication.[^45] This can be accomplished by consistently employing brief rating scales to measure impacts of medication on desired outcomes over time.[^46]
+[^11]: Rotter, M., & Carr, W. A. (2013). _Reducing criminal recidivism for justice-involved persons with mental illness: Risk/needs/responsivity and cognitive-behavioral interventions._ Rockville, MD: SAMHSA’s GAINS Center for Behavioral Health and Justice Transformation. Retrieved from http://forensiccounselor.org/images/file/ReduceCrimRecidMIRiskNeedsResponCogBehavInter.pdf
 
-Research indicates MedTEAM may be able to improve: 
+[^12]: Berzins, L. G., & Trestman, R. L. (2004). The development and implementation of dialectical behavior therapy in forensic settings. _International Journal of Forensic Mental Health, 3_(1), 93-103.
 
--	Clinical symptoms. 
--	Treatment quality.
--	Adherence to treatment. 
--	Consumer satisfaction.[^47]
+[^13]: Aos, S., & Drake, E. (2013). _Prison, police and programs: Evidence-based options that reduce crime and save money._ Olympia: Washington State Institute for Public Policy.
 
-Jails and prisons may have a limited variety of prescription medications available in the facilities. In addition, staff psychiatrists may be instructed to give preference to medications that are less expensive, less likely to be diverted/misused, and extended-release formulations that do not require multiple doses throughout the day.[^48] In addition, a federal court ruled that states are required to supply individuals with the necessary prescription medications to ensure continuity of care between release from prison and receipt of a prescription in the community.[^49]
+[^14]: Hofmann, S. G., Asnaani, A., Vonk, I. J., Sawyer, A. T., & Fang, A. (2012). The efficacy of cognitive behavioral therapy: A review of meta-analyses. _Cognitive Therapy and Research, 36_(5), 427-440.
 
-A study of individuals released from Florida psychiatric hospitals found that the receipt of medications for 90 days post-hospitalization significantly reduced the likelihood of arrest.[^50] Further, individuals with schizophrenia or bipolar disorder who were referred for expedited enrollment in Medicaid upon release from prison were significantly more likely to fill a prescription in the community for mental health medication.[^51]
+[^15]: American Psychological Association (n.d.). What is cognitive behavioral therapy? _PTSD Clinical Practice Guideline._ Retrieved from http://www.apa.org/ptsd-guideline/patients-and-families/cognitive-behavioral.pdf
 
-_Additional Resources_
-[SAMHSA’s MedTEAM (Medication Treatment, Evaluation, and Management) Evidence-Based Practices (EBP) Kit](https://store.samhsa.gov/product/MedTEAM-Medication-Treatment-Evaluation-and-Management-Evidence-Based-Practices-EBP-KIT/SMA10-4549)
+[^16]: Butler, A. C., Chapman, J. E., Forman, E. M., & Beck, A. T. (2006). The empirical status of cognitive-behavioral therapy: A review of meta-analyses. _Clinical Psychology Review, 26_(1), 17-31.
 
-## General Resources for Adapting EBPs
+[^17]: Hofmann, S. G., Asnaani, A., Vonk, I. J., Sawyer, A. T., & Fang, A. (2012). The efficacy of cognitive behavioral therapy: A review of meta-analyses. _Cognitive Therapy and Research, 36_(5), 427-440.;
+Landenberger, N. A., & Lipsey, M. W. (2005). The positive effects of cognitive–behavioral programs for offenders: A meta-analysis of factors associated with effective treatment. _Journal of Experimental Criminology, 1_(4), 451-476.
 
-[A Checklist for Implementing Evidence-Based Practices and Programs for Justice-Involved Adults with Behavioral Health Disorders](https://csgjusticecenter.org/wp-content/uploads/2013/04/SAMHSA-GAINS.pdf): SAMHSA’s GAINS Center for Behavioral Health and Justice Transformation
+[^18]: Hien, D. A., Cohen, L. R., Miele, G. M., Litt, L. C., & Capstick, C. (2004). Promising treatments for women with comorbid PTSD and substance use disorders. _American Journal of Psychiatry, 161_(8), 1426-1432.
 
-[Adapting Evidence-Based Practices for Persons with Mental Illness Involved with the Criminal Justice System](https://ps.psychiatryonline.org/doi/full/10.1176/ps.2007.58.11.1472)[^52] 
+[^19]: Feucht, T. & Holt, T. (2016). Does cognitive behavioral therapy work in criminal justice? A new analysis from Crimesolutions.gov. _NIJ Journal_ (277)10-17. Retrieved from https://www.ncjrs.gov/pdffiles1/nij/249825.pdf
 
-[^1]: Mueser, K. T., Corrigan, P. W., Hilton, D. W., Tanzman, B., Schaub, A., Gingerich, S., Essock, S. M., Tarrier, N., Morey, B., Vogel-Scibilia, S., & Herz, M. I. (2002). Illness management and recovery: A review of the research. _Psychiatric Services, 53_(10), 1272-1284.
+[^20]: Hien, D. A., Cohen, L. R., Miele, G. M., Litt, L. C., & Capstick, C. (2004). Promising treatments for women with comorbid PTSD and substance use disorders. _American Journal of Psychiatry, 161_(8), 1426-1432.
 
-[^2]: Substance Abuse and Mental Health Services Administration. (2009). _Illness management and recovery: Building your program._ HHS Pub. No. SMA-09-4462, Rockville, MD: Author.
+[^21]: Substance Abuse and Mental Health Services Administration National GAINS Center. (2011). _Trauma-specific interventions for justice-involved individuals._ Rockville, MD: Substance Abuse and Mental Health Services Administration. Retrieved from http://23.29.59.141/assets/document-library/archive/library/forensics/ofo%20-%20ebp%20traumaspecificinterventions.pdf; Zlotnick, C., Najavits, L. M., Rohsenow, D. J., & Johnson, D. M. (2003). A cognitive-behavioral treatment for incarcerated women with substance abuse disorder and posttraumatic stress disorder: Findings from a pilot study. _Journal of Substance Abuse Treatment, 25_(2), 99-105.
 
-[^3]: Mueser, K. T., Corrigan, P. W., Hilton, D. W., Tanzman, B., Schaub, A., Gingerich, S., Essock, S. M., Tarrier, N., Morey, B., Vogel-Scibilia, S., & Herz, M. I. (2002). Illness management and recovery: A review of the research. _Psychiatric Services, 53_(10), 1272-1284.
+[^22]: Najavits, L. (2002). _Seeking safety: A treatment manual for PTSD and substance abuse._ New York: The Guilford Press.
 
-[^4]: Mueser, K. T. (2013). _Illness management and recovery._ Rockville, MD: SAMHSA’S GAINS Center for Behavioral Health and Justice Transformation. Retrieved from https://www.prainc.com/wp-content/uploads/2015/10/fact-sheet-illness-management-recovery.pdf
+[^23]: Najavits, L. M., Gallop, R. J., & Weiss, R. D. (2006). Seeking safety therapy for adolescent girls with PTSD and substance use disorder: A randomized controlled trial. _The Journal of Behavioral Health Services & Research, 33_(4), 453-463.; Zlotnick, C., Johnson, J., & Najavits, L. M. (2009). Randomized controlled pilot study of cognitive-behavioral therapy in a sample of incarcerated women with substance use disorder and PTSD. _Behavior Therapy, 40_(4), 325-336.
 
-[^5]: Washington State Institute for Public Policy. (2017). _Illness management and recovery (IMR). Benefit-Cost Results._ Retrieved from http://www.wsipp.wa.gov/BenefitCost/ProgramPdf/288/Illness-Management-and-Recovery-IMR
+[^24]: Gatz, M., Brown, V., Hennigan, K., Rechberger, E., O'Keefe, M., Rose, T., & Bjelajac, P. (2007). Effectiveness of an integrated, trauma‐informed approach to treating women with co‐occurring disorders and histories of trauma: The Los Angeles site experience. _Journal of Community Psychology, 35_(7), 863-878.
 
-[^6]: Substance Abuse and Mental Health Services Administration. (2009). _Family psychoeducation: Building your program._ HHS Pub. No. SMA-09-4422, Rockville, MD: Author.
+[^25]: Najavits, L. M. (2002). Seeking Safety: Therapy for trauma and substance abuse. _Corrections Today, 64_(6), 136-141.
 
-[^7]: Dixon, L., McFarlane, W. R., Lefley, H., Lucksted, A., Cohen, M., Falloon, I., … & Sondheimer, D. (2001). Evidence-based practices for services to families of people with psychiatric disabilities. _Psychiatric Services, 52_(7), 903-910.; Dyck, D. G., Hendryx, M. S., Short, R. A., Voss, W. D., & McFarlane, W. R. (2002). Service use among patients with schizophrenia in psychoeducational multiple-family group treatment. _Psychiatric Services, 53_(6), 749-754.
+[^26]: Hien, D. A., Cohen, L. R., Miele, G. M., Litt, L. C., & Capstick, C. (2004). Promising treatments for women with comorbid PTSD and substance use disorders. _American Journal of Psychiatry, 161_(8), 1426-1432.
 
-[^8]: Dixon, L., McFarlane, W. R., Lefley, H., Lucksted, A., Cohen, M., Falloon, I., … & Sondheimer, D. (2001). Evidence-based practices for services to families of people with psychiatric disabilities. _Psychiatric Services, 52_(7), 903-910.; Falloon, I. R., Held, T., Coverdale, J. H., Roncone, R., & Laidlaw, T. M. (1999). Family interventions for schizophrenia: A review of long-term benefits of international studies. _Psychiatric Rehabilitation Skills, 3_(2), 268-290.
+[^27]: Reichert, J., Gatens, A., Adams, S., Gleicher, L., Weisner, L., & Head, C. (2018). _Co-occurring mental health and substance use disorders of women in prison: An evaluation of the WestCare Foundation’s Dual Diagnosis Program in Illinois._ Chicago, IL: Illinois Criminal Justice Information Authority.; Zlotnick, C., Najavits, L. M., Rohsenow, D. J., & Johnson, D. M. (2003). A cognitive-behavioral treatment for incarcerated women with substance abuse disorder and posttraumatic stress disorder: Findings from a pilot study. _Journal of Substance Abuse Treatment, 25_(2), 99-105.
 
-[^9]: Cuijpers, P., & Stam, H. (2000). Burnout among relatives of psychiatric patients attending psychoeducational support groups. _Psychiatric Services, 51_(3), 375-379.
+[^28]: Fallot, R. D., & Harris, M. (2002). The Trauma Recovery and Empowerment Model (TREM): Conceptual and practical issues in a group intervention for women. _Community Mental Health Journal, 38_(6), 475-485.
 
-[^10]: Cuijpers, P., & Stam, H. (2000). Burnout among relatives of psychiatric patients attending psychoeducational support groups. _Psychiatric Services, 51_(3), 375-379.
+[^29]: Robinson, D., & Porporino, F. J. (2001). Programming in cognitive skills: The reasoning and rehabilitation programme. In C. R. Hollin (Ed.), _Handbook of offender assessment and treatment_ (pp. 179-193). Chichester: Wiley
 
-[^11]: Tarrier, N., Lowson, K., & Barrowclough, C. (1991). Some aspects of family interventions in schizophrenia. II: Financial considerations. _The British Journal of Psychiatry, 159_(4), 481-484.
+[^30]: Joy Tong, L. S., & Farrington, D. P. (2006). How effective is the “Reasoning and Rehabilitation” programme in reducing reoffending? A meta-analysis of evaluations in four countries. _Psychology, Crime & Law, 12_(1), 3-24.; Van Voorhis, P., Spruance, L. M., Ritchey, P. N., Listwan, S. J., & Seabrook, R. (2004). The Georgia cognitive skills experiment: A replication of reasoning and rehabilitation. _Criminal Justice and Behavior, 31_(3), 282-305.
 
-[^12]: Malone, D. K. (2009). Assessing criminal history as a predictor of future housing success for homeless adults with behavioral health disorders. _Psychiatric Services, 60_(2), 224-230.
+[^31]: Van Voorhis, P., Spruance, L. M., Ritchey, P. N., Listwan, S. J., & Seabrook, R. (2004). The Georgia cognitive skills experiment: A replication of reasoning and rehabilitation. _Criminal Justice and Behavior, 31_(3), 282-305.
 
-[^13]: Fontaine, J. (2013). The role of supportive housing in successful reentry outcomes for disabled prisoners. _Cityscape, 15_(3), 53-76.
+[^32]: Clarke, A. Y., Cullen, A. E., Walwyn, R., & Fahy, T. (2010). A quasi-experimental pilot study of the Reasoning and Rehabilitation programme with mentally disordered offenders. _The Journal of Forensic Psychiatry & Psychology, 21_(4), 490-500.
 
-[^14]: Substance Abuse and Mental Health Services Administration. (2010). _Permanent Supportive Housing: Building Your Program._ HHS Pub. No. SMA-10-4509, Rockville, MD: Center for Mental Health Services, Substance Abuse and Mental Health Services Administration, U.S. Department of Health and Human Services.
+[^33]: Young, S. J., & Ross, R. R. (2007). _R&R2 for youths and adults with mental health problems: A prosocial competence training program._ Ottawa, ON: Cognitive Centre of Canada. Retrieved from https://www.academia.edu/9330716/R_and_R2_for_Youths_and_Adults_with_Mental_Health_Problems
 
-[^15]: National Alliance on Mental Illness. (n.d.) _Securing Stable Housing._ Retrieved from https://www.nami.org/Find-Support/Living-with-a-Mental-Health-Condition/Securing-Stable-Housing.
+[^34]: Young, S., Chick, K., & Gudjonsson, G. (2010). A preliminary evaluation of Reasoning and Rehabilitation 2 in mentally disordered offenders (R&R2M) across two secure forensic settings in the United Kingdom. _The Journal of Forensic Psychiatry & Psychology, 21_(3), 336-349.
 
-[^16]: Culhane, D. P., Metraux, S., & Hadley, T. (2001). The impact of supportive housing for homeless people with severe mental illness on the utilization of the public health, corrections, and emergency shelter systems: The New York-New York Initiative. _Housing Policy Debate, 13_(1), 107-63.
+[^35]: Ferguson, L. M., & Wormith, J. S. (2013). A meta-analysis of Moral Reconation Therapy. _International Journal of Offender Therapy and Comparative Criminology, 57_(9), 1076-1106.
 
-[^17]: Culhane, D. P., Metraux, S., & Hadley, T. (2001). The impact of supportive housing for homeless people with severe mental illness on the utilization of the public health, corrections, and emergency shelter systems: The New York-New York Initiative. _Housing Policy Debate, 13_(1), 107-63.
+[^36]: Lowenkamp, C. T., Hubbard, D., Makarios, M. D., & Latessa, E. J. (2009). A quasi-experimental evaluation of Thinking for a Change: A “real-world” application. _Criminal Justice and Behavior, 36_(2), 137-146.
 
-[^18]: Culhane, D. P., Metraux, S., & Hadley, T. (2001). The impact of supportive housing for homeless people with severe mental illness on the utilization of the public health, corrections, and emergency shelter systems: The New York-New York Initiative. _Housing Policy Debate, 13_(1), 107-63.
+[^37]: Barnicot, K., Savill, M., Bhatti, N., & Priebe, S. (2014). A pragmatic randomised controlled trial of dialectical behaviour therapy: Effects on hospitalisation and post-treatment follow-up. _Psychotherapy and Psychosomatics, 83_(3), 192-193.; Landes, S. J., Chalker, S. A., & Comtois, K. A. (2016). Predicting dropout in outpatient dialectical behavior therapy with patients with borderline personality disorder receiving psychiatric disability. _Borderline Personality Disorder and Emotion Dysregulation, 3_(1), 9.
 
-[^19]: Fontaine, J. (2013). The role of supportive housing in successful reentry outcomes for disabled prisoners. _Cityscape, 15_(3), 53-76.
+[^38]: Barnicot, K., Savill, M., Bhatti, N., & Priebe, S. (2014). A pragmatic randomised controlled trial of dialectical behaviour therapy: Effects on hospitalisation and post-treatment follow-up. _Psychotherapy and Psychosomatics, 83_(3), 192-193.
 
-[^20]: Bond, G. R., Becker, D. R., Drake, R. E., Rapp, C. A., Meisler, N., Lehman, A. F., Bell, M. D., & Blyler, C. R. (2001). Implementing supported employment as an evidence-based practice. _Psychiatric Services, 52_(3), 313-322.
+[^39]: Robins, C. J., & Chapman, A. L. (2004). Dialectical behavior therapy: Current status, recent developments, and future directions. _Journal of Personality Disorders, 18_(1), 73-89.
 
-[^21]: Bond, G. R., Becker, D. R., Drake, R. E., Rapp, C. A., Meisler, N., Lehman, A. F., Bell, M. D., & Blyler, C. R. (2001). Implementing supported employment as an evidence-based practice. _Psychiatric Services, 52_(3), 313-322.
+[^40]: The Mental Health Center of Greater Manchester, New Hampshire. (1998). Integrating dialectical behavioral therapy into a community mental health program. _Psychiatric Services, 49_(10), 1338-40.
 
-[^22]: Bond, G. R., Drake, R. E., & Becker, D. R. (2008). An update on randomized controlled trials of evidence-based supported employment. _Psychiatric Rehabilitation Journal, 31_(4), 280.
+[^41]: Sampl, S., Wakai, S., & Trestman, R. L. (2010). Translating evidence-based practices from community to corrections: An example of implementing DBT-CM. _The Journal of Behavior Analysis of Offender and Victim Treatment and Prevention, 2_(2), 114.
 
-[^23]: Note: Hours worked may be due to personal preference or other factors; SE programs can provide individualized counseling to help participants understand how various types of employment could affect their eligibility for government assistance (e.g. Supplemental Security Income, Social Security Disability Insurance). See Bond et al. (2008) for more.;
-Drake, R. E., McHugo, G. J., Becker, D. R., Anthony, W. A., & Clark, R. E. (1996). The New Hampshire study of supported employment for people with severe mental illness. _Journal of Consulting and Clinical Psychology, 64_(2), 391.
+[^42]: Sampl, S., Wakai, S., & Trestman, R. L. (2010). Translating evidence-based practices from community to corrections: An example of implementing DBT-CM. _The Journal of Behavior Analysis of Offender and Victim Treatment and Prevention, 2_(2), 114.
 
-[^24]: Bond, G. R., Resnick, S. G., Drake, R. E., Xie, H., McHugo, G. J., & Bebout, R. R. (2001). Does competitive employment improve nonvocational outcomes for people with severe mental illness?. _Journal of Consulting and Clinical Psychology, 69_(3), 489.
+[^43]: Shelton, D., Sampl, S., Kesten, K. L., Zhang, W., & Trestman, R. L. (2009). Treatment of impulsive aggression in correctional settings. _Behavioral Sciences & the Law, 27_(5), 787-800.
 
-[^25]: Washington State Institute for Public Policy. (2017). _Individual Placement and Support (IPS) for individuals with serious mental illness. Benefit-cost results._ Retrieved from http://www.wsipp.wa.gov/BenefitCost/Program/293
-
-[^26]: Bond, G. R., Kim, S. J., Becker, D. R., Swanson, S. J., Drake, R. E., Krzos, I. M., Fraser, V. V., O’Neill, S., & Frounfelker, R. L. (2015). A controlled trial of supported employment for people with severe mental illness and justice involvement. _Psychiatric Services, 66_(10), 1027-1034.
-
-[^27]: Markland, D., Ryan, R. M., Tobin, V. J., & Rollnick, S. (2005). Motivational interviewing and self–determination theory. _Journal of Social and Clinical Psychology, 24_(6), 811-831.
-
-[^28]: Martino, S., Carroll, K., Kostas, D., Perkins, J., & Rounsaville, B. (2002). Dual diagnosis motivational interviewing: a modification of motivational interviewing for substance-abusing patients with psychotic disorders. _Journal of Substance Abuse Treatment, 23_(4), 297-308.
-
-[^29]: McMurran, M. (2009). Motivational interviewing with offenders: A systematic review. _Legal and Criminological Psychology, 14_(1), 83-100.
-
-[^30]: Center for Evidence-Based Practices. (2016). _Motivational interviewing._ Cleveland, OH: Center for Evidence-Based Practices at Case Western Reserve University. Retrieved from https://www.centerforebp.case.edu/practices/mi
-
-[^31]: Westra, H. A., Aviram, A., & Doell, F. K. (2011). Extending motivational interviewing to the treatment of major mental health problems: current directions and evidence. _The Canadian Journal of Psychiatry, 56_(11), 643-650.
-
-[^32]: Cleary, M., Hunt, G. E., Matheson, S., & Walter, G. (2009). Psychosocial treatments for people with co‐occurring severe mental illness and substance misuse: Systematic review. _Journal of Advanced Nursing, 65_(2), 238-258.
-
-[^33]: Cleary, M., Hunt, G. E., Matheson, S., & Walter, G. (2009). Psychosocial treatments for people with co‐occurring severe mental illness and substance misuse: Systematic review. _Journal of Advanced Nursing, 65_(2), 238-258.
-
-[^34]: Drake, R. E., Essock, S. M., Shaner, A., Carey, K. B., Minkoff, K., Kola, L., Lynde, D., … & Rickards, L. (2001). Implementing dual diagnosis services for clients with severe mental illness. _Psychiatric Services, 52_(4), 469-476.
-
-[^35]: Abram, K. M., & Teplin, L. A. (1991). Co-occurring disorders among mentally ill jail detainees: Implications for public policy. _American Psychologist, 46_(10), 1036.
-
-[^36]: Substance Abuse and Mental Health Services Administration. (2009). _Integrated Treatment for Co-Occurring Disorders: Building Your Program._ DHHS Pub. No. SMA-08-4366, Rockville, MD: Center for Mental Health Services, Substance Abuse and Mental Health Services Administration, U.S. Department of Health and Human Services.
-
-[^37]: Peters, R. H., Young, M. S., Rojas, E. C., & Gorey, C. M. (2017). Evidence-based treatment and supervision practices for co-occurring mental and substance use disorders in the criminal justice system. _The American Journal of Drug and Alcohol Abuse, 43_(4), 475-488.
-
-[^38]: Peters, R. H., Wexler, H. K., & Lurigio, A. J. (2015). Co-occurring substance use and mental disorders in the criminal justice system: A new frontier of clinical practice and research. _Psychiatric Rehabilitation Journal, 38_(1), 1-6.
-
-[^39]: Peters, R. H., Young, M. S., Rojas, E. C., & Gorey, C. M. (2017). Evidence-based treatment and supervision practices for co-occurring mental and substance use disorders in the criminal justice system. _The American Journal of Drug and Alcohol Abuse, 43_(4), 475-488.
-
-[^40]: Johnson, J. E., Schonbrun, Y. C., Peabody, M. E., Shefner, R. T., Fernandes, K. M., Rosen, R. K., & Zlotnick, C. (2015). Provider experiences with prison care and aftercare for women with co-occurring mental health and substance use disorders: Treatment, resource, and systems integration challenges. _The Journal of Behavioral Health Services & Research, 42_(4), 417-436.
-
-[^41]: Note: [The National Institute of Mental Health](https://www.nimh.nih.gov/health/topics/mental-health-medications/index.shtml) defines the main categories of psychotropic medications as: stimulants, antidepressants, antipsychotics, mood stabilizers, and antianxiety agents.
-
-[^42]: Blandford, A., & Osher, F. (2012). _A Checklist for Implementing Evidence-Based Practices and Programs (EBPs) for Justice-Involved Adults with Behavioral Health Disorders._ Delmar, NY: SAMHSA’s GAINS Center for Behavioral Health and Justice Transformation.
-
-[^43]: Bond, G. R., Salyers, M. P., Rollins, A. L., Rapp, C. A., & Zipple, A. M. (2004). How evidence-based practices contribute to community integration. _Community Mental Health Journal, 40_(6), 569-588.
-
-[^44]: Muller-Isberner, R., & Hodgins, S. (2000). _Evidence-based treatment for mentally disordered offenders. Violence, Crime and Mentally Disordered Offenders: Concepts and Methods for Effective Treatment and Prevention._ Toronto: John Wiley & Sons, Ltd.
-
-[^45]: Substance Abuse and Mental Health Services Administration. (2010). _MedTEAM: Building your program._ HHS Pub. No. SMA-10-4548. Rockville, MD: Author.
-
-[^46]: Substance Abuse and Mental Health Services Administration. (2010). _MedTEAM: Building your program._ HHS Pub. No. SMA-10-4548. Rockville, MD: Author.
-
-[^47]: Substance Abuse and Mental Health Services Administration. (2010). _MedTEAM: Evaluating your program._ HHS Pub. No. SMA-10-4548. Rockville, MD: Author.
-
-[^48]: Agency for Healthcare Research and Quality. (2012). _Interventions for adults with serious mental illness who are involved with the criminal justice system._ Research Protocol. U.S. Department of Health & Human Services. Retrieved from https://effectivehealthcare.ahrq.gov/topics/mental-illness-adults-prisons/research-protocol.; Daniel, A. E. (2006). Preventing suicide in prison: A collaborative responsibility of administrative, custodial, and clinical staff. _Journal of the American Academy of Psychiatry and the Law Online, 34_(2), 165-175.; Daniel, A. E. (2007). Care of the mentally ill in prisons: Challenges and solutions. _Journal of the American Academy of Psychiatry and the Law Online, 35_(4), 406-410.
-
-[^49]: Lurigio, A. J., Rollins, A., & Fallon, J. (2004). The effects of serious mental illness on offender reentry. _Federal Probation, 68_, 45.
-
-[^50]: Van Dorn, R. A., Desmarais, S. L., Petrila, J., Haynes, D., & Singh, J. P. (2013). Effects of outpatient treatment on risk of arrest of adults with serious mental illness and associated costs. _Psychiatric Services, 64_(9), 856-862.
-
-[^51]: Morrissey, J. P., Domino, M. E., & Cuddeback, G. S. (2016). Expedited Medicaid enrollment, mental health service use, and criminal recidivism among released prisoners with severe mental illness. _Psychiatric Services, 67_(8), 842-849.
-
-[^52]: Osher, F. C., & Steadman, H. J. (2007). Adapting evidence-based practices for persons with mental illness involved with the criminal justice system. _Psychiatric Services, 58_(11), 1472-1478.

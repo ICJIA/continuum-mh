@@ -1,5 +1,5 @@
 ---
-title: 'Reentry from Institutions—Jails, Prisons, and Forensic Hospitals'
+title: 'Reentry from Institutions: Jails, Prisons, and Forensic Hospitals'
 timelineTitle: 'Intercept 4'
 posted: 2019-04-23
 updated: 2019-04-23

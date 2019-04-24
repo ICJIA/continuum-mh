@@ -1,5 +1,5 @@
 ---
-title: 'Jail and Courts—Adult Mental Health Court'
+title: 'Jail and Courts: Adult Mental Health Court'
 timelineTitle: 'Intercept 3'
 posted: 2019-04-23
 updated: 2019-04-23
