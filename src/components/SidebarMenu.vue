@@ -14,15 +14,14 @@
         class="text-xs-center px-3"
         style="color: #fff; font-size: 18px; margin-top: 20px;margin-bottom: 20px; border-bottom: 1px solid #ccc; padding-bottom: 10px; "
       >
-        Reducing Substance Abuse Disorders and Related Offending: A Continuum of
-        Evidence-Informed Practices in the Criminal Justice System
+        {{ config.meta.title }}
       </h2>
 
       <div
         v-for="page in pages"
         :key="page.slug"
         class="mb-3 px-4 sidebar-item uppercase"
-        style="font-size: 18px; color: #fff"
+        style="font-size: 18px; color: #8c9eff"
       >
         <div
           v-scroll-to="`#${page.slug}`"
@@ -97,6 +96,6 @@ export default {
 <style>
 .sidebar-link:hover {
   cursor: pointer;
-  color: #8c9eff;
+  color: #fff;
 }
 </style>
