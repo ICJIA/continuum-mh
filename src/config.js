@@ -30,14 +30,14 @@ module.exports = {
   ],
 
   meta: {
-    url: "https://continuum-mh.netlify.com",
+    url: "https://mhcontinuum.icjia.cloud",
     title:
       "Mental Health Disorders and the Criminal Justice System: A Continuum of Evidence-Informed Practices",
     description:
       "In the United States, more than 20 million individuals have substance use disorders (SUDs)—not including individuals with more mild or moderate substance use and misuse. Of those with SUDs, just over 10 percent ultimately receive treatment. On average, costs incurred in the United States from alcohol and drug use due to lost work productivity, health care expenses, motor vehicle accidents, and criminal justice costs exceeds $400 billion. Almost half of the cost is at the taxpayers’ expense.",
 
     lastUpdate: "2019-04-23",
-    fb_Image: "https://continuum-mh.netlify.com/kevin-liu-482368-unsplash.jpg",
+    fb_Image: "https://mhcontinuum.icjia.cloud/kevin-liu-482368-unsplash.jpg",
     fb_AppId: "658596667606445",
     fb_Type: "article",
     fb_Locale: "en_US",
