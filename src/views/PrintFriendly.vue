@@ -66,6 +66,11 @@ export default {
       config
     };
   },
+  mounted() {
+    if (!process.env.NODE_ENV === "development") {
+      this.$ga.page("/print-friendly");
+    }
+  },
   methods: {
     sanitize(html) {
       let sanitized = html.replace(/<(\/?|!?)(summary|details)>/g, "");
