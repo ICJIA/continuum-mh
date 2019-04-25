@@ -67,9 +67,7 @@ export default {
     };
   },
   mounted() {
-    if (!process.env.NODE_ENV === "development") {
-      this.$ga.page("/print-friendly");
-    }
+    this.$ga.page("/print-friendly");
   },
   methods: {
     sanitize(html) {
