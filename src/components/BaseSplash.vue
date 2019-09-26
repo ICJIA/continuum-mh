@@ -2,7 +2,7 @@
   <div>
     <v-parallax
       dark
-      src="/kevin-liu-482368-unsplash.jpg"
+      :src="require('@/assets/img/kevin-liu-482368-unsplash.jpg')"
       v-if="
         $vuetify.breakpoint.md ||
           $vuetify.breakpoint.lg ||
